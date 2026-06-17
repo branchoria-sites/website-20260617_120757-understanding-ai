@@ -1,0 +1,833 @@
+sidebar_generated:
+- title: AI Sense
+  title_full: Understanding
+  url: /understanding/
+  children:
+  - title: AI Errors
+    title_full: Why AI Can Be Confidently Wrong
+    url: /ai-errors/
+    children:
+    - title: Avianca case
+      title_full: The court case that exposed fake AI law
+      url: /avianca-case/
+      children:
+      - title: Fake Cases
+        title_full: How Fake Legal Cases Looked Real
+        url: /fake-cases/
+      - title: Sanctions
+        title_full: What the Avianca Sanctions Changed for Lawyers
+        url: /sanctions/
+      - title: Self Check Trap
+        title_full: Why AI Cannot Verify Its Own Fake Cases
+        url: /self-check-trap/
+    - title: Benchmark gaps
+      title_full: What AI benchmarks miss about reliability
+      url: /benchmark-gaps/
+      children:
+      - title: I Don t
+        title_full: Should AI Get Credit for Uncertainty?
+        url: /i-don-t/
+      - title: Long Answers
+        title_full: Why Long AI Answers Fail Differently
+        url: /long-answers/
+      - title: Obscure Topics
+        title_full: Why Obscure Questions Make AI Guess
+        url: /obscure-topics/
+    - title: Fake citations
+      title_full: Why fake AI citations look so real
+      url: /fake-citations/
+      children:
+      - title: Fake Cases
+        title_full: When AI invents legal authority
+        url: /fake-cases-834b4d/
+      - title: Fake Sources
+        title_full: Why fake citations sound so real
+        url: /fake-sources/
+      - title: Verify Sources
+        title_full: How to spot an AI made citation
+        url: /verify-sources/
+    - title: Over compression
+      title_full: When a tidy AI answer hides the risk
+      url: /over-compression/
+      children:
+      - title: Medical Caveats
+        title_full: When Medical AI Summaries Miss the Exception
+        url: /medical-caveats/
+      - title: Science Claims
+        title_full: Why AI Makes Studies Sound More Certain
+        url: /science-claims/
+      - title: Tail Risk
+        title_full: The Financial Risks AI Summaries Smooth Over
+        url: /tail-risk/
+    - title: RAG errors
+      title_full: Why sourced AI answers can still mislead
+      url: /rag-errors/
+      children:
+      - title: Bad citations
+        title_full: When real citations prove the wrong thing
+        url: /bad-citations/
+      - title: Mismatch
+        title_full: When the right topic is the wrong evidence
+        url: /mismatch/
+      - title: OCR errors
+        title_full: Can AI trust a badly scanned document?
+        url: /ocr-errors/
+  - title: AI Outputs
+    title_full: What Counts as AI Today?
+    url: /ai-outputs/
+    children:
+    - title: AI Boundary
+      title_full: When software becomes AI and when it does not
+      url: /ai-boundary/
+      children:
+      - title: EU guidance
+        title_full: How regulators draw the AI line
+        url: /eu-guidance/
+      - title: Inference test
+        title_full: Why inference became the AI boundary
+        url: /inference-test/
+      - title: Rule tools
+        title_full: When automation is not really AI
+        url: /rule-tools/
+    - title: Decisions
+      title_full: When AI outputs become decisions
+      url: /decisions/
+      children:
+      - title: Decision engines
+        title_full: How AI scores become real world decisions
+        url: /decision-engines/
+      - title: Rubber stamping
+        title_full: When human oversight becomes a rubber stamp
+        url: /rubber-stamping/
+      - title: UK GDPR
+        title_full: What rights apply to automated AI decisions?
+        url: /uk-gdpr/
+    - title: Predictions
+      title_full: When an AI prediction changes what happens next
+      url: /predictions/
+      children:
+      - title: Appeals
+        title_full: Can people challenge AI influenced decisions?
+        url: /appeals/
+      - title: Error harms
+        title_full: What happens when an AI prediction is wrong?
+        url: /error-harms/
+      - title: Thresholds
+        title_full: When does an AI score start deciding?
+        url: /thresholds/
+    - title: Recommenders
+      title_full: How recommendations quietly steer attention
+      url: /recommenders/
+      children:
+      - title: Engagement Goals
+        title_full: Why Do Algorithms Favor What Grabs Attention?
+        url: /engagement-goals/
+      - title: Feedback Loops
+        title_full: How Popular Content Becomes Even More Popular
+        url: /feedback-loops/
+      - title: Ranking Power
+        title_full: Who Gets Seen When Rankings Control Attention?
+        url: /ranking-power/
+    - title: Search Ranking
+      title_full: Why search results are an AI output
+      url: /search-ranking/
+      children:
+      - title: DSA transparency
+        title_full: Should search rankings explain themselves?
+        url: /dsa-transparency/
+      - title: Position bias
+        title_full: Why the top search result feels right
+        url: /position-bias/
+      - title: Query intent
+        title_full: How one word can change the results
+        url: /query-intent/
+  - title: Business Adoption
+    title_full: Why AI Pilots Often Stall
+    url: /business-adoption/
+    children:
+    - title: Data Readiness
+      title_full: Is your business data ready for AI?
+      url: /data-readiness/
+      children:
+      - title: Retrieval Failures
+        title_full: Why AI search breaks after the pilot
+        url: /retrieval-failures/
+      - title: Source Truth
+        title_full: Who owns the truth AI uses?
+        url: /source-truth/
+      - title: Stale Docs
+        title_full: When AI trusts the wrong document
+        url: /stale-docs/
+    - title: Human Checks
+      title_full: When should humans check AI outputs?
+      url: /human-checks/
+      children:
+      - title: Audit Trails
+        title_full: Can AI Overrides Be Traced Later?
+        url: /audit-trails/
+      - title: Automation Bias
+        title_full: Why Humans Over Trust AI Recommendations
+        url: /automation-bias/
+      - title: Review Triggers
+        title_full: Which AI Decisions Need Human Review?
+        url: /review-triggers/
+    - title: Pilot ROI
+      title_full: Why AI pilots stall before ROI
+      url: /pilot-roi/
+      children:
+      - title: Integration Costs
+        title_full: The hidden costs after the AI demo
+        url: /integration-costs/
+      - title: ROI Metrics
+        title_full: Which AI metrics actually prove value?
+        url: /roi-metrics/
+      - title: Workflow ROI
+        title_full: Why AI ROI needs workflow redesign
+        url: /workflow-roi/
+    - title: Service AI
+      title_full: Why chatbots are not the whole workflow
+      url: /service-ai/
+      children:
+      - title: Agent assist
+        title_full: Who benefits most from AI agent support?
+        url: /agent-assist/
+      - title: AI handoffs
+        title_full: Why AI handoffs often make or break support
+        url: /ai-handoffs/
+      - title: Learning loop
+        title_full: Can every support ticket teach the AI?
+        url: /learning-loop/
+    - title: Shadow AI
+      title_full: What happens when workers bring their own AI?
+      url: /shadow-ai/
+      children:
+      - title: Data Leaks
+        title_full: What Happens When Staff Paste Secrets Into AI?
+        url: /data-leaks/
+      - title: Failed Bans
+        title_full: Why Banning AI Can Backfire at Work
+        url: /failed-bans/
+      - title: Hidden Workflows
+        title_full: When Invisible AI Starts Making Business Decisions
+        url: /hidden-workflows/
+  - title: Deep Learning
+    title_full: Why Layers Changed AI
+    url: /deep-learning/
+    children:
+    - title: Alex Net
+      title_full: Why did Alex Net change AI history?
+      url: /alex-net/
+      children:
+      - title: Feature Shift
+        title_full: Did Learning Features Beat Designing Them by Hand?
+        url: /feature-shift/
+      - title: GPU Training
+        title_full: When Did Deep Learning Become Fast Enough to Work?
+        url: /gpu-training/
+      - title: Image Net Impact
+        title_full: Why Did One Benchmark Result Change So Many Minds?
+        url: /image-net-impact/
+    - title: Attention
+      title_full: What makes attention layers different?
+      url: /attention/
+      children:
+      - title: Foundation scale
+        title_full: How did attention lead to foundation models?
+        url: /foundation-scale/
+      - title: Multi heads
+        title_full: Why does attention need more than one head?
+        url: /multi-heads/
+      - title: Still deep
+        title_full: Did transformers really replace deep learning?
+        url: /still-deep/
+    - title: Image layers
+      title_full: How do image layers learn to see?
+      url: /image-layers/
+      children:
+      - title: Edges
+        title_full: Why do AI vision models learn edges first?
+        url: /edges/
+      - title: Object parts
+        title_full: How do parts become object recognition?
+        url: /object-parts/
+      - title: Visualisation limits
+        title_full: Can we trust pictures of AI neurons?
+        url: /visualisation-limits/
+    - title: Skip links
+      title_full: Why do deep networks need shortcuts?
+      url: /skip-links/
+      children:
+      - title: Gradient flow
+        title_full: Why gradients survive in residual networks
+        url: /gradient-flow/
+      - title: Identity mapping
+        title_full: Why deeper layers should learn to do nothing
+        url: /identity-mapping/
+      - title: Res Net depth
+        title_full: How Res Net made very deep AI practical
+        url: /res-net-depth/
+    - title: Speech cues
+      title_full: How do speech models hear through noise?
+      url: /speech-cues/
+      children:
+      - title: Deep Layers
+        title_full: How Deep Layers Learn What Matters
+        url: /deep-layers/
+      - title: Failure Modes
+        title_full: Why Robust Speech Systems Still Break Down
+        url: /failure-modes/
+      - title: Multi condition
+        title_full: Why Hearing More Noise Can Improve Accuracy
+        url: /multi-condition/
+  - title: Generative AI
+    title_full: Why Generative AI Feels Different
+    url: /generative-ai/
+    children:
+    - title: AI Drafts
+      title_full: Why AI Now Feels Like a Co Writer
+      url: /ai-drafts/
+      children:
+      - title: Editing Role
+        title_full: Why AI Turns Users Into Editors
+        url: /editing-role/
+      - title: Fluent Errors
+        title_full: Why Polished AI Answers Can Mislead
+        url: /fluent-errors-44c97c/
+      - title: Success Measures
+        title_full: How Do You Judge a Useful AI Draft?
+        url: /success-measures/
+    - title: Code Assistants
+      title_full: Do AI Coding Tools Make Better Programmers?
+      url: /code-assistants/
+      children:
+      - title: Learning cost
+        title_full: When AI code help becomes a crutch
+        url: /learning-cost/
+      - title: Review risk
+        title_full: Can you trust code you did not write?
+        url: /review-risk/
+      - title: Speed vs depth
+        title_full: Does faster coding mean better programming?
+        url: /speed-vs-depth/
+    - title: Hallucinations
+      title_full: When Fluent AI Answers Are Wrong
+      url: /hallucinations/
+      children:
+      - title: Checklists
+        title_full: How to check AI answers before trusting them
+        url: /checklists/
+      - title: Fake citations
+        title_full: When AI invents sources that look real
+        url: /fake-citations-c5bfea/
+      - title: Unsafe code
+        title_full: When working AI code is not safe code
+        url: /unsafe-code/
+    - title: Prompt Loops
+      title_full: How Prompts Became a Creative Interface
+      url: /prompt-loops/
+      children:
+      - title: Human review
+        title_full: Why AI drafts still need a human editor
+        url: /human-review-ed03c0/
+      - title: Image prompts
+        title_full: How people steer AI images one prompt at a time
+        url: /image-prompts/
+      - title: Revision prompts
+        title_full: Why better prompts usually come after the first draft
+        url: /revision-prompts/
+    - title: Synthetic Media
+      title_full: Can AI Images Be Trusted?
+      url: /synthetic-media/
+      children:
+      - title: Liar s Dividend
+        title_full: When Real Images Become Easier to Deny
+        url: /liar-s-dividend/
+      - title: Political Video
+        title_full: Why Political Deepfakes Travel So Fast
+        url: /political-video/
+      - title: Provenance
+        title_full: Can Content Credentials Restore Trust in Images?
+        url: /provenance/
+  - title: Language Models
+    title_full: Why Chatbots Sound So Fluent
+    url: /language-models/
+    children:
+    - title: Few shot prompts
+      title_full: When examples act like temporary instructions
+      url: /few-shot-prompts/
+      children:
+      - title: Better Examples
+        title_full: How to pick examples that actually help
+        url: /better-examples/
+      - title: Example Order
+        title_full: Why example order can change AI answers
+        url: /example-order/
+      - title: Output Drift
+        title_full: When few shot prompts start to drift
+        url: /output-drift/
+    - title: Fluent errors
+      title_full: Why confident answers are not always grounded
+      url: /fluent-errors/
+      children:
+      - title: Fake Citations
+        title_full: When AI citations look real but are not
+        url: /fake-citations-d81942/
+      - title: Guessing
+        title_full: Why AI guesses instead of admitting uncertainty
+        url: /guessing/
+      - title: Verify Answers
+        title_full: How to check polished AI answers safely
+        url: /verify-answers/
+    - title: Generation loop
+      title_full: How one token becomes a whole answer
+      url: /generation-loop/
+      children:
+      - title: Decoding
+        title_full: Why the same prompt gets different answers
+        url: /decoding/
+      - title: Speed
+        title_full: Why longer AI answers slow down
+        url: /speed/
+      - title: Wrong Answers
+        title_full: How fluent AI answers go wrong
+        url: /wrong-answers/
+    - title: Tokenization
+      title_full: Why chatbots do not really read words
+      url: /tokenization/
+      children:
+      - title: Language Bias
+        title_full: Do tokens make some languages harder for AI?
+        url: /language-bias/
+      - title: Token Costs
+        title_full: Why short text can use too many tokens
+        url: /token-costs/
+      - title: Token Splits
+        title_full: Why one split can change an AI answer
+        url: /token-splits/
+    - title: Transformer shift
+      title_full: Why attention made prediction scale
+      url: /transformer-shift/
+      children:
+      - title: Direct Context
+        title_full: Why Transformers remember context differently
+        url: /direct-context/
+      - title: From Translation
+        title_full: Why a translation model powered chatbots
+        url: /from-translation/
+      - title: Parallel Scale
+        title_full: How parallel training unlocked bigger models
+        url: /parallel-scale-655cb3/
+  - title: Machine Learning
+    title_full: How Machines Learn From Examples
+    url: /machine-learning/
+    children:
+    - title: Biased data
+      title_full: When learned patterns become unfair
+      url: /biased-data/
+      children:
+      - title: Biased labels
+        title_full: When old decisions become AI training data
+        url: /biased-labels/
+      - title: Face bias
+        title_full: Why facial recognition errors are not evenly shared
+        url: /face-bias-ea869a/
+      - title: Fairness metrics
+        title_full: Why AI fairness cannot be one score
+        url: /fairness-metrics/
+    - title: Loss functions
+      title_full: How mistakes become a training signal
+      url: /loss-functions/
+      children:
+      - title: Big Errors
+        title_full: Why some AI mistakes count much more
+        url: /big-errors/
+      - title: Click Traps
+        title_full: When lower loss makes worse recommendations
+        url: /click-traps/
+      - title: Confidence
+        title_full: Why confident wrong answers hurt more
+        url: /confidence/
+    - title: Overfitting
+      title_full: When a model memorises instead of learning
+      url: /overfitting/
+      children:
+      - title: Hidden memorisation
+        title_full: When high accuracy is the warning sign
+        url: /hidden-memorisation/
+      - title: Stop training
+        title_full: The curve that says stop training
+        url: /stop-training/
+      - title: Test sets
+        title_full: The new examples that reveal overfitting
+        url: /test-sets/
+    - title: Spam filters
+      title_full: Why spam filters do not need perfect rules
+      url: /spam-filters/
+      children:
+      - title: Bayesian Filters
+        title_full: How spam filters add up small clues
+        url: /bayesian-filters/
+      - title: False Positives
+        title_full: When spam rules punish real emails
+        url: /false-positives/
+      - title: User Feedback
+        title_full: Why your spam clicks help the filter learn
+        url: /user-feedback/
+    - title: Training data
+      title_full: Why the data teaches the model
+      url: /training-data/
+      children:
+      - title: Accents
+        title_full: Why some voices confuse AI systems
+        url: /accents/
+      - title: Rare cases
+        title_full: Why AI misses rare but important cases
+        url: /rare-cases/
+      - title: Shortcuts
+        title_full: When AI learns the wrong shortcut
+        url: /shortcuts/
+  - title: Narrow vs AGI
+    title_full: Is Today’s AI Actually General?
+    url: /narrow-vs-agi/
+    children:
+    - title: Benchmark limits
+      title_full: Do benchmark wins prove intelligence?
+      url: /benchmark-limits/
+      children:
+      - title: ARC debate
+        title_full: Can puzzle solving prove general intelligence?
+        url: /arc-debate/
+      - title: Contamination
+        title_full: Did the model learn or remember?
+        url: /contamination/
+      - title: Public scores
+        title_full: When a high benchmark score misleads
+        url: /public-scores/
+    - title: Chatbox illusion
+      title_full: Why chatbots feel smarter than tools
+      url: /chatbox-illusion/
+      children:
+      - title: Fluent Reasons
+        title_full: When explanations sound more thoughtful than they are
+        url: /fluent-reasons/
+      - title: Reliability Limits
+        title_full: Why confidence can hide weak AI answers
+        url: /reliability-limits/
+      - title: Task Switching
+        title_full: Why one chat feels like one mind
+        url: /task-switching/
+    - title: ELIZA effect
+      title_full: Why sounding human is not enough
+      url: /eliza-effect/
+      children:
+      - title: ELIZA effect
+        title_full: Why chatbots can feel more caring than they are
+        url: /eliza-effect-f3a94b/
+      - title: Overtrust
+        title_full: When friendly chatbot replies become too persuasive
+        url: /overtrust/
+      - title: Turing limits
+        title_full: What does fooling a human really prove?
+        url: /turing-limits/
+    - title: Forecasting gap
+      title_full: Can chatbots predict the unknown?
+      url: /forecasting-gap/
+      children:
+      - title: Aggregation
+        title_full: Why crowds and ensembles forecast better
+        url: /aggregation/
+      - title: Benchmarks
+        title_full: Can future questions expose real AI skill?
+        url: /benchmarks/
+      - title: Overconfidence
+        title_full: Why one chatbot forecast is not enough
+        url: /overconfidence/
+    - title: Risk rules
+      title_full: Narrow AI can still be high risk
+      url: /risk-rules/
+      children:
+      - title: EU AI Act
+        title_full: Why narrow AI can be high risk
+        url: /eu-ai-act/
+      - title: Hiring AI
+        title_full: Why hiring AI gets stricter rules
+        url: /hiring-ai/
+      - title: Oversight
+        title_full: When human oversight actually matters
+        url: /oversight/
+  - title: Responsible AI
+    title_full: Who Is Responsible When AI Fails?
+    url: /responsible-ai/
+    children:
+    - title: Face Matches
+      title_full: Why a face match is not proof
+      url: /face-matches/
+      children:
+      - title: Disclosure
+        title_full: What Happens When Face Searches Stay Hidden
+        url: /disclosure/
+      - title: NIST findings
+        title_full: Why False Matches Do Not Fall Evenly
+        url: /nist-findings/
+      - title: Williams case
+        title_full: When a Face Match Becomes an Arrest
+        url: /williams-case/
+    - title: Health Proxy
+      title_full: When spending is mistaken for medical need
+      url: /health-proxy/
+      children:
+      - title: Better Target
+        title_full: The simple target change that reduced bias
+        url: /better-target/
+      - title: Cost Proxy
+        title_full: Why costs can misread medical need
+        url: /cost-proxy/
+      - title: Equal Scores
+        title_full: When equal risk scores hide unequal illness
+        url: /equal-scores/
+    - title: Hiring Bias
+      title_full: Can hiring AI learn the wrong lesson?
+      url: /hiring-bias/
+      children:
+      - title: Amazon case
+        title_full: What Amazon's hiring AI got wrong
+        url: /amazon-case/
+      - title: Impact tests
+        title_full: Why accurate hiring AI can still be unfair
+        url: /impact-tests/
+      - title: Proxy bias
+        title_full: When neutral data quietly reveals identity
+        url: /proxy-bias/
+    - title: Human Review
+      title_full: When human oversight becomes rubber stamping
+      url: /human-review/
+      children:
+      - title: Appeals
+        title_full: What Appeals Reveal About AI Oversight
+        url: /appeals-519c03/
+      - title: Evidence Access
+        title_full: Why a Score Is Not Enough
+        url: /evidence-access/
+      - title: Override Power
+        title_full: Can the Human Really Say No?
+        url: /override-power/
+    - title: Risk Standards
+      title_full: How standards make AI accountability repeatable
+      url: /risk-standards/
+      children:
+      - title: Bias testing
+        title_full: What Counts as Evidence That AI Is Fair?
+        url: /bias-testing/
+      - title: High impact AI
+        title_full: Which AI Systems Need the Strongest Safeguards?
+        url: /high-impact-ai/
+      - title: Management systems
+        title_full: Why AI Governance Cannot Stop at Launch
+        url: /management-systems/
+  - title: Training Choices
+    title_full: What AI Learns Depends on Its Goals
+    url: /training-choices/
+    children:
+    - title: Face Bias
+      title_full: When face AI fails some people first
+      url: /face-bias/
+      children:
+      - title: Gender Shades
+        title_full: The Study That Changed Face AI Testing
+        url: /gender-shades/
+      - title: Hidden Errors
+        title_full: How High Accuracy Hid Unequal AI Errors
+        url: /hidden-errors/
+      - title: Skewed Tests
+        title_full: When Benchmarks Decide Who Counts
+        url: /skewed-tests/
+    - title: Model Cards
+      title_full: What AI labels should tell US before launch
+      url: /model-cards/
+      children:
+      - title: Data fit
+        title_full: Does the training data fit real users?
+        url: /data-fit/
+      - title: Model limits
+        title_full: Where should a model not be used?
+        url: /model-limits/
+      - title: Paper safety
+        title_full: Why AI paperwork is not enough
+        url: /paper-safety/
+    - title: Reward Hacking
+      title_full: When AI wins the score and loses the task
+      url: /reward-hacking/
+      children:
+      - title: Length bias
+        title_full: Why longer AI answers can fool evaluators
+        url: /length-bias/
+      - title: Stress tests
+        title_full: Can tests catch AI gaming the scoreboard?
+        url: /stress-tests/
+      - title: Sycophancy
+        title_full: When AI agrees instead of telling the truth
+        url: /sycophancy-d7a02c/
+    - title: Sycophancy
+      title_full: Why AI sometimes tells you what you want
+      url: /sycophancy/
+      children:
+      - title: Agreement bias
+        title_full: When friendliness beats factual correction
+        url: /agreement-bias/
+      - title: Anthropic tests
+        title_full: Do models change answers to agree?
+        url: /anthropic-tests/
+      - title: GPT 4 o case
+        title_full: What went wrong with GPT 4 o flattery
+        url: /gpt-4-o-case/
+    - title: Web Filters
+      title_full: Can cleaning data make AI less fair?
+      url: /web-filters/
+      children:
+      - title: Block lists
+        title_full: When safety filters erase real communities
+        url: /block-lists/
+      - title: C4 audit
+        title_full: The dataset audit that found missing voices
+        url: /c4-audit/
+      - title: Fairness tradeoff
+        title_full: Can cleaner data make AI less fair?
+        url: /fairness-tradeoff/
+  - title: Transformers
+    title_full: The Architecture Behind Modern AI
+    url: /transformers/
+    children:
+    - title: Attention maps
+      title_full: Can attention maps really explain AI?
+      url: /attention-maps/
+      children:
+      - title: Attention Flow
+        title_full: Why Following Attention Across Layers Changes the Story
+        url: /attention-flow/
+      - title: Same Answer
+        title_full: Can Two Very Different Attention Maps Mean the Same Thing?
+        url: /same-answer/
+      - title: Verify Explanations
+        title_full: How Can You Check If an Attention Explanation Is Real?
+        url: /verify-explanations/
+    - title: Beyond text
+      title_full: Why did attention work beyond language?
+      url: /beyond-text/
+      children:
+      - title: Alpha Fold 2
+        title_full: Why protein folding needed smarter attention
+        url: /alpha-fold-2/
+      - title: Image patches
+        title_full: How Transformers learned to see in patches
+        url: /image-patches/
+      - title: Protein models
+        title_full: Can proteins be read like a language?
+        url: /protein-models/
+    - title: GPT generators
+      title_full: Why can next token models do so much?
+      url: /gpt-generators/
+      children:
+      - title: Fluency vs Accuracy
+        title_full: Why Convincing AI Responses Still Make Mistakes
+        url: /fluency-vs-accuracy/
+      - title: GPT 3 Shift
+        title_full: Why GPT 3 Changed How People Used AI
+        url: /gpt-3-shift/
+      - title: In Context Learning
+        title_full: How Can a Model Learn During a Prompt?
+        url: /in-context-learning/
+    - title: Parallel scale
+      title_full: Why did Transformers scale so well?
+      url: /parallel-scale/
+      children:
+      - title: 2017 Proof
+        title_full: The paper that made scaling look practical
+        url: /2017-proof/
+      - title: Long context cost
+        title_full: Why faster training still hit a length limit
+        url: /long-context-cost/
+      - title: Parallel attention
+        title_full: Why attention could train all tokens at once
+        url: /parallel-attention/
+    - title: Self attention
+      title_full: How does attention find the right context?
+      url: /self-attention/
+      children:
+      - title: Attention Maps
+        title_full: Why Attention Maps Can Mislead
+        url: /attention-maps-e039cc/
+      - title: Pronouns
+        title_full: Why Pronouns Test Long Range Attention
+        url: /pronouns/
+      - title: Word Context
+        title_full: How Attention Resolves Ambiguous Words
+        url: /word-context/
+  - title: Use Cases
+    title_full: Where AI Actually Helps
+    url: /use-cases/
+    children:
+    - title: AI Search
+      title_full: Can AI Search Summaries Be Trusted?
+      url: /ai-search/
+      children:
+      - title: AI Synthesis
+        title_full: Why Source Checking Gets Harder With AI Answers
+        url: /ai-synthesis/
+      - title: Liability Cases
+        title_full: Who Is Responsible When AI Search Gets It Wrong?
+        url: /liability-cases/
+      - title: Unsupported Claims
+        title_full: When a Citation Does Not Back the Claim
+        url: /unsupported-claims/
+    - title: Code Review
+      title_full: When AI Coding Help Slows You Down
+      url: /code-review/
+      children:
+      - title: Expert Slowdowns
+        title_full: Why Can AI Make Expert Developers Slower?
+        url: /expert-slowdowns/
+      - title: Review Safeguards
+        title_full: What Makes AI Generated Code Easier to Trust?
+        url: /review-safeguards/
+      - title: Verification Cost
+        title_full: When Reviewing Code Costs More Than Writing It
+        url: /verification-cost/
+    - title: Fraud Flags
+      title_full: Why Fraud AI Still Needs Appeals
+      url: /fraud-flags/
+      children:
+      - title: Appeals
+        title_full: What a fair payment appeal needs
+        url: /appeals-161a0b/
+      - title: Error metrics
+        title_full: The missing scorecard for fraud AI
+        url: /error-metrics/
+      - title: False declines
+        title_full: Why real payments sometimes look like fraud
+        url: /false-declines/
+    - title: Routes
+      title_full: Should You Always Follow the Map?
+      url: /routes/
+      children:
+      - title: Legal Priority
+        title_full: Why Road Signs Matter More Than Your App
+        url: /legal-priority/
+      - title: Road Hazards
+        title_full: When Should You Ignore a Suggested Route?
+        url: /road-hazards/
+      - title: Traffic AI
+        title_full: How Does a Navigation App Predict Traffic Ahead?
+        url: /traffic-ai/
+    - title: Translation
+      title_full: When Is AI Translation Good Enough?
+      url: /translation/
+      children:
+      - title: Context Failures
+        title_full: Why Correct Translations Can Still Mean the Wrong Thing
+        url: /context-failures/
+      - title: Legal Risks
+        title_full: When One Translated Word Can Change a Contract
+        url: /legal-risks/
+      - title: Medical Accuracy
+        title_full: How Safe Is AI Translation in Healthcare?
+        url: /medical-accuracy/

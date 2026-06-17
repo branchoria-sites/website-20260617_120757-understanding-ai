@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-17T11:01:55.635132Z",
+  "summary": {
+    "total_pages_with_permalink": 326,
+    "visible_pages": 253,
+    "hidden_pages": 73,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1824,
+    "inline_internal_target_page_count": 253,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 253,
+    "average_inline_inbound_links_per_visible_page": 7.21,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "understanding_3f90b8",
+        "title": "Understanding",
+        "permalink": "/understanding/",
+        "inline_inbound_count": 125
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_automated_dec_4de325",
+        "title": "Decisions",
+        "permalink": "/decisions/",
+        "inline_inbound_count": 102
+      },
+      {
+        "basename": "understanding_3f90b8_large_languag_0eaecc",
+        "title": "Language Models",
+        "permalink": "/language-models/",
+        "inline_inbound_count": 81
+      },
+      {
+        "basename": "understanding_3f90b8_deep_learning_f76913_attention_lay_1d0c34",
+        "title": "Attention",
+        "permalink": "/attention/",
+        "inline_inbound_count": 78
+      },
+      {
+        "basename": "understanding_3f90b8_machine_learn_d2d913_loss_function_b59239_confidence_wr_080ad1",
+        "title": "Confidence",
+        "permalink": "/confidence/",
+        "inline_inbound_count": 61
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a_prediction_er_458da2",
+        "title": "Error harms",
+        "permalink": "/error-harms/",
+        "inline_inbound_count": 57
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a",
+        "title": "Predictions",
+        "permalink": "/predictions/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "understanding_3f90b8_machine_learn_d2d913",
+        "title": "Machine Learning",
+        "permalink": "/machine-learning/",
+        "inline_inbound_count": 51
+      },
+      {
+        "basename": "understanding_3f90b8_responsible_a_43d3ec_meaningful_hu_790c10",
+        "title": "Human Review",
+        "permalink": "/human-review/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_coding_rev_b6348a_verification_497465",
+        "title": "Verification Cost",
+        "permalink": "/verification-cost/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "understanding_3f90b8_generative_ai_4b0679",
+        "title": "Generative AI",
+        "permalink": "/generative-ai/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194_future_event_b9cbf0",
+        "title": "Benchmarks",
+        "permalink": "/benchmarks/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "understanding_3f90b8_responsible_a_43d3ec",
+        "title": "Responsible AI",
+        "permalink": "/responsible-ai/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c_documentation_df8be8",
+        "title": "Paper safety",
+        "permalink": "/paper-safety/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "understanding_3f90b8_narrow_ai_agi_affd1f_risk_based_na_64dcaf_human_oversig_f047d4",
+        "title": "Oversight",
+        "permalink": "/oversight/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "understanding_3f90b8_business_ai_a_ecaea3",
+        "title": "Business Adoption",
+        "permalink": "/business-adoption/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9_long_replies_b4868f",
+        "title": "Speed",
+        "permalink": "/speed/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63",
+        "title": "Health Proxy",
+        "permalink": "/health-proxy/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623_automation_bi_9b94f7",
+        "title": "Automation Bias",
+        "permalink": "/automation-bias/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743_checking_ai_a_f0aa32",
+        "title": "Checklists",
+        "permalink": "/checklists/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "understanding_3f90b8_transformers_53d0af_self_attentio_88481a",
+        "title": "Self attention",
+        "permalink": "/self-attention/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_validation_cu_04f077",
+        "title": "Stop training",
+        "permalink": "/stop-training/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743",
+        "title": "Hallucinations",
+        "permalink": "/hallucinations/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a_risk_score_th_d9070f",
+        "title": "Thresholds",
+        "permalink": "/thresholds/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_search_sou_1cb643_unsupported_c_af340d",
+        "title": "Unsupported Claims",
+        "permalink": "/unsupported-claims/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "understanding_3f90b8_deep_learning_f76913",
+        "title": "Deep Learning",
+        "permalink": "/deep-learning/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_retrieval_mis_2b70c8",
+        "title": "Mismatch",
+        "permalink": "/mismatch/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe",
+        "title": "AI Outputs",
+        "permalink": "/ai-outputs/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_ai_ordinary_s_f02b58_inference_ai_b3e922",
+        "title": "Inference test",
+        "permalink": "/inference-test/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "understanding_3f90b8_transformers_53d0af_gpt_style_gen_d4250f_fluency_vs_ac_c06609",
+        "title": "Fluency vs Accuracy",
+        "permalink": "/fluency-vs-accuracy/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "understanding_3f90b8_transformers_53d0af_gpt_style_gen_d4250f_in_context_le_d8e3d1",
+        "title": "In Context Learning",
+        "permalink": "/in-context-learning/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "understanding_3f90b8_everyday_ai_u_c3e17f_navigation_ai_ecb169",
+        "title": "Routes",
+        "permalink": "/routes/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_recommendatio_bfae0c_engagement_at_f01d57",
+        "title": "Engagement Goals",
+        "permalink": "/engagement-goals/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258_production_re_2401bf",
+        "title": "Retrieval Failures",
+        "permalink": "/retrieval-failures/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_recommendatio_bfae0c_popularity_fe_3c1257",
+        "title": "Feedback Loops",
+        "permalink": "/feedback-loops/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "understanding_3f90b8_generative_ai_4b0679_synthetic_med_097857",
+        "title": "Synthetic Media",
+        "permalink": "/synthetic-media/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd_spurious_corr_cc96c6",
+        "title": "Shortcuts",
+        "permalink": "/shortcuts/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45",
+        "title": "Benchmark gaps",
+        "permalink": "/benchmark-gaps/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a",
+        "title": "RAG errors",
+        "permalink": "/rag-errors/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "understanding_3f90b8_ai_system_out_b025fe_search_rankin_9f0394",
+        "title": "Search Ranking",
+        "permalink": "/search-ranking/",
+        "inline_inbound_count": 10
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_transformers_53d0af_attention_wei_a5325a",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_transformers_53d0af_gpt_style_gen_d4250f",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_transformers_53d0af_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_transformers_53d0af_parallel_tran_b1bb48",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_transformers_53d0af_self_attentio_88481a",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8_transformers_53d0af_transformers_81b5da",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_transformers_53d0af",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_ai_hallucinat_237932_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_hallucinat_237932",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_ai_system_out_b025fe_ai_ordinary_s_f02b58",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_ai_system_out_b025fe_automated_dec_4de325",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_ai_system_out_b025fe_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_ai_system_out_b025fe_recommendatio_bfae0c",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8_ai_system_out_b025fe_search_rankin_9f0394",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_ai_system_out_b025fe",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_business_ai_a_ecaea3",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_deep_learning_f76913_attention_lay_1d0c34",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_deep_learning_f76913_image_layers_fa8f85",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_deep_learning_f76913_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8_deep_learning_f76913_speech_networ_6327a0",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_deep_learning_f76913",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_coding_rev_b6348a",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_search_sou_1cb643",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_translatio_359f9d",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f_fraud_ai_paym_5f6a50",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f_navigation_ai_ecb169",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_generative_ai_4b0679_ai_drafts_vs_2d1488",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_generative_ai_4b0679_coding_assist_0cdc40",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_generative_ai_4b0679_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8_generative_ai_4b0679_synthetic_med_097857",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_generative_ai_4b0679",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_large_languag_0eaecc_few_shot_prom_45dc0d",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_large_languag_0eaecc_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_large_languag_0eaecc",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_machine_learn_d2d913_index",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_machine_learn_d2d913_loss_function_b59239",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_machine_learn_d2d913_spam_filters_ebbaa7",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_machine_learn_d2d913",
+        "to": "understanding_3f90b8",
+        "type": "ancestor"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8",
+        "type": "parent"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_ai_hallucinat_237932",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_ai_system_out_b025fe",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_business_ai_a_ecaea3",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_deep_learning_f76913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_everyday_ai_u_c3e17f",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_generative_ai_4b0679",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_large_languag_0eaecc",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_machine_learn_d2d913",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_responsible_a_43d3ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_training_data_1437ec",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_transformers_53d0af",
+        "type": "sibling"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f_chatbox_gener_1aa743",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f_eliza_turing_f9a7e7",
+        "type": "child"
+      },
+      {
+        "from": "understanding_3f90b8_narrow_ai_agi_affd1f",
+        "to": "understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194",
+        "type": "child"
+      }
+    ]
+  }
+}

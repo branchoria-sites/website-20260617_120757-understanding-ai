@@ -1,0 +1,3959 @@
+{
+  "version": 1,
+  "page_count": 251,
+  "total_page_seconds": 56605.9417,
+  "average_page_seconds": 225.5217,
+  "phase_totals_seconds": {
+    "preparation": 56009.2993,
+    "youtube": 228.5885,
+    "media_svg": 149.978,
+    "content_assembly": 134.2271,
+    "monetization": 71.9078,
+    "quality_write": 11.9417
+  },
+  "slowest_pages": [
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679",
+      "level": 2,
+      "outcome": "error",
+      "total_seconds": 556.2999,
+      "phases": {
+        "preparation": 554.0358,
+        "media_svg": 0.0985,
+        "youtube": 1.6048,
+        "content_assembly": 0.5608
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 538.4862,
+      "phases": {
+        "preparation": 535.7981,
+        "media_svg": 0.1274,
+        "youtube": 0.8123,
+        "content_assembly": 0.5739,
+        "monetization": 1.12,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 532.2758,
+      "phases": {
+        "preparation": 514.4387,
+        "media_svg": 0.1392,
+        "youtube": 15.5527,
+        "content_assembly": 0.7943,
+        "monetization": 1.2951,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 503.6842,
+      "phases": {
+        "preparation": 501.5269,
+        "media_svg": 0.1088,
+        "youtube": 1.184,
+        "content_assembly": 0.6428,
+        "monetization": 0.174,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 486.5679,
+      "phases": {
+        "preparation": 485.6941,
+        "media_svg": 0.0938,
+        "youtube": 0.0166,
+        "content_assembly": 0.5606,
+        "monetization": 0.1408,
+        "quality_write": 0.062
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 413.2461,
+      "phases": {
+        "preparation": 411.0323,
+        "media_svg": 0.1347,
+        "youtube": 1.2157,
+        "content_assembly": 0.6638,
+        "monetization": 0.1399,
+        "quality_write": 0.0597
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9_revision_prom_00efb4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 408.2926,
+      "phases": {
+        "preparation": 405.8772,
+        "media_svg": 0.3608,
+        "youtube": 1.3442,
+        "content_assembly": 0.6129,
+        "monetization": 0.0546,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 393.8057,
+      "phases": {
+        "preparation": 392.9936,
+        "media_svg": 0.1145,
+        "youtube": 0.0162,
+        "content_assembly": 0.5178,
+        "monetization": 0.0994,
+        "quality_write": 0.0641
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 393.5979,
+      "phases": {
+        "preparation": 391.7646,
+        "media_svg": 0.3715,
+        "youtube": 0.6897,
+        "content_assembly": 0.5891,
+        "monetization": 0.1093,
+        "quality_write": 0.0737
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_business_ai_m_1185a2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 389.1281,
+      "phases": {
+        "preparation": 386.8494,
+        "media_svg": 0.8415,
+        "youtube": 0.6942,
+        "content_assembly": 0.5822,
+        "monetization": 0.0876,
+        "quality_write": 0.0732
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9_image_prompt_6b281d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 379.3605,
+      "phases": {
+        "preparation": 375.3285,
+        "media_svg": 0.3543,
+        "youtube": 1.1548,
+        "content_assembly": 0.5518,
+        "monetization": 1.9198,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_attention_lay_1d0c34_transformers_3e568a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 358.4545,
+      "phases": {
+        "preparation": 356.2032,
+        "media_svg": 0.4118,
+        "youtube": 1.0784,
+        "content_assembly": 0.6575,
+        "monetization": 0.0531,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 358.1172,
+      "phases": {
+        "preparation": 356.2125,
+        "media_svg": 0.1054,
+        "youtube": 1.0285,
+        "content_assembly": 0.6007,
+        "monetization": 0.1021,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 338.7827,
+      "phases": {
+        "preparation": 336.0549,
+        "media_svg": 0.3622,
+        "youtube": 0.9405,
+        "content_assembly": 0.589,
+        "monetization": 0.7721,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_coding_rev_b6348a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 331.7574,
+      "phases": {
+        "preparation": 329.5348,
+        "media_svg": 0.4202,
+        "youtube": 1.0732,
+        "content_assembly": 0.5461,
+        "monetization": 0.1037,
+        "quality_write": 0.0795
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_loss_function_b59239_confidence_wr_080ad1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 331.1395,
+      "phases": {
+        "preparation": 328.0302,
+        "media_svg": 1.0569,
+        "youtube": 1.1054,
+        "content_assembly": 0.7559,
+        "monetization": 0.1251,
+        "quality_write": 0.0661
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_fraud_ai_paym_5f6a50_blocked_payme_b51bc2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 324.3985,
+      "phases": {
+        "preparation": 322.5663,
+        "media_svg": 0.3635,
+        "youtube": 0.7436,
+        "content_assembly": 0.5662,
+        "monetization": 0.0971,
+        "quality_write": 0.0618
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 323.2973,
+      "phases": {
+        "preparation": 319.9821,
+        "media_svg": 0.0756,
+        "youtube": 2.4533,
+        "content_assembly": 0.619,
+        "monetization": 0.1007,
+        "quality_write": 0.0666
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 316.2432,
+      "phases": {
+        "preparation": 314.5335,
+        "media_svg": 0.3705,
+        "youtube": 0.6821,
+        "content_assembly": 0.5473,
+        "monetization": 0.0543,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_few_shot_prom_45dc0d_choosing_few_5f591a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 314.0634,
+      "phases": {
+        "preparation": 311.3052,
+        "media_svg": 0.8115,
+        "youtube": 1.2213,
+        "content_assembly": 0.5619,
+        "monetization": 0.1002,
+        "quality_write": 0.0633
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 532.2758,
+      "phases": {
+        "preparation": 514.4387,
+        "media_svg": 0.1392,
+        "youtube": 15.5527,
+        "content_assembly": 0.7943,
+        "monetization": 1.2951,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 538.4862,
+      "phases": {
+        "preparation": 535.7981,
+        "media_svg": 0.1274,
+        "youtube": 0.8123,
+        "content_assembly": 0.5739,
+        "monetization": 1.12,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 393.8057,
+      "phases": {
+        "preparation": 392.9936,
+        "media_svg": 0.1145,
+        "youtube": 0.0162,
+        "content_assembly": 0.5178,
+        "monetization": 0.0994,
+        "quality_write": 0.0641
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 486.5679,
+      "phases": {
+        "preparation": 485.6941,
+        "media_svg": 0.0938,
+        "youtube": 0.0166,
+        "content_assembly": 0.5606,
+        "monetization": 0.1408,
+        "quality_write": 0.062
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 311.5889,
+      "phases": {
+        "preparation": 310.8608,
+        "media_svg": 0.0861,
+        "youtube": 0.018,
+        "content_assembly": 0.4844,
+        "monetization": 0.0957,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 266.3663,
+      "phases": {
+        "preparation": 263.2459,
+        "media_svg": 0.1341,
+        "youtube": 2.2199,
+        "content_assembly": 0.5887,
+        "monetization": 0.1377,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679",
+      "level": 2,
+      "outcome": "error",
+      "total_seconds": 556.2999,
+      "phases": {
+        "preparation": 554.0358,
+        "media_svg": 0.0985,
+        "youtube": 1.6048,
+        "content_assembly": 0.5608
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 323.2973,
+      "phases": {
+        "preparation": 319.9821,
+        "media_svg": 0.0756,
+        "youtube": 2.4533,
+        "content_assembly": 0.619,
+        "monetization": 0.1007,
+        "quality_write": 0.0666
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 358.1172,
+      "phases": {
+        "preparation": 356.2125,
+        "media_svg": 0.1054,
+        "youtube": 1.0285,
+        "content_assembly": 0.6007,
+        "monetization": 0.1021,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 413.2461,
+      "phases": {
+        "preparation": 411.0323,
+        "media_svg": 0.1347,
+        "youtube": 1.2157,
+        "content_assembly": 0.6638,
+        "monetization": 0.1399,
+        "quality_write": 0.0597
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 503.6842,
+      "phases": {
+        "preparation": 501.5269,
+        "media_svg": 0.1088,
+        "youtube": 1.184,
+        "content_assembly": 0.6428,
+        "monetization": 0.174,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_transformers_81b5da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 217.699,
+      "phases": {
+        "preparation": 214.9831,
+        "media_svg": 0.3604,
+        "youtube": 1.6401,
+        "content_assembly": 0.578,
+        "monetization": 0.0794,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.3923,
+      "phases": {
+        "preparation": 126.1908,
+        "media_svg": 0.8182,
+        "youtube": 0.6962,
+        "content_assembly": 0.536,
+        "monetization": 0.0918,
+        "quality_write": 0.0593
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 212.148,
+      "phases": {
+        "preparation": 209.9452,
+        "media_svg": 0.9093,
+        "youtube": 0.6822,
+        "content_assembly": 0.4847,
+        "monetization": 0.0887,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 245.4339,
+      "phases": {
+        "preparation": 243.0303,
+        "media_svg": 0.9949,
+        "youtube": 0.7291,
+        "content_assembly": 0.5279,
+        "monetization": 0.0916,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_image_layers_fa8f85",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 188.7454,
+      "phases": {
+        "preparation": 186.7596,
+        "media_svg": 0.36,
+        "youtube": 0.9633,
+        "content_assembly": 0.5547,
+        "monetization": 0.0539,
+        "quality_write": 0.054
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_ai_drafts_vs_2d1488",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 192.292,
+      "phases": {
+        "preparation": 190.2709,
+        "media_svg": 0.3583,
+        "youtube": 0.8981,
+        "content_assembly": 0.5837,
+        "monetization": 0.1146,
+        "quality_write": 0.0663
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_spam_filters_ebbaa7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.2437,
+      "phases": {
+        "preparation": 152.0641,
+        "media_svg": 0.8074,
+        "youtube": 0.7212,
+        "content_assembly": 0.5218,
+        "monetization": 0.0923,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 393.5979,
+      "phases": {
+        "preparation": 391.7646,
+        "media_svg": 0.3715,
+        "youtube": 0.6897,
+        "content_assembly": 0.5891,
+        "monetization": 0.1093,
+        "quality_write": 0.0737
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_face_dataset_369d28",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.3965,
+      "phases": {
+        "preparation": 122.2378,
+        "media_svg": 0.8137,
+        "youtube": 0.7133,
+        "content_assembly": 0.5231,
+        "monetization": 0.0726,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_eliza_turing_f9a7e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 202.0675,
+      "phases": {
+        "preparation": 199.7792,
+        "media_svg": 0.8753,
+        "youtube": 0.7154,
+        "content_assembly": 0.5769,
+        "monetization": 0.0717,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_attention_wei_a5325a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 196.4566,
+      "phases": {
+        "preparation": 193.9663,
+        "media_svg": 0.3761,
+        "youtube": 1.1394,
+        "content_assembly": 0.7883,
+        "monetization": 0.144,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_gpt_style_gen_d4250f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 201.081,
+      "phases": {
+        "preparation": 199.3827,
+        "media_svg": 0.3662,
+        "youtube": 0.7013,
+        "content_assembly": 0.5093,
+        "monetization": 0.0654,
+        "quality_write": 0.0561
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_parallel_tran_b1bb48",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 179.2266,
+      "phases": {
+        "preparation": 177.0555,
+        "media_svg": 0.3538,
+        "youtube": 1.1464,
+        "content_assembly": 0.5447,
+        "monetization": 0.0727,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.971,
+      "phases": {
+        "preparation": 126.4947,
+        "media_svg": 1.0257,
+        "youtube": 0.7492,
+        "content_assembly": 0.5751,
+        "monetization": 0.0856,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_self_attentio_88481a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 282.8325,
+      "phases": {
+        "preparation": 280.6991,
+        "media_svg": 0.3572,
+        "youtube": 1.0694,
+        "content_assembly": 0.5203,
+        "monetization": 0.1323,
+        "quality_write": 0.0541
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 162.0805,
+      "phases": {
+        "preparation": 159.8435,
+        "media_svg": 0.8147,
+        "youtube": 0.7326,
+        "content_assembly": 0.5752,
+        "monetization": 0.0787,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 186.2578,
+      "phases": {
+        "preparation": 184.1007,
+        "media_svg": 0.7896,
+        "youtube": 0.7138,
+        "content_assembly": 0.543,
+        "monetization": 0.0713,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_ordinary_s_f02b58",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 244.7196,
+      "phases": {
+        "preparation": 242.9656,
+        "media_svg": 0.36,
+        "youtube": 0.6976,
+        "content_assembly": 0.5546,
+        "monetization": 0.0808,
+        "quality_write": 0.0611
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 265.3114,
+      "phases": {
+        "preparation": 263.4945,
+        "media_svg": 0.3655,
+        "youtube": 0.7567,
+        "content_assembly": 0.5787,
+        "monetization": 0.0541,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_recommendatio_bfae0c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 174.0942,
+      "phases": {
+        "preparation": 172.2813,
+        "media_svg": 0.3598,
+        "youtube": 0.7458,
+        "content_assembly": 0.5524,
+        "monetization": 0.0975,
+        "quality_write": 0.0575
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_automated_dec_4de325",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 248.1501,
+      "phases": {
+        "preparation": 246.3173,
+        "media_svg": 0.4305,
+        "youtube": 0.6825,
+        "content_assembly": 0.5608,
+        "monetization": 0.0931,
+        "quality_write": 0.066
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_search_rankin_9f0394",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 204.4998,
+      "phases": {
+        "preparation": 202.243,
+        "media_svg": 0.4029,
+        "youtube": 1.1332,
+        "content_assembly": 0.5372,
+        "monetization": 0.1148,
+        "quality_write": 0.0687
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 222.1268,
+      "phases": {
+        "preparation": 219.9663,
+        "media_svg": 0.8624,
+        "youtube": 0.6601,
+        "content_assembly": 0.5154,
+        "monetization": 0.0774,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 218.3095,
+      "phases": {
+        "preparation": 216.2688,
+        "media_svg": 0.8143,
+        "youtube": 0.6923,
+        "content_assembly": 0.4268,
+        "monetization": 0.0724,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 313.4722,
+      "phases": {
+        "preparation": 311.3864,
+        "media_svg": 0.6985,
+        "youtube": 0.7041,
+        "content_assembly": 0.5656,
+        "monetization": 0.0712,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 213.1486,
+      "phases": {
+        "preparation": 210.5231,
+        "media_svg": 1.1586,
+        "youtube": 0.8461,
+        "content_assembly": 0.509,
+        "monetization": 0.0738,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 179.1475,
+      "phases": {
+        "preparation": 176.6825,
+        "media_svg": 0.3579,
+        "youtube": 1.3622,
+        "content_assembly": 0.6209,
+        "monetization": 0.0809,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_attention_lay_1d0c34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 177.0491,
+      "phases": {
+        "preparation": 175.2481,
+        "media_svg": 0.3652,
+        "youtube": 0.7413,
+        "content_assembly": 0.5522,
+        "monetization": 0.0808,
+        "quality_write": 0.0616
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.3821,
+      "phases": {
+        "preparation": 169.9297,
+        "media_svg": 0.3505,
+        "youtube": 1.3154,
+        "content_assembly": 0.6238,
+        "monetization": 0.1016,
+        "quality_write": 0.061
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_speech_networ_6327a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.9943,
+      "phases": {
+        "preparation": 202.3383,
+        "media_svg": 0.3564,
+        "youtube": 0.6785,
+        "content_assembly": 0.4975,
+        "monetization": 0.0822,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_search_sou_1cb643",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 222.7256,
+      "phases": {
+        "preparation": 220.655,
+        "media_svg": 0.3567,
+        "youtube": 0.9594,
+        "content_assembly": 0.596,
+        "monetization": 0.0878,
+        "quality_write": 0.0707
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_coding_rev_b6348a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 331.7574,
+      "phases": {
+        "preparation": 329.5348,
+        "media_svg": 0.4202,
+        "youtube": 1.0732,
+        "content_assembly": 0.5461,
+        "monetization": 0.1037,
+        "quality_write": 0.0795
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_translatio_359f9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 257.6521,
+      "phases": {
+        "preparation": 255.9534,
+        "media_svg": 0.361,
+        "youtube": 0.6832,
+        "content_assembly": 0.5308,
+        "monetization": 0.0722,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_fraud_ai_paym_5f6a50",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 306.3395,
+      "phases": {
+        "preparation": 304.2013,
+        "media_svg": 0.6797,
+        "youtube": 0.7351,
+        "content_assembly": 0.5736,
+        "monetization": 0.0718,
+        "quality_write": 0.078
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_navigation_ai_ecb169",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 224.7897,
+      "phases": {
+        "preparation": 223.8758,
+        "media_svg": 0.3559,
+        "youtube": 0.0087,
+        "content_assembly": 0.4546,
+        "monetization": 0.0617,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_coding_assist_0cdc40",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 214.8315,
+      "phases": {
+        "preparation": 212.7593,
+        "media_svg": 0.3588,
+        "youtube": 0.9135,
+        "content_assembly": 0.6489,
+        "monetization": 0.1058,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 230.8612,
+      "phases": {
+        "preparation": 228.9913,
+        "media_svg": 0.3702,
+        "youtube": 0.748,
+        "content_assembly": 0.5512,
+        "monetization": 0.1309,
+        "quality_write": 0.0696
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 316.2432,
+      "phases": {
+        "preparation": 314.5335,
+        "media_svg": 0.3705,
+        "youtube": 0.6821,
+        "content_assembly": 0.5473,
+        "monetization": 0.0543,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_synthetic_med_097857",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 271.3205,
+      "phases": {
+        "preparation": 269.4765,
+        "media_svg": 0.3628,
+        "youtube": 0.7448,
+        "content_assembly": 0.5837,
+        "monetization": 0.0946,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_few_shot_prom_45dc0d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 306.3049,
+      "phases": {
+        "preparation": 304.0608,
+        "media_svg": 0.4081,
+        "youtube": 1.1087,
+        "content_assembly": 0.5575,
+        "monetization": 0.1013,
+        "quality_write": 0.0685
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 214.7543,
+      "phases": {
+        "preparation": 212.6364,
+        "media_svg": 0.4179,
+        "youtube": 0.9522,
+        "content_assembly": 0.5884,
+        "monetization": 0.0975,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 169.4643,
+      "phases": {
+        "preparation": 165.9434,
+        "media_svg": 0.7859,
+        "youtube": 1.17,
+        "content_assembly": 0.5464,
+        "monetization": 0.9791,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 338.7827,
+      "phases": {
+        "preparation": 336.0549,
+        "media_svg": 0.3622,
+        "youtube": 0.9405,
+        "content_assembly": 0.589,
+        "monetization": 0.7721,
+        "quality_write": 0.064
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 293.9775,
+      "phases": {
+        "preparation": 291.0033,
+        "media_svg": 0.8327,
+        "youtube": 0.9197,
+        "content_assembly": 0.9881,
+        "monetization": 0.1241,
+        "quality_write": 0.1096
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_loss_function_b59239",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 255.9103,
+      "phases": {
+        "preparation": 253.4074,
+        "media_svg": 0.4307,
+        "youtube": 1.3238,
+        "content_assembly": 0.6197,
+        "monetization": 0.0802,
+        "quality_write": 0.0486
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 307.9063,
+      "phases": {
+        "preparation": 304.9983,
+        "media_svg": 0.806,
+        "youtube": 1.3416,
+        "content_assembly": 0.6036,
+        "monetization": 0.0986,
+        "quality_write": 0.0582
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 250.0752,
+      "phases": {
+        "preparation": 247.8682,
+        "media_svg": 0.8343,
+        "youtube": 0.7216,
+        "content_assembly": 0.5143,
+        "monetization": 0.0708,
+        "quality_write": 0.0659
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 220.1117,
+      "phases": {
+        "preparation": 217.2902,
+        "media_svg": 0.9263,
+        "youtube": 1.1744,
+        "content_assembly": 0.63,
+        "monetization": 0.0504,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_chatbox_gener_1aa743",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 263.3366,
+      "phases": {
+        "preparation": 260.8075,
+        "media_svg": 0.8485,
+        "youtube": 0.9773,
+        "content_assembly": 0.5661,
+        "monetization": 0.0742,
+        "quality_write": 0.0631
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 238.9218,
+      "phases": {
+        "preparation": 236.459,
+        "media_svg": 0.747,
+        "youtube": 0.9938,
+        "content_assembly": 0.5684,
+        "monetization": 0.0982,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_risk_based_na_64dcaf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 264.5854,
+      "phases": {
+        "preparation": 262.2317,
+        "media_svg": 0.8348,
+        "youtube": 0.7356,
+        "content_assembly": 0.5958,
+        "monetization": 0.1194,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 185.2872,
+      "phases": {
+        "preparation": 182.7848,
+        "media_svg": 0.8501,
+        "youtube": 0.9892,
+        "content_assembly": 0.5391,
+        "monetization": 0.0815,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 93.6033,
+      "phases": {
+        "preparation": 90.2795,
+        "media_svg": 0.8027,
+        "youtube": 0.7452,
+        "content_assembly": 0.5513,
+        "monetization": 1.1751,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 187.4604,
+      "phases": {
+        "preparation": 185.0419,
+        "media_svg": 0.9719,
+        "youtube": 0.6935,
+        "content_assembly": 0.5526,
+        "monetization": 0.1388,
+        "quality_write": 0.0617
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 133.0565,
+      "phases": {
+        "preparation": 130.0047,
+        "media_svg": 0.8356,
+        "youtube": 0.7523,
+        "content_assembly": 0.5115,
+        "monetization": 0.919,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_meaningful_hu_790c10",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.8089,
+      "phases": {
+        "preparation": 165.6113,
+        "media_svg": 0.8007,
+        "youtube": 0.7562,
+        "content_assembly": 0.5274,
+        "monetization": 0.0751,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_reward_hackin_31c293",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 173.4843,
+      "phases": {
+        "preparation": 171.3176,
+        "media_svg": 0.8086,
+        "youtube": 0.7401,
+        "content_assembly": 0.5076,
+        "monetization": 0.0722,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 298.6652,
+      "phases": {
+        "preparation": 296.4548,
+        "media_svg": 0.7854,
+        "youtube": 0.7402,
+        "content_assembly": 0.5767,
+        "monetization": 0.0639,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_web_filtering_f19d10",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.4599,
+      "phases": {
+        "preparation": 149.0392,
+        "media_svg": 0.8326,
+        "youtube": 2.9561,
+        "content_assembly": 0.4974,
+        "monetization": 0.0885,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 253.3114,
+      "phases": {
+        "preparation": 250.5509,
+        "media_svg": 1.0068,
+        "youtube": 1.0151,
+        "content_assembly": 0.5845,
+        "monetization": 0.107,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_fake_422410",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 121.0452,
+      "phases": {
+        "preparation": 118.8297,
+        "media_svg": 0.8134,
+        "youtube": 0.7562,
+        "content_assembly": 0.5154,
+        "monetization": 0.0773,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45_rewarding_ai_b780cf",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 150.2738,
+      "phases": {
+        "preparation": 148.1233,
+        "media_svg": 0.7857,
+        "youtube": 0.7261,
+        "content_assembly": 0.5122,
+        "monetization": 0.0772,
+        "quality_write": 0.0493
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_chatgpt_self_407b37",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 127.9998,
+      "phases": {
+        "preparation": 123.5991,
+        "media_svg": 0.8319,
+        "youtube": 0.9581,
+        "content_assembly": 0.5066,
+        "monetization": 2.0416,
+        "quality_write": 0.0625
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1_multilingual_5b9b9c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.6364,
+      "phases": {
+        "preparation": 205.8295,
+        "media_svg": 0.3749,
+        "youtube": 0.7442,
+        "content_assembly": 0.5497,
+        "monetization": 0.0974,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1_token_counts_262061",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 308.0615,
+      "phases": {
+        "preparation": 306.2347,
+        "media_svg": 0.3633,
+        "youtube": 0.7316,
+        "content_assembly": 0.6102,
+        "monetization": 0.0559,
+        "quality_write": 0.0659
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_eliza_turing_f9a7e7_eliza_effect_68f1e6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 235.7921,
+      "phases": {
+        "preparation": 233.5175,
+        "media_svg": 0.8847,
+        "youtube": 0.683,
+        "content_assembly": 0.5249,
+        "monetization": 0.1065,
+        "quality_write": 0.0755
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_transformers_81b5da_alphafold2_sp_876964",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 106.0311,
+      "phases": {
+        "preparation": 104.2606,
+        "media_svg": 0.3666,
+        "youtube": 0.8129,
+        "content_assembly": 0.4981,
+        "monetization": 0.055,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_parallel_tran_b1bb48_long_context_736cb4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 288.4135,
+      "phases": {
+        "preparation": 286.0235,
+        "media_svg": 0.3405,
+        "youtube": 1.3187,
+        "content_assembly": 0.5777,
+        "monetization": 0.0864,
+        "quality_write": 0.0668
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_transformers_81b5da_image_patches_281894",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 232.1642,
+      "phases": {
+        "preparation": 230.0562,
+        "media_svg": 0.3608,
+        "youtube": 0.9958,
+        "content_assembly": 0.5843,
+        "monetization": 0.1005,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45_long_answer_m_f82810",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 130.0209,
+      "phases": {
+        "preparation": 127.5452,
+        "media_svg": 0.7725,
+        "youtube": 0.952,
+        "content_assembly": 0.5803,
+        "monetization": 0.1168,
+        "quality_write": 0.0542
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_transformers_81b5da_protein_langu_44f99d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 247.5028,
+      "phases": {
+        "preparation": 245.6235,
+        "media_svg": 0.4045,
+        "youtube": 0.674,
+        "content_assembly": 0.634,
+        "monetization": 0.0919,
+        "quality_write": 0.0748
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45_obscure_topic_4cc2a9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 122.2174,
+      "phases": {
+        "preparation": 120.0164,
+        "media_svg": 0.8261,
+        "youtube": 0.7143,
+        "content_assembly": 0.5455,
+        "monetization": 0.0771,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_sanct_95b80a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 143.7535,
+      "phases": {
+        "preparation": 141.414,
+        "media_svg": 1.0078,
+        "youtube": 0.7105,
+        "content_assembly": 0.4961,
+        "monetization": 0.0698,
+        "quality_write": 0.0553
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_ordinary_s_f02b58_inference_ai_b3e922",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.8046,
+      "phases": {
+        "preparation": 204.0522,
+        "media_svg": 0.4706,
+        "youtube": 0.7023,
+        "content_assembly": 0.4907,
+        "monetization": 0.0498,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_automated_dec_4de325_rubber_stamp_b63062",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 277.5222,
+      "phases": {
+        "preparation": 274.8542,
+        "media_svg": 0.3581,
+        "youtube": 0.7609,
+        "content_assembly": 0.5673,
+        "monetization": 0.9384,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_hidden_integr_4e3bcf",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 243.7138,
+      "phases": {
+        "preparation": 240.9651,
+        "media_svg": 0.8744,
+        "youtube": 1.2058,
+        "content_assembly": 0.4857,
+        "monetization": 0.1211,
+        "quality_write": 0.0616
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_business_ai_m_1185a2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 389.1281,
+      "phases": {
+        "preparation": 386.8494,
+        "media_svg": 0.8415,
+        "youtube": 0.6942,
+        "content_assembly": 0.5822,
+        "monetization": 0.0876,
+        "quality_write": 0.0732
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc_gpu_training_c3b78a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 214.7458,
+      "phases": {
+        "preparation": 212.7773,
+        "media_svg": 0.3712,
+        "youtube": 0.9153,
+        "content_assembly": 0.5341,
+        "monetization": 0.0862,
+        "quality_write": 0.0616
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_workflow_rede_165690",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 305.751,
+      "phases": {
+        "preparation": 303.5379,
+        "media_svg": 0.8215,
+        "youtube": 0.7246,
+        "content_assembly": 0.5536,
+        "monetization": 0.072,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_image_layers_fa8f85_early_edge_de_32e14b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 158.4366,
+      "phases": {
+        "preparation": 156.5361,
+        "media_svg": 0.3665,
+        "youtube": 0.7415,
+        "content_assembly": 0.6106,
+        "monetization": 0.0987,
+        "quality_write": 0.0831
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_attention_lay_1d0c34_transformers_3e568a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 358.4545,
+      "phases": {
+        "preparation": 356.2032,
+        "media_svg": 0.4118,
+        "youtube": 1.0784,
+        "content_assembly": 0.6575,
+        "monetization": 0.0531,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_image_layers_fa8f85_feature_visua_8bb020",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 193.83,
+      "phases": {
+        "preparation": 192.0243,
+        "media_svg": 0.3686,
+        "youtube": 0.7889,
+        "content_assembly": 0.531,
+        "monetization": 0.0706,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_image_layers_fa8f85_object_part_n_7cddc3",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 193.7249,
+      "phases": {
+        "preparation": 191.9917,
+        "media_svg": 0.3585,
+        "youtube": 0.7319,
+        "content_assembly": 0.5354,
+        "monetization": 0.0687,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_speech_networ_6327a0_speech_model_0908e5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 301.9293,
+      "phases": {
+        "preparation": 299.8538,
+        "media_svg": 0.4074,
+        "youtube": 0.9343,
+        "content_assembly": 0.5749,
+        "monetization": 0.1217,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_coding_rev_b6348a_verification_497465",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 221.4273,
+      "phases": {
+        "preparation": 219.6551,
+        "media_svg": 0.363,
+        "youtube": 0.7308,
+        "content_assembly": 0.5458,
+        "monetization": 0.0728,
+        "quality_write": 0.0598
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_search_sou_1cb643_ai_overviews_2e2759",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.4559,
+      "phases": {
+        "preparation": 203.3842,
+        "media_svg": 0.3909,
+        "youtube": 1.018,
+        "content_assembly": 0.5315,
+        "monetization": 0.0706,
+        "quality_write": 0.0607
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_search_sou_1cb643_ai_synthesis_100df6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 209.9009,
+      "phases": {
+        "preparation": 207.9893,
+        "media_svg": 0.3593,
+        "youtube": 0.9032,
+        "content_assembly": 0.5425,
+        "monetization": 0.0704,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_ai_drafts_vs_2d1488_ai_drafts_inv_151867",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 199.4948,
+      "phases": {
+        "preparation": 197.6282,
+        "media_svg": 0.3578,
+        "youtube": 0.8458,
+        "content_assembly": 0.5625,
+        "monetization": 0.0666,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_ai_drafts_vs_2d1488_ai_draft_succ_472fd7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 241.8564,
+      "phases": {
+        "preparation": 239.1039,
+        "media_svg": 0.3948,
+        "youtube": 0.7279,
+        "content_assembly": 0.4939,
+        "monetization": 1.1006,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9_human_review_2a4d2c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.5642,
+      "phases": {
+        "preparation": 205.5005,
+        "media_svg": 0.3553,
+        "youtube": 1.0207,
+        "content_assembly": 0.5478,
+        "monetization": 0.0757,
+        "quality_write": 0.0641
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_ai_drafts_vs_2d1488_fluent_ai_dra_fd6e3c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 293.7422,
+      "phases": {
+        "preparation": 291.3257,
+        "media_svg": 0.2464,
+        "youtube": 1.4453,
+        "content_assembly": 0.5802,
+        "monetization": 0.0811,
+        "quality_write": 0.0633
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9_image_prompt_6b281d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 379.3605,
+      "phases": {
+        "preparation": 375.3285,
+        "media_svg": 0.3543,
+        "youtube": 1.1548,
+        "content_assembly": 0.5518,
+        "monetization": 1.9198,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_few_shot_prom_45dc0d_choosing_few_5f591a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 314.0634,
+      "phases": {
+        "preparation": 311.3052,
+        "media_svg": 0.8115,
+        "youtube": 1.2213,
+        "content_assembly": 0.5619,
+        "monetization": 0.1002,
+        "quality_write": 0.0633
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9_fluent_wrong_d4bff7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 202.9386,
+      "phases": {
+        "preparation": 200.8516,
+        "media_svg": 0.3655,
+        "youtube": 0.9679,
+        "content_assembly": 0.5646,
+        "monetization": 0.1153,
+        "quality_write": 0.0737
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9_long_replies_b4868f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 262.164,
+      "phases": {
+        "preparation": 260.3728,
+        "media_svg": 0.3525,
+        "youtube": 0.7374,
+        "content_assembly": 0.5585,
+        "monetization": 0.0861,
+        "quality_write": 0.0568
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1_awkward_token_032445",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 176.4318,
+      "phases": {
+        "preparation": 174.7507,
+        "media_svg": 0.3716,
+        "youtube": 0.7094,
+        "content_assembly": 0.4875,
+        "monetization": 0.071,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_spam_filters_ebbaa7_bayesian_spam_0a66c6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 233.6138,
+      "phases": {
+        "preparation": 230.1343,
+        "media_svg": 0.9253,
+        "youtube": 1.666,
+        "content_assembly": 0.7693,
+        "monetization": 0.0778,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_spam_filters_ebbaa7_keyword_false_721eb8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 195.7532,
+      "phases": {
+        "preparation": 193.4588,
+        "media_svg": 0.9388,
+        "youtube": 0.7046,
+        "content_assembly": 0.5192,
+        "monetization": 0.0738,
+        "quality_write": 0.0582
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_spam_filters_ebbaa7_spam_feedback_c5c36c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.5569,
+      "phases": {
+        "preparation": 171.7274,
+        "media_svg": 0.4447,
+        "youtube": 0.7224,
+        "content_assembly": 0.5482,
+        "monetization": 0.076,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_chatbox_gener_1aa743_chatbot_task_fcb82d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.2553,
+      "phases": {
+        "preparation": 174.851,
+        "media_svg": 0.84,
+        "youtube": 1.8451,
+        "content_assembly": 0.5282,
+        "monetization": 0.1265,
+        "quality_write": 0.0646
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_eliza_turing_f9a7e7_chatbot_overt_f7b640",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 204.8911,
+      "phases": {
+        "preparation": 202.7207,
+        "media_svg": 0.7926,
+        "youtube": 0.7411,
+        "content_assembly": 0.5228,
+        "monetization": 0.0743,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_eliza_turing_f9a7e7_turing_chat_l_4222db",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 160.1657,
+      "phases": {
+        "preparation": 157.9239,
+        "media_svg": 0.8454,
+        "youtube": 0.7396,
+        "content_assembly": 0.5363,
+        "monetization": 0.0789,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63_equal_scores_1a5382",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 87.8173,
+      "phases": {
+        "preparation": 84.9618,
+        "media_svg": 0.7662,
+        "youtube": 0.7238,
+        "content_assembly": 0.4824,
+        "monetization": 0.8483,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194_future_event_b9cbf0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.3625,
+      "phases": {
+        "preparation": 203.0592,
+        "media_svg": 0.8409,
+        "youtube": 0.7814,
+        "content_assembly": 0.5231,
+        "monetization": 0.0905,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_face_dataset_369d28_gender_shades_f8899d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 196.5255,
+      "phases": {
+        "preparation": 193.8611,
+        "media_svg": 0.8104,
+        "youtube": 1.0866,
+        "content_assembly": 0.6527,
+        "monetization": 0.0685,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_face_dataset_369d28_hidden_accura_5a89cd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.117,
+      "phases": {
+        "preparation": 175.882,
+        "media_svg": 0.7988,
+        "youtube": 0.7681,
+        "content_assembly": 0.5336,
+        "monetization": 0.0864,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_face_dataset_369d28_unbalanced_fa_95a5ff",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 145.6858,
+      "phases": {
+        "preparation": 143.0106,
+        "media_svg": 1.11,
+        "youtube": 0.953,
+        "content_assembly": 0.4963,
+        "monetization": 0.0762,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_attention_wei_a5325a_attention_flo_32e5ac",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 206.6155,
+      "phases": {
+        "preparation": 202.9819,
+        "media_svg": 0.3591,
+        "youtube": 1.0446,
+        "content_assembly": 0.5518,
+        "monetization": 1.6362,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_attention_wei_a5325a_same_answer_d_11e89e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 194.5887,
+      "phases": {
+        "preparation": 192.8953,
+        "media_svg": 0.3611,
+        "youtube": 0.6977,
+        "content_assembly": 0.5079,
+        "monetization": 0.076,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_attention_wei_a5325a_verifying_att_3dac68",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 159.2687,
+      "phases": {
+        "preparation": 157.3384,
+        "media_svg": 0.378,
+        "youtube": 0.9402,
+        "content_assembly": 0.5197,
+        "monetization": 0.0557,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_gpt_style_gen_d4250f_fluency_vs_ac_c06609",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 242.9329,
+      "phases": {
+        "preparation": 240.9664,
+        "media_svg": 0.3782,
+        "youtube": 0.9678,
+        "content_assembly": 0.5179,
+        "monetization": 0.0609,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_gpt_style_gen_d4250f_gpt3_prompt_b_bf041f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 215.2813,
+      "phases": {
+        "preparation": 213.5161,
+        "media_svg": 0.37,
+        "youtube": 0.7599,
+        "content_assembly": 0.5306,
+        "monetization": 0.066,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_gpt_style_gen_d4250f_in_context_le_d8e3d1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 219.5916,
+      "phases": {
+        "preparation": 217.5819,
+        "media_svg": 0.3642,
+        "youtube": 0.9578,
+        "content_assembly": 0.5595,
+        "monetization": 0.0814,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_parallel_tran_b1bb48_parallel_self_b3e70d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 145.2972,
+      "phases": {
+        "preparation": 143.5014,
+        "media_svg": 0.4578,
+        "youtube": 0.7158,
+        "content_assembly": 0.4905,
+        "monetization": 0.0762,
+        "quality_write": 0.0556
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_parallel_tran_b1bb48_transformer_t_d06836",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 157.8502,
+      "phases": {
+        "preparation": 156.0424,
+        "media_svg": 0.3568,
+        "youtube": 0.7715,
+        "content_assembly": 0.5391,
+        "monetization": 0.0869,
+        "quality_write": 0.0534
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_self_attentio_88481a_attention_map_f6015b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 187.4525,
+      "phases": {
+        "preparation": 185.6636,
+        "media_svg": 0.366,
+        "youtube": 0.7562,
+        "content_assembly": 0.5377,
+        "monetization": 0.0803,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_self_attentio_88481a_pronoun_atten_dfc1dd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 186.8359,
+      "phases": {
+        "preparation": 185.1746,
+        "media_svg": 0.3624,
+        "youtube": 0.7714,
+        "content_assembly": 0.4234,
+        "monetization": 0.0704,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_transformers_53d0af_self_attentio_88481a_attention_wor_c055d4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 220.9225,
+      "phases": {
+        "preparation": 219.1327,
+        "media_svg": 0.3623,
+        "youtube": 0.8905,
+        "content_assembly": 0.4363,
+        "monetization": 0.0648,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445_medical_contr_88c6d5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 206.9916,
+      "phases": {
+        "preparation": 201.0771,
+        "media_svg": 0.8393,
+        "youtube": 0.7494,
+        "content_assembly": 0.5067,
+        "monetization": 3.7092,
+        "quality_write": 0.1099
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445_financial_tai_e2f4d0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 208.946,
+      "phases": {
+        "preparation": 205.5322,
+        "media_svg": 0.8892,
+        "youtube": 0.8124,
+        "content_assembly": 0.646,
+        "monetization": 1.0303,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445_science_uncer_5ad729",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 121.2266,
+      "phases": {
+        "preparation": 119.0901,
+        "media_svg": 0.8864,
+        "youtube": 0.7087,
+        "content_assembly": 0.4583,
+        "monetization": 0.047,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93_ai_fake_legal_25c405",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 137.651,
+      "phases": {
+        "preparation": 135.4937,
+        "media_svg": 0.8443,
+        "youtube": 0.7212,
+        "content_assembly": 0.4847,
+        "monetization": 0.0731,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93_citation_patt_fbf811",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 172.9638,
+      "phases": {
+        "preparation": 170.8133,
+        "media_svg": 0.7925,
+        "youtube": 0.7216,
+        "content_assembly": 0.5235,
+        "monetization": 0.0753,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93_verify_ai_cit_797606",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.2794,
+      "phases": {
+        "preparation": 163.1183,
+        "media_svg": 0.7963,
+        "youtube": 0.7484,
+        "content_assembly": 0.4982,
+        "monetization": 0.0762,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_ocr_corrupted_636ed0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 164.0447,
+      "phases": {
+        "preparation": 161.8769,
+        "media_svg": 0.8473,
+        "youtube": 0.716,
+        "content_assembly": 0.4888,
+        "monetization": 0.0756,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_citation_misa_430467",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 196.3794,
+      "phases": {
+        "preparation": 194.1191,
+        "media_svg": 0.8341,
+        "youtube": 0.7589,
+        "content_assembly": 0.545,
+        "monetization": 0.0771,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_retrieval_mis_2b70c8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.8828,
+      "phases": {
+        "preparation": 180.7788,
+        "media_svg": 0.8487,
+        "youtube": 0.6907,
+        "content_assembly": 0.4519,
+        "monetization": 0.0776,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_ordinary_s_f02b58_business_rule_7f5921",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 229.6806,
+      "phases": {
+        "preparation": 227.8851,
+        "media_svg": 0.3575,
+        "youtube": 0.7602,
+        "content_assembly": 0.567,
+        "monetization": 0.0747,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_ordinary_s_f02b58_eu_ai_act_sof_1e826d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 226.1317,
+      "phases": {
+        "preparation": 222.6532,
+        "media_svg": 0.2474,
+        "youtube": 0.7886,
+        "content_assembly": 0.524,
+        "monetization": 1.8821,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a_ai_decision_a_5b8cd4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 223.9405,
+      "phases": {
+        "preparation": 222.1473,
+        "media_svg": 0.3608,
+        "youtube": 0.7649,
+        "content_assembly": 0.5332,
+        "monetization": 0.073,
+        "quality_write": 0.0612
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a_prediction_er_458da2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 225.2632,
+      "phases": {
+        "preparation": 223.5273,
+        "media_svg": 0.4351,
+        "youtube": 0.7123,
+        "content_assembly": 0.5019,
+        "monetization": 0.0521,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_ai_prediction_a2ed8a_risk_score_th_d9070f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 222.9394,
+      "phases": {
+        "preparation": 221.232,
+        "media_svg": 0.3545,
+        "youtube": 0.7158,
+        "content_assembly": 0.5207,
+        "monetization": 0.0789,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_automated_dec_4de325_uk_gdpr_autom_43277d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 217.344,
+      "phases": {
+        "preparation": 215.5653,
+        "media_svg": 0.3614,
+        "youtube": 0.7439,
+        "content_assembly": 0.5379,
+        "monetization": 0.0846,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_automated_dec_4de325_decision_engi_769dde",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 307.297,
+      "phases": {
+        "preparation": 305.0802,
+        "media_svg": 0.3613,
+        "youtube": 1.1045,
+        "content_assembly": 0.633,
+        "monetization": 0.0761,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_recommendatio_bfae0c_engagement_at_f01d57",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.8316,
+      "phases": {
+        "preparation": 197.1408,
+        "media_svg": 0.3498,
+        "youtube": 0.6803,
+        "content_assembly": 0.5479,
+        "monetization": 0.0705,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_recommendatio_bfae0c_popularity_fe_3c1257",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 249.6653,
+      "phases": {
+        "preparation": 247.4742,
+        "media_svg": 0.3546,
+        "youtube": 0.9901,
+        "content_assembly": 0.7259,
+        "monetization": 0.0789,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_recommendatio_bfae0c_ranking_atten_9dfb4a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 190.0715,
+      "phases": {
+        "preparation": 188.3586,
+        "media_svg": 0.3582,
+        "youtube": 0.7156,
+        "content_assembly": 0.5234,
+        "monetization": 0.0773,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_search_rankin_9f0394_dsa_ranking_t_6e2922",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 202.1499,
+      "phases": {
+        "preparation": 200.3641,
+        "media_svg": 0.3893,
+        "youtube": 0.7518,
+        "content_assembly": 0.5041,
+        "monetization": 0.0857,
+        "quality_write": 0.0549
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_search_rankin_9f0394_position_bias_4d645a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 220.183,
+      "phases": {
+        "preparation": 218.5156,
+        "media_svg": 0.3573,
+        "youtube": 0.6967,
+        "content_assembly": 0.4882,
+        "monetization": 0.0715,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_ai_system_out_b025fe_search_rankin_9f0394_query_wording_b0fe00",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 216.1731,
+      "phases": {
+        "preparation": 215.2768,
+        "media_svg": 0.3614,
+        "youtube": 0.0155,
+        "content_assembly": 0.4212,
+        "monetization": 0.063,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b_ai_agent_assi_681ebc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 233.0161,
+      "phases": {
+        "preparation": 230.6509,
+        "media_svg": 0.8295,
+        "youtube": 0.9429,
+        "content_assembly": 0.4854,
+        "monetization": 0.0708,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b_context_prese_a561b8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 223.2877,
+      "phases": {
+        "preparation": 220.7083,
+        "media_svg": 1.0763,
+        "youtube": 0.9361,
+        "content_assembly": 0.458,
+        "monetization": 0.0686,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b_support_ticke_42a2ec",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.2846,
+      "phases": {
+        "preparation": 170.8515,
+        "media_svg": 0.986,
+        "youtube": 0.8292,
+        "content_assembly": 0.4587,
+        "monetization": 0.1024,
+        "quality_write": 0.0568
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258_official_sour_288142",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 216.6725,
+      "phases": {
+        "preparation": 214.5011,
+        "media_svg": 0.836,
+        "youtube": 0.7202,
+        "content_assembly": 0.5056,
+        "monetization": 0.0748,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258_production_re_2401bf",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 238.6118,
+      "phases": {
+        "preparation": 236.4486,
+        "media_svg": 0.8212,
+        "youtube": 0.7082,
+        "content_assembly": 0.5174,
+        "monetization": 0.0754,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258_stale_documen_33f867",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 239.8419,
+      "phases": {
+        "preparation": 237.6708,
+        "media_svg": 0.8297,
+        "youtube": 0.7295,
+        "content_assembly": 0.495,
+        "monetization": 0.0799,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623_ai_override_a_cf6b8a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 277.6205,
+      "phases": {
+        "preparation": 275.8149,
+        "media_svg": 0.4363,
+        "youtube": 0.712,
+        "content_assembly": 0.5439,
+        "monetization": 0.073,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623_ai_review_tri_9c05b7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 215.592,
+      "phases": {
+        "preparation": 213.4588,
+        "media_svg": 0.7886,
+        "youtube": 0.7272,
+        "content_assembly": 0.5113,
+        "monetization": 0.0704,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc_ai_bans_backf_3fb687",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.7331,
+      "phases": {
+        "preparation": 179.7596,
+        "media_svg": 0.8361,
+        "youtube": 0.7104,
+        "content_assembly": 0.5025,
+        "monetization": 0.8868,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623_automation_bi_9b94f7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 297.22,
+      "phases": {
+        "preparation": 294.5491,
+        "media_svg": 0.8162,
+        "youtube": 1.1695,
+        "content_assembly": 0.5483,
+        "monetization": 0.0804,
+        "quality_write": 0.0564
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc_ai_prompt_dat_200557",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.6031,
+      "phases": {
+        "preparation": 163.306,
+        "media_svg": 0.9058,
+        "youtube": 0.8915,
+        "content_assembly": 0.4164,
+        "monetization": 0.046,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc_hidden_ai_wor_c79565",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 229.2506,
+      "phases": {
+        "preparation": 227.1979,
+        "media_svg": 0.8096,
+        "youtube": 0.6974,
+        "content_assembly": 0.4542,
+        "monetization": 0.0508,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc_feature_engin_c078ec",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 243.9666,
+      "phases": {
+        "preparation": 242.1128,
+        "media_svg": 0.4079,
+        "youtube": 0.8081,
+        "content_assembly": 0.4846,
+        "monetization": 0.0927,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc_imagenet_visi_798e6d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.3485,
+      "phases": {
+        "preparation": 171.6437,
+        "media_svg": 0.358,
+        "youtube": 0.7288,
+        "content_assembly": 0.5039,
+        "monetization": 0.0751,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_attention_lay_1d0c34_attention_fou_16aad4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.018,
+      "phases": {
+        "preparation": 204.8847,
+        "media_svg": 0.3599,
+        "youtube": 1.1653,
+        "content_assembly": 0.4908,
+        "monetization": 0.0746,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_attention_lay_1d0c34_multi_head_re_e7edff",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.0273,
+      "phases": {
+        "preparation": 182.3781,
+        "media_svg": 0.366,
+        "youtube": 1.5092,
+        "content_assembly": 0.6828,
+        "monetization": 0.0525,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e_residual_iden_c22c3f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 124.2164,
+      "phases": {
+        "preparation": 123.3346,
+        "media_svg": 0.3588,
+        "youtube": 0.0142,
+        "content_assembly": 0.4105,
+        "monetization": 0.066,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e_identity_shor_e690bf",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 159.0297,
+      "phases": {
+        "preparation": 157.4222,
+        "media_svg": 0.3524,
+        "youtube": 0.6808,
+        "content_assembly": 0.4698,
+        "monetization": 0.0697,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e_resnet_extrem_0e077a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 153.2529,
+      "phases": {
+        "preparation": 151.5667,
+        "media_svg": 0.3591,
+        "youtube": 0.7519,
+        "content_assembly": 0.4926,
+        "monetization": 0.0484,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_speech_networ_6327a0_deep_layers_i_23a888",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 161.4134,
+      "phases": {
+        "preparation": 159.7007,
+        "media_svg": 0.3574,
+        "youtube": 0.7032,
+        "content_assembly": 0.5127,
+        "monetization": 0.1108,
+        "quality_write": 0.0287
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_deep_learning_f76913_speech_networ_6327a0_multi_conditi_ecf1e7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 187.9997,
+      "phases": {
+        "preparation": 186.2743,
+        "media_svg": 0.3643,
+        "youtube": 0.7308,
+        "content_assembly": 0.4825,
+        "monetization": 0.1193,
+        "quality_write": 0.0285
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_coding_rev_b6348a_expert_reposi_756503",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.1338,
+      "phases": {
+        "preparation": 196.3764,
+        "media_svg": 0.3651,
+        "youtube": 0.7525,
+        "content_assembly": 0.5223,
+        "monetization": 0.0736,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_search_sou_1cb643_unsupported_c_af340d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.5864,
+      "phases": {
+        "preparation": 183.8931,
+        "media_svg": 0.3543,
+        "youtube": 0.731,
+        "content_assembly": 0.504,
+        "monetization": 0.0681,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_coding_rev_b6348a_tests_docs_re_b2ed67",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 243.0468,
+      "phases": {
+        "preparation": 241.358,
+        "media_svg": 0.3605,
+        "youtube": 0.6992,
+        "content_assembly": 0.5138,
+        "monetization": 0.0732,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_translatio_359f9d_context_trans_dd7621",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 290.8002,
+      "phases": {
+        "preparation": 287.737,
+        "media_svg": 0.3722,
+        "youtube": 1.3995,
+        "content_assembly": 0.5488,
+        "monetization": 0.6972,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_translatio_359f9d_legal_transla_dbade7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 281.1598,
+      "phases": {
+        "preparation": 279.3363,
+        "media_svg": 0.3683,
+        "youtube": 0.734,
+        "content_assembly": 0.5906,
+        "monetization": 0.0698,
+        "quality_write": 0.0608
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_ai_translatio_359f9d_medical_trans_84da8e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 265.7173,
+      "phases": {
+        "preparation": 263.9624,
+        "media_svg": 0.3606,
+        "youtube": 0.7493,
+        "content_assembly": 0.5491,
+        "monetization": 0.0554,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_fraud_ai_paym_5f6a50_blocked_payme_b51bc2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 324.3985,
+      "phases": {
+        "preparation": 322.5663,
+        "media_svg": 0.3635,
+        "youtube": 0.7436,
+        "content_assembly": 0.5662,
+        "monetization": 0.0971,
+        "quality_write": 0.0618
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_fraud_ai_paym_5f6a50_false_decline_f8116b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 299.0607,
+      "phases": {
+        "preparation": 297.3038,
+        "media_svg": 0.4327,
+        "youtube": 0.6959,
+        "content_assembly": 0.5067,
+        "monetization": 0.0797,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_fraud_ai_paym_5f6a50_fraud_ai_fals_4f1911",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 261.7013,
+      "phases": {
+        "preparation": 260.0206,
+        "media_svg": 0.3734,
+        "youtube": 0.6926,
+        "content_assembly": 0.4949,
+        "monetization": 0.0785,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_navigation_ai_ecb169_legal_priorit_af0d83",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 189.6498,
+      "phases": {
+        "preparation": 188.0605,
+        "media_svg": 0.3763,
+        "youtube": 0.6912,
+        "content_assembly": 0.4258,
+        "monetization": 0.0625,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_navigation_ai_ecb169_traffic_predi_aabe87",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 180.6749,
+      "phases": {
+        "preparation": 178.8945,
+        "media_svg": 0.3722,
+        "youtube": 0.8111,
+        "content_assembly": 0.4734,
+        "monetization": 0.0901,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_everyday_ai_u_c3e17f_navigation_ai_ecb169_visible_hazar_9050eb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 179.3043,
+      "phases": {
+        "preparation": 177.6655,
+        "media_svg": 0.3615,
+        "youtube": 0.6945,
+        "content_assembly": 0.4733,
+        "monetization": 0.073,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_coding_assist_0cdc40_ai_code_secur_812003",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 280.1214,
+      "phases": {
+        "preparation": 278.359,
+        "media_svg": 0.3577,
+        "youtube": 0.7448,
+        "content_assembly": 0.5285,
+        "monetization": 0.0751,
+        "quality_write": 0.0563
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_coding_assist_0cdc40_copilot_speed_50828d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 284.2159,
+      "phases": {
+        "preparation": 282.4546,
+        "media_svg": 0.3682,
+        "youtube": 0.7265,
+        "content_assembly": 0.5489,
+        "monetization": 0.0718,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_coding_assist_0cdc40_passive_accep_a39757",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 279.4168,
+      "phases": {
+        "preparation": 277.69,
+        "media_svg": 0.3605,
+        "youtube": 0.7327,
+        "content_assembly": 0.5211,
+        "monetization": 0.0718,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743_checking_ai_a_f0aa32",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 298.0796,
+      "phases": {
+        "preparation": 295.8304,
+        "media_svg": 0.3668,
+        "youtube": 1.0153,
+        "content_assembly": 0.7463,
+        "monetization": 0.0754,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743_fake_ai_citat_101c93",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 228.3838,
+      "phases": {
+        "preparation": 226.7405,
+        "media_svg": 0.3591,
+        "youtube": 0.6912,
+        "content_assembly": 0.4826,
+        "monetization": 0.0687,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743_unsafe_ai_cod_3951bd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 248.4478,
+      "phases": {
+        "preparation": 246.4886,
+        "media_svg": 0.3557,
+        "youtube": 0.961,
+        "content_assembly": 0.5274,
+        "monetization": 0.0729,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9_revision_prom_00efb4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 408.2926,
+      "phases": {
+        "preparation": 405.8772,
+        "media_svg": 0.3608,
+        "youtube": 1.3442,
+        "content_assembly": 0.6129,
+        "monetization": 0.0546,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_synthetic_med_097857_content_prove_1aa0a4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 284.7981,
+      "phases": {
+        "preparation": 283.0454,
+        "media_svg": 0.3636,
+        "youtube": 0.7169,
+        "content_assembly": 0.5452,
+        "monetization": 0.076,
+        "quality_write": 0.0511
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_synthetic_med_097857_liars_dividen_1ef843",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 189.918,
+      "phases": {
+        "preparation": 188.1913,
+        "media_svg": 0.3625,
+        "youtube": 0.7273,
+        "content_assembly": 0.5113,
+        "monetization": 0.0886,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_generative_ai_4b0679_synthetic_med_097857_political_dee_37fb6a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 232.9019,
+      "phases": {
+        "preparation": 230.8662,
+        "media_svg": 0.4745,
+        "youtube": 0.9329,
+        "content_assembly": 0.4839,
+        "monetization": 0.0789,
+        "quality_write": 0.0655
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_few_shot_prom_45dc0d_example_order_b57e39",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.1134,
+      "phases": {
+        "preparation": 183.911,
+        "media_svg": 0.3955,
+        "youtube": 0.9785,
+        "content_assembly": 0.4909,
+        "monetization": 5.3041,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_few_shot_prom_45dc0d_few_shot_outp_8102c0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.9508,
+      "phases": {
+        "preparation": 179.7822,
+        "media_svg": 0.401,
+        "youtube": 0.7159,
+        "content_assembly": 0.4697,
+        "monetization": 1.5354,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b_chatbot_guess_4955c1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 217.2526,
+      "phases": {
+        "preparation": 210.1416,
+        "media_svg": 0.8126,
+        "youtube": 0.7477,
+        "content_assembly": 0.5279,
+        "monetization": 4.9735,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b_invented_ai_c_7edff0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 199.2693,
+      "phases": {
+        "preparation": 197.0966,
+        "media_svg": 0.888,
+        "youtube": 0.6963,
+        "content_assembly": 0.4813,
+        "monetization": 0.0703,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b_verify_fluent_be0600",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 269.2506,
+      "phases": {
+        "preparation": 262.9157,
+        "media_svg": 0.7852,
+        "youtube": 1.1783,
+        "content_assembly": 0.4851,
+        "monetization": 3.8451,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9_decoding_sett_4f4800",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 276.3267,
+      "phases": {
+        "preparation": 274.2427,
+        "media_svg": 0.4492,
+        "youtube": 0.9564,
+        "content_assembly": 0.5597,
+        "monetization": 0.0743,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124_direct_contex_ed7037",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 223.7532,
+      "phases": {
+        "preparation": 220.7279,
+        "media_svg": 0.8065,
+        "youtube": 0.7087,
+        "content_assembly": 0.4617,
+        "monetization": 1.008,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124_parallel_trai_051b20",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 176.2592,
+      "phases": {
+        "preparation": 172.2831,
+        "media_svg": 0.7597,
+        "youtube": 0.7363,
+        "content_assembly": 0.5127,
+        "monetization": 1.9291,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124_translation_t_3a6c20",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 226.5047,
+      "phases": {
+        "preparation": 224.107,
+        "media_svg": 0.8246,
+        "youtube": 0.9673,
+        "content_assembly": 0.4931,
+        "monetization": 0.0716,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a_biased_labels_cd6496",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.9911,
+      "phases": {
+        "preparation": 204.1883,
+        "media_svg": 0.4337,
+        "youtube": 0.7469,
+        "content_assembly": 0.5045,
+        "monetization": 0.0728,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a_facial_recogn_78770b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 199.5725,
+      "phases": {
+        "preparation": 197.1123,
+        "media_svg": 0.8359,
+        "youtube": 0.9914,
+        "content_assembly": 0.5139,
+        "monetization": 0.0749,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a_fairness_metr_bb73b6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 294.5523,
+      "phases": {
+        "preparation": 292.1446,
+        "media_svg": 0.8135,
+        "youtube": 0.9414,
+        "content_assembly": 0.5385,
+        "monetization": 0.0704,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_loss_function_b59239_click_loss_ba_cb6288",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 234.4042,
+      "phases": {
+        "preparation": 232.2703,
+        "media_svg": 0.7835,
+        "youtube": 0.7138,
+        "content_assembly": 0.5238,
+        "monetization": 0.0724,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_loss_function_b59239_large_error_p_110dd2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 204.2808,
+      "phases": {
+        "preparation": 202.0969,
+        "media_svg": 0.8162,
+        "youtube": 0.7305,
+        "content_assembly": 0.5163,
+        "monetization": 0.0786,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_loss_function_b59239_confidence_wr_080ad1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 331.1395,
+      "phases": {
+        "preparation": 328.0302,
+        "media_svg": 1.0569,
+        "youtube": 1.1054,
+        "content_assembly": 0.7559,
+        "monetization": 0.1251,
+        "quality_write": 0.0661
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_hidden_memori_b435c3",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.8345,
+      "phases": {
+        "preparation": 183.6361,
+        "media_svg": 0.7934,
+        "youtube": 0.8831,
+        "content_assembly": 0.422,
+        "monetization": 0.0654,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_test_sets_ove_9bab93",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 254.631,
+      "phases": {
+        "preparation": 252.0292,
+        "media_svg": 0.8453,
+        "youtube": 1.1533,
+        "content_assembly": 0.4912,
+        "monetization": 0.0707,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_validation_cu_04f077",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 244.5551,
+      "phases": {
+        "preparation": 241.2186,
+        "media_svg": 0.8313,
+        "youtube": 1.7552,
+        "content_assembly": 0.6395,
+        "monetization": 0.0722,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd_accent_data_g_e48daf",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 271.9554,
+      "phases": {
+        "preparation": 269.2795,
+        "media_svg": 0.925,
+        "youtube": 1.0801,
+        "content_assembly": 0.5177,
+        "monetization": 0.0868,
+        "quality_write": 0.0663
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd_class_imbalan_447537",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 197.2719,
+      "phases": {
+        "preparation": 194.7821,
+        "media_svg": 0.8338,
+        "youtube": 0.8554,
+        "content_assembly": 0.6982,
+        "monetization": 0.0523,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd_spurious_corr_cc96c6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.1208,
+      "phases": {
+        "preparation": 196.0372,
+        "media_svg": 0.896,
+        "youtube": 0.6692,
+        "content_assembly": 0.4378,
+        "monetization": 0.0448,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9_arc_puzzles_a_e80460",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.5344,
+      "phases": {
+        "preparation": 162.5062,
+        "media_svg": 0.816,
+        "youtube": 1.62,
+        "content_assembly": 0.4778,
+        "monetization": 0.072,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9_benchmark_con_d957f2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 196.1823,
+      "phases": {
+        "preparation": 194.0108,
+        "media_svg": 0.8173,
+        "youtube": 0.7294,
+        "content_assembly": 0.5168,
+        "monetization": 0.0717,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9_public_scores_5600df",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 214.5479,
+      "phases": {
+        "preparation": 212.389,
+        "media_svg": 0.8089,
+        "youtube": 0.7313,
+        "content_assembly": 0.5144,
+        "monetization": 0.0682,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_chatbox_gener_1aa743_chatbot_relia_af6363",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 261.2472,
+      "phases": {
+        "preparation": 258.461,
+        "media_svg": 0.8444,
+        "youtube": 0.6902,
+        "content_assembly": 0.4888,
+        "monetization": 0.7169,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_chatbox_gener_1aa743_fluent_ai_exp_69d1ff",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 200.0859,
+      "phases": {
+        "preparation": 197.5521,
+        "media_svg": 1.0965,
+        "youtube": 0.8384,
+        "content_assembly": 0.4832,
+        "monetization": 0.0747,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194_forecast_aggr_ccbb51",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 245.5911,
+      "phases": {
+        "preparation": 242.5591,
+        "media_svg": 0.7765,
+        "youtube": 0.7159,
+        "content_assembly": 0.5341,
+        "monetization": 0.9695,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194_single_chatbo_df741b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 269.374,
+      "phases": {
+        "preparation": 267.0589,
+        "media_svg": 0.8087,
+        "youtube": 0.9506,
+        "content_assembly": 0.4538,
+        "monetization": 0.0656,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_risk_based_na_64dcaf_eu_ai_act_nar_111e59",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 200.9073,
+      "phases": {
+        "preparation": 197.629,
+        "media_svg": 0.8299,
+        "youtube": 0.6931,
+        "content_assembly": 0.488,
+        "monetization": 1.2277,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_risk_based_na_64dcaf_hiring_ai_hig_c94f6e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 225.4182,
+      "phases": {
+        "preparation": 222.2217,
+        "media_svg": 0.7834,
+        "youtube": 0.947,
+        "content_assembly": 0.4979,
+        "monetization": 0.928,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_narrow_ai_agi_affd1f_risk_based_na_64dcaf_human_oversig_f047d4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 242.7415,
+      "phases": {
+        "preparation": 240.2631,
+        "media_svg": 0.8128,
+        "youtube": 0.9713,
+        "content_assembly": 0.5121,
+        "monetization": 0.1256,
+        "quality_write": 0.0566
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0_ai_bias_testi_570c6f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.7758,
+      "phases": {
+        "preparation": 202.3046,
+        "media_svg": 1.0691,
+        "youtube": 0.9346,
+        "content_assembly": 0.4748,
+        "monetization": 0.9471,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0_ai_management_670799",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.8336,
+      "phases": {
+        "preparation": 196.6682,
+        "media_svg": 0.8099,
+        "youtube": 0.7376,
+        "content_assembly": 0.4861,
+        "monetization": 0.0902,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0_high_impact_a_09793b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.0814,
+      "phases": {
+        "preparation": 170.4478,
+        "media_svg": 0.4248,
+        "youtube": 0.6815,
+        "content_assembly": 0.4587,
+        "monetization": 1.0316,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025_nist_false_po_bb4c10",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 129.999,
+      "phases": {
+        "preparation": 126.5374,
+        "media_svg": 0.8564,
+        "youtube": 0.6979,
+        "content_assembly": 0.4456,
+        "monetization": 1.4281,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025_facial_recogn_f8576c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.4778,
+      "phases": {
+        "preparation": 171.4174,
+        "media_svg": 0.8145,
+        "youtube": 0.6848,
+        "content_assembly": 0.4533,
+        "monetization": 0.0715,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025_robert_willia_3e6569",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 100.0359,
+      "phases": {
+        "preparation": 97.2666,
+        "media_svg": 0.8123,
+        "youtube": 0.7395,
+        "content_assembly": 0.4773,
+        "monetization": 0.7107,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63_costs_misread_f50405",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 95.0662,
+      "phases": {
+        "preparation": 93.7278,
+        "media_svg": 0.8359,
+        "youtube": 0.0097,
+        "content_assembly": 0.3994,
+        "monetization": 0.0635,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63_target_change_5f78ec",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 122.8078,
+      "phases": {
+        "preparation": 120.6718,
+        "media_svg": 0.8284,
+        "youtube": 0.711,
+        "content_assembly": 0.4848,
+        "monetization": 0.0751,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5_amazon_recrui_d450a5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 126.2617,
+      "phases": {
+        "preparation": 124.1055,
+        "media_svg": 0.8276,
+        "youtube": 0.7236,
+        "content_assembly": 0.4989,
+        "monetization": 0.0724,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5_disparate_imp_43183c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 166.7448,
+      "phases": {
+        "preparation": 163.5182,
+        "media_svg": 0.9807,
+        "youtube": 0.7301,
+        "content_assembly": 0.4642,
+        "monetization": 1.0146,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5_proxy_variabl_4fbe1e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.6711,
+      "phases": {
+        "preparation": 183.4605,
+        "media_svg": 0.8356,
+        "youtube": 0.7503,
+        "content_assembly": 0.4962,
+        "monetization": 0.0702,
+        "quality_write": 0.0584
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_meaningful_hu_790c10_ai_decision_a_5b8cd4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 181.9449,
+      "phases": {
+        "preparation": 179.7421,
+        "media_svg": 0.9048,
+        "youtube": 0.7317,
+        "content_assembly": 0.4554,
+        "monetization": 0.076,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_meaningful_hu_790c10_ai_reviewer_e_7a30fe",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 164.6047,
+      "phases": {
+        "preparation": 162.5535,
+        "media_svg": 0.7693,
+        "youtube": 0.6987,
+        "content_assembly": 0.462,
+        "monetization": 0.0842,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_responsible_a_43d3ec_meaningful_hu_790c10_real_ai_overr_21366a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 183.3121,
+      "phases": {
+        "preparation": 179.8642,
+        "media_svg": 0.8188,
+        "youtube": 0.6783,
+        "content_assembly": 0.4115,
+        "monetization": 1.4885,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c_documentation_df8be8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 176.7306,
+      "phases": {
+        "preparation": 174.3511,
+        "media_svg": 0.9843,
+        "youtube": 0.0091,
+        "content_assembly": 0.562,
+        "monetization": 0.766,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c_model_card_bo_c00323",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 244.722,
+      "phases": {
+        "preparation": 241.478,
+        "media_svg": 1.09,
+        "youtube": 0.849,
+        "content_assembly": 0.4982,
+        "monetization": 0.7668,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c_training_data_9272f2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 229.1472,
+      "phases": {
+        "preparation": 226.9953,
+        "media_svg": 0.8297,
+        "youtube": 0.7311,
+        "content_assembly": 0.5031,
+        "monetization": 0.0501,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_reward_hackin_31c293_adversarial_r_431746",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 204.7614,
+      "phases": {
+        "preparation": 202.6041,
+        "media_svg": 0.8066,
+        "youtube": 0.7233,
+        "content_assembly": 0.5087,
+        "monetization": 0.0799,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_reward_hackin_31c293_length_bias_a_1abf17",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 216.6798,
+      "phases": {
+        "preparation": 214.5802,
+        "media_svg": 0.8509,
+        "youtube": 0.7059,
+        "content_assembly": 0.4435,
+        "monetization": 0.0637,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_reward_hackin_31c293_sycophantic_c_6f367d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 282.0217,
+      "phases": {
+        "preparation": 279.7005,
+        "media_svg": 0.878,
+        "youtube": 0.7706,
+        "content_assembly": 0.5092,
+        "monetization": 0.0976,
+        "quality_write": 0.0659
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54_agreement_bia_3aacbd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 258.0809,
+      "phases": {
+        "preparation": 255.0373,
+        "media_svg": 0.8407,
+        "youtube": 0.6859,
+        "content_assembly": 0.4862,
+        "monetization": 0.9963,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54_gpt4o_sycopha_7e2af6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 186.8964,
+      "phases": {
+        "preparation": 185.1146,
+        "media_svg": 0.4257,
+        "youtube": 0.7619,
+        "content_assembly": 0.498,
+        "monetization": 0.055,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54_anthropic_syc_ed539e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 254.7758,
+      "phases": {
+        "preparation": 252.6311,
+        "media_svg": 0.7523,
+        "youtube": 0.7394,
+        "content_assembly": 0.519,
+        "monetization": 0.0799,
+        "quality_write": 0.0541
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_web_filtering_f19d10_c4_audit_miss_412071",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 150.2326,
+      "phases": {
+        "preparation": 148.0698,
+        "media_svg": 0.8164,
+        "youtube": 0.7488,
+        "content_assembly": 0.492,
+        "monetization": 0.0697,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_web_filtering_f19d10_block_lists_i_546a0d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 229.8625,
+      "phases": {
+        "preparation": 227.2901,
+        "media_svg": 1.089,
+        "youtube": 0.8604,
+        "content_assembly": 0.5116,
+        "monetization": 0.0709,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "understanding_3f90b8_training_data_1437ec_web_filtering_f19d10_filtering_fai_3ba711",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 212.3566,
+      "phases": {
+        "preparation": 210.2446,
+        "media_svg": 0.8211,
+        "youtube": 0.6977,
+        "content_assembly": 0.4896,
+        "monetization": 0.0651,
+        "quality_write": 0.0385
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 2,
+    "workers_raw": "auto",
+    "max_workers": 2,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 251,
+    "reused_pages": 2,
+    "rebuilt_pages": 250,
+    "error_pages": 1,
+    "page_work_wall_seconds": 28412.2067,
+    "rebuilt_pages_per_minute": 0.5279,
+    "queued_rebuild_pages_per_minute": 0.5301,
+    "apparent_page_work_speedup": 1.9923,
+    "process_worker_diagnostics": {
+      "completed_pages": 251,
+      "successful_pages": 250,
+      "failed_pages": 1,
+      "worker_summary": {
+        "24700": {
+          "pages": 127,
+          "successes": 127,
+          "failures": 0,
+          "total_worker_seconds": 28210.0273,
+          "max_worker_seconds": 532.3214,
+          "last_base_name": "understanding_3f90b8_training_data_1437ec_web_filtering_f19d10_block_lists_i_546a0d"
+        },
+        "1552": {
+          "pages": 124,
+          "successes": 123,
+          "failures": 1,
+          "total_worker_seconds": 28408.8764,
+          "max_worker_seconds": 556.2999,
+          "last_base_name": "understanding_3f90b8_training_data_1437ec_web_filtering_f19d10_filtering_fai_3ba711"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "understanding_3f90b8_generative_ai_4b0679",
+          "level": 2,
+          "success": false,
+          "worker_pid": 1552,
+          "worker_duration_seconds": 556.2999,
+          "total_seconds": 556.2999,
+          "worker_started_at_utc": "2026-06-17T03:24:40.611597Z",
+          "worker_finished_at_utc": "2026-06-17T03:33:56.911506Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8",
+          "level": 1,
+          "success": true,
+          "worker_pid": 1552,
+          "worker_duration_seconds": 538.5366,
+          "total_seconds": 538.4862,
+          "worker_started_at_utc": "2026-06-17T03:07:35.449240Z",
+          "worker_finished_at_utc": "2026-06-17T03:16:33.935464Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_transformers_53d0af",
+          "level": 2,
+          "success": true,
+          "worker_pid": 24700,
+          "worker_duration_seconds": 532.3214,
+          "total_seconds": 532.2758,
+          "worker_started_at_utc": "2026-06-17T03:07:38.108137Z",
+          "worker_finished_at_utc": "2026-06-17T03:16:30.384050Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_training_data_1437ec",
+          "level": 2,
+          "success": true,
+          "worker_pid": 1552,
+          "worker_duration_seconds": 503.7307,
+          "total_seconds": 503.6842,
+          "worker_started_at_utc": "2026-06-17T03:39:55.089533Z",
+          "worker_finished_at_utc": "2026-06-17T03:48:18.773803Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_deep_learning_f76913",
+          "level": 2,
+          "success": true,
+          "worker_pid": 1552,
+          "worker_duration_seconds": 486.6227,
+          "total_seconds": 486.5679,
+          "worker_started_at_utc": "2026-06-17T03:16:33.986938Z",
+          "worker_finished_at_utc": "2026-06-17T03:24:40.554865Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_responsible_a_43d3ec",
+          "level": 2,
+          "success": true,
+          "worker_pid": 24700,
+          "worker_duration_seconds": 413.2996,
+          "total_seconds": 413.2461,
+          "worker_started_at_utc": "2026-06-17T03:38:05.720717Z",
+          "worker_finished_at_utc": "2026-06-17T03:44:58.966840Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_generative_ai_4b0679_prompt_iterat_7d71b9_revision_prom_00efb4",
+          "level": 4,
+          "success": true,
+          "worker_pid": 1552,
+          "worker_duration_seconds": 408.3363,
+          "total_seconds": 408.2926,
+          "worker_started_at_utc": "2026-06-17T09:09:43.417267Z",
+          "worker_finished_at_utc": "2026-06-17T09:16:31.709921Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_ai_system_out_b025fe",
+          "level": 2,
+          "success": true,
+          "worker_pid": 24700,
+          "worker_duration_seconds": 393.868,
+          "total_seconds": 393.8057,
+          "worker_started_at_utc": "2026-06-17T03:16:30.430621Z",
+          "worker_finished_at_utc": "2026-06-17T03:23:04.236328Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1",
+          "level": 3,
+          "success": true,
+          "worker_pid": 1552,
+          "worker_duration_seconds": 393.6489,
+          "total_seconds": 393.5979,
+          "worker_started_at_utc": "2026-06-17T03:54:59.812597Z",
+          "worker_finished_at_utc": "2026-06-17T04:01:33.410518Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_business_ai_m_1185a2",
+          "level": 4,
+          "success": true,
+          "worker_pid": 24700,
+          "worker_duration_seconds": 389.1824,
+          "total_seconds": 389.1281,
+          "worker_started_at_utc": "2026-06-17T06:01:14.452647Z",
+          "worker_finished_at_utc": "2026-06-17T06:07:43.580827Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
