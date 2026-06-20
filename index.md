@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/understanding_3f90b8-overview-social.jpg
+  preview_image: /assets/images/understanding_3f90b8-overview-social.jpg
+image: /assets/images/understanding_3f90b8-overview-social.jpg
 site_image_description: A person studies a laptop showing a network of connected data points beside printed documents, a medical scan, and a small robot...
 ---
 
