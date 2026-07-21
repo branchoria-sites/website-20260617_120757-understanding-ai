@@ -420,89 +420,89 @@ The learning loop is simple in principle: customers encounter problems, support 
 Without that loop, tickets remain historical records. With it, tickets become a source of continuous learning that strengthens documentation, improves policy clarity, reduces repeat issues and increases the effectiveness of AI-assisted customer service. In redesigned AI service workflows, the support ticket is not merely evidence of a past interaction; it is a mechanism for improving the next one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.zendesk.com/hc/en-us/articles/4408832234394-Analyzing-the-metrics-that-matter-to-improve-customer-support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.zendesk.com">[Zendesk Support+2Zendesk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.zendesk.com</span><span class="citation-popover-snippet">Zendesk SupportAnalyzing the metrics that matter to improve customer support – Zendesk help...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can every support ticket teach the AI?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can every support ticket teach the AI?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Competing+on+Analytics+by+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Competing on Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n7Gp7Q84hcsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Competing on Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Competing+on+Analytics+by+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Competing on Analytics">Competing on Analytics</a>
-</h4>
-<p class="fr-book-author">By Thomas H. Davenport, Jeanne G. Harris</p>
-<p class="fr-book-popularity">Rating: 3.0/5 from 16 Google Books ratings</p>
-<p class="fr-book-desc">Explains extracting value from operational data such as support tickets.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Competing+on+Analytics+by+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Competing+on+Analytics+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Competing on Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n7Gp7Q84hcsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Competing on Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Competing+on+Analytics+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Competing on Analytics">Competing on Analytics</a>
+        </h4>
+        <p class="fr-book-author">By Thomas H. Davenport, Jeanne G. Harris</p>
+        <p class="fr-book-popularity">Rating: 3.0/5 from 16 Google Books ratings</p>
+        <p class="fr-book-desc">Explains extracting value from operational data such as support tickets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Competing+on+Analytics+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Effortless+Experience+by+Matthew+Dixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Effortless Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9mzbBQ2wVdEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Effortless Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Effortless+Experience+by+Matthew+Dixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Effortless Experience">The Effortless Experience</a>
-</h4>
-<p class="fr-book-author">By Matthew Dixon, Nicholas Toman et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working Backwards on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jgn5DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Working Backwards" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working Backwards">Working Backwards</a>
+        </h4>
+        <p class="fr-book-author">By Colin Bryar, Bill Carr</p>
         
-<p class="fr-book-desc">Uses customer-service evidence and recurring issues to improve support outcomes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Effortless+Experience+by+Matthew+Dixon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how customer signals can drive continuous improvement loops.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+Backwards+by+Colin+Bryar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working Backwards on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jgn5DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Working Backwards" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Working+Backwards+by+Colin+Bryar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working Backwards">Working Backwards</a>
-</h4>
-<p class="fr-book-author">By Colin Bryar, Bill Carr</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Effortless+Experience+Matthew+Dixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Effortless Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9mzbBQ2wVdEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Effortless Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Effortless+Experience+Matthew+Dixon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Effortless Experience">The Effortless Experience</a>
+        </h4>
+        <p class="fr-book-author">By Matthew Dixon, Nicholas Toman et al.</p>
         
-<p class="fr-book-desc">Shows how customer signals can drive continuous improvement loops.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Working+Backwards+by+Colin+Bryar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Uses customer-service evidence and recurring issues to improve support outcomes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Effortless+Experience+Matthew+Dixon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Knowledge+Management+in+Theory+and+Practice%2C+third+edition+by+Kimiz+Dalkir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Knowledge Management in Theory and Practice, third edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xclDDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Knowledge Management in Theory and Practice, third edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Knowledge+Management+in+Theory+and+Practice%2C+third+edition+by+Kimiz+Dalkir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knowledge Management in Theory and Practice, third edition">Knowledge Management in Theory and Practice, third edition</a>
-</h4>
-<p class="fr-book-author">By Kimiz Dalkir</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Knowledge+Management+in+Theory+and+Practice%2C+third+edition+Kimiz+Dalkir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Knowledge Management in Theory and Practice, third edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xclDDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Knowledge Management in Theory and Practice, third edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Knowledge+Management+in+Theory+and+Practice%2C+third+edition+Kimiz+Dalkir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knowledge Management in Theory and Practice, third edition">Knowledge Management in Theory and Practice, third edition</a>
+        </h4>
+        <p class="fr-book-author">By Kimiz Dalkir</p>
         
-<p class="fr-book-desc">Directly relevant to turning resolved cases into organisational knowledge.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Knowledge+Management+in+Theory+and+Practice%2C+third+edition+by+Kimiz+Dalkir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly relevant to turning resolved cases into organisational knowledge.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Knowledge+Management+in+Theory+and+Practice%2C+third+edition+Kimiz+Dalkir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Competing+on+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Competing on Analytics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Effortless+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Effortless Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Working+Backwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Working Backwards</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Competing+on+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Competing on Analytics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Working+Backwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Working Backwards</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Effortless+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Effortless Experience</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

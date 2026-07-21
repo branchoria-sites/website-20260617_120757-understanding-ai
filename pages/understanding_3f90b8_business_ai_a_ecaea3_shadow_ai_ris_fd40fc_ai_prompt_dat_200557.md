@@ -378,89 +378,89 @@ This creates a recurring tension at the heart of shadow AI. Workers see a useful
 As organisations adopt AI more broadly, [understanding]({{ 'understanding/' | relative_url }}) that distinction becomes essential. The most damaging data leak may not begin with a sophisticated cyberattack. It may begin with a helpful request copied into the wrong chatbot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://witness.ai/blog/chatbot-security-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: witness.ai">[WitnessAI+2SANS Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">witness.ai</span><span class="citation-popover-title">AI5 Enterprise AI Chatbot Security Risks &amp; How to Manage Them</span><span class="citation-popover-snippet">AI5 Enterprise AI Chatbot Security Risks &amp; How to Manage Them - WitnessAIMarch 30, 2026...</span><span class="citation-popover-meta">Published: March 30, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Happens When Staff Paste Secrets Into AI?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Happens When Staff Paste Secrets Into AI?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management+by+James+Sayles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of AI Governance and Model Risk Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4_U6EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Principles of AI Governance and Model Risk Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management+by+James+Sayles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of AI Governance and Model Risk Management">Principles of AI Governance and Model Risk Management</a>
-</h4>
-<p class="fr-book-author">By James Sayles</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Transformational+Security+Awareness+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transformational Security Awareness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JAiUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Transformational Security Awareness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Transformational+Security+Awareness+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transformational Security Awareness">Transformational Security Awareness</a>
+        </h4>
+        <p class="fr-book-author">By Perry Carpenter</p>
         
-<p class="fr-book-desc">Addresses controls around AI use, risk management, and responsible deployment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management+by+James+Sayles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains human behavior risks that lead to data exposure.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Transformational+Security+Awareness+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Transformational+Security+Awareness+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transformational Security Awareness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JAiUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Transformational Security Awareness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Transformational+Security+Awareness+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transformational Security Awareness">Transformational Security Awareness</a>
-</h4>
-<p class="fr-book-author">By Perry Carpenter</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management+James+Sayles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of AI Governance and Model Risk Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4_U6EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Principles of AI Governance and Model Risk Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management+James+Sayles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of AI Governance and Model Risk Management">Principles of AI Governance and Model Risk Management</a>
+        </h4>
+        <p class="fr-book-author">By James Sayles</p>
         
-<p class="fr-book-desc">Explains human behavior risks that lead to data exposure.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Transformational+Security+Awareness+by+Perry+Carpenter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses controls around AI use, risk management, and responsible deployment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management+James+Sayles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ud8yswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
-</h4>
-<p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ud8yswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
+        </h4>
+        <p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
         
-<p class="fr-book-desc">Illustrates governance, process discipline, and consequences of uncontrolled information flows.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates governance, process discipline, and consequences of uncontrolled information flows.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
-</h4>
-<p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
+        </h4>
+        <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
         
-<p class="fr-book-desc">Provides accessible context on information security and organizational risk.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides accessible context on information security and organizational risk.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of AI Governance and Model Risk Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Transformational+Security+Awareness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Transformational Security Awareness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Transformational+Security+Awareness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Transformational Security Awareness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+AI+Governance+and+Model+Risk+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of AI Governance and Model Risk Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -347,89 +347,89 @@ In that sense, ImageNet did more than measure AlexNet’s performance. It provid
 <img src="{{ "/assets/images/understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc_imagenet_visi_798e6d-Illustration-3-dark.svg" | relative_url }}" alt="Image Net Impact illustration 3" data-theme-src-dark="{{ "/assets/images/understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc_imagenet_visi_798e6d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/understanding_3f90b8_deep_learning_f76913_alexnet_image_7041cc_imagenet_visi_798e6d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did One Benchmark Result Change So Many Minds?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did One Benchmark Result Change So Many Minds?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-</h4>
-<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-<p class="fr-book-desc">Explains the benchmark-driven advances that followed ImageNet.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+        </h4>
+        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+        <p class="fr-book-desc">Explains the benchmark-driven advances that followed ImageNet.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
-</h4>
-<p class="fr-book-author">By Aurélien Géron</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
+        </h4>
+        <p class="fr-book-author">By Aurélien Géron</p>
         
-<p class="fr-book-desc">Uses image-classification examples influenced by ImageNet-era methods.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Uses image-classification examples influenced by ImageNet-era methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+by+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bXzAlkODwa8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Computer+Vision+by+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-</h4>
-<p class="fr-book-author">By Richard Szeliski</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+with+Python+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning with Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wzozEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning with Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning with Python">Deep Learning with Python</a>
+        </h4>
+        <p class="fr-book-author">By Francois Chollet</p>
         
-<p class="fr-book-desc">Provides context for large-scale image-recognition benchmarks.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Computer+Vision+by+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how benchmark datasets accelerated deep-learning adoption.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+with+Python+by+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning with Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wzozEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning with Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+by+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning with Python">Deep Learning with Python</a>
-</h4>
-<p class="fr-book-author">By Francois Chollet</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bXzAlkODwa8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+        </h4>
+        <p class="fr-book-author">By Richard Szeliski</p>
         
-<p class="fr-book-desc">Shows how benchmark datasets accelerated deep-learning adoption.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+by+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for large-scale image-recognition benchmarks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning+with+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning with Python</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

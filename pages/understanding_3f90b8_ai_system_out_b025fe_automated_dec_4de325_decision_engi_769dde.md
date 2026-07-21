@@ -424,89 +424,89 @@ The most consequential part of many AI deployments is not the prediction itself 
 Understanding automated decision-making therefore requires looking beyond model accuracy. Thresholds, business rules, escalation paths and oversight mechanisms shape real-world outcomes just as much as machine-learning performance. When organisations evaluate fairness, accountability and safety, the decision engine—not only the AI model—must be part of the analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2InRule]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Artificial Intelligence Risk Management Framework (AI RMF 1.0</span><span class="citation-popover-snippet">NIST PublicationsArtificial Intelligence Risk Management Framework (AI RMF 1.0)June 4, 2025 — by N AI · 2023 · Cited by 228 — The Framewo...</span><span class="citation-popover-meta">Published: June 4, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How AI scores become real world decisions. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How AI scores become real-world decisions. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prediction Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Prediction Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prediction Machines">Prediction Machines</a>
-</h4>
-<p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prediction+Machines+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prediction Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Prediction Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Prediction+Machines+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prediction Machines">Prediction Machines</a>
+        </h4>
+        <p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
         
-<p class="fr-book-desc">Explains how predictions feed operational decision processes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how predictions feed operational decision processes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Prediction+Machines+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-</h4>
-<p class="fr-book-author">By Stuart Russell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI+Marco+Iansiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Competing in the Age of AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yW87wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Competing in the Age of AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI+Marco+Iansiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Competing in the Age of AI">Competing in the Age of AI</a>
+        </h4>
+        <p class="fr-book-author">By Marco Iansiti, Karim R. Lakhani</p>
         
-<p class="fr-book-desc">Addresses control over automated actions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how AI systems and business rules create automated actions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI+Marco+Iansiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI+by+Marco+Iansiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Competing in the Age of AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yW87wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Competing in the Age of AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI+by+Marco+Iansiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Competing in the Age of AI">Competing in the Age of AI</a>
-</h4>
-<p class="fr-book-author">By Marco Iansiti, Karim R. Lakhani</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+        </h4>
+        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-<p class="fr-book-desc">Shows how AI systems and business rules create automated actions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI+by+Marco+Iansiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates impacts of decision engines and scoring rules.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-</h4>
-<p class="fr-book-author">By Cathy O&#x27;Neil</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+        </h4>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-<p class="fr-book-desc">Illustrates impacts of decision engines and scoring rules.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses control over automated actions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Prediction+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prediction Machines</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Competing in the Age of AI</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prediction+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prediction Machines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Competing+in+the+Age+of+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Competing in the Age of AI</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

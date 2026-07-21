@@ -381,89 +381,89 @@ Biased data matters because machine-learning systems learn from the world as it 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When learned patterns become unfair. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When learned patterns become unfair. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-</h4>
-<p class="fr-book-author">By Cathy O&#x27;Neil</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+        </h4>
+        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-<p class="fr-book-desc">Shows how biased data and models can create unfair outcomes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how biased data and models can create unfair outcomes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AzlDDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
-</h4>
-<p class="fr-book-author">By Safiya Umoja Noble</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
+        </h4>
+        <p class="fr-book-author">By Aurélien Géron</p>
         
-<p class="fr-book-desc">Examines how data and algorithms can reproduce social inequalities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+by+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supplies the machine-learning foundations needed to understand where bias enters systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Race+After+Technology+by+Ruha+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Race After Technology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G6-hDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Race After Technology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Race+After+Technology+by+Ruha+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Race After Technology">Race After Technology</a>
-</h4>
-<p class="fr-book-author">By Ruha Benjamin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Algorithms of Oppression on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AzlDDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Algorithms of Oppression" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Algorithms of Oppression">Algorithms of Oppression</a>
+        </h4>
+        <p class="fr-book-author">By Safiya Umoja Noble</p>
         
-<p class="fr-book-desc">Explores bias and discrimination embedded in technological systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Race+After+Technology+by+Ruha+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines how data and algorithms can reproduce social inequalities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Algorithms+of+Oppression+Safiya+Umoja+Noble&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atlas of AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G2iUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atlas of AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas of AI">Atlas of AI</a>
-</h4>
-<p class="fr-book-author">By Kate Crawford</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atlas+of+AI+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atlas of AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G2iUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atlas of AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Atlas+of+AI+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas of AI">Atlas of AI</a>
+        </h4>
+        <p class="fr-book-author">By Kate Crawford</p>
         
-<p class="fr-book-desc">Provides context on data collection, power, and AI harms.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context on data collection, power, and AI harms.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Atlas+of+AI+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Race+After+Technology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Race After Technology</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Algorithms+of+Oppression&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Algorithms of Oppression</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

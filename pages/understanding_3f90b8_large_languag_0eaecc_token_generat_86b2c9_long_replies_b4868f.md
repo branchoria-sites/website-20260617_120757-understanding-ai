@@ -372,89 +372,89 @@ The key idea is that a long answer is not a single object waiting to be revealed
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why longer AI answers slow down. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why longer AI answers slow down. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+by+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-On Large Language Models on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iE8hEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hands-On Large Language Models" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+by+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-On Large Language Models">Hands-On Large Language Models</a>
-</h4>
-<p class="fr-book-author">By Jay Alammar, Maarten Grootendorst</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Machine+Learning+Systems+Chip+Huyen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Machine Learning Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=70KmzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Designing Machine Learning Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Designing+Machine+Learning+Systems+Chip+Huyen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Machine Learning Systems">Designing Machine Learning Systems</a>
+        </h4>
+        <p class="fr-book-author">By Chip Huyen</p>
         
-<p class="fr-book-desc">Explains token-by-token generation costs and scaling.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+by+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Touches on inference performance and deployment constraints.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Designing+Machine+Learning+Systems+Chip+Huyen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+by+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natural Language Processing with Transformers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7hhyzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Natural Language Processing with Transformers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+by+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natural Language Processing with Transformers">Natural Language Processing with Transformers</a>
-</h4>
-<p class="fr-book-author">By Lewis Tunstall, Leandro von Werra et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-On Large Language Models on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iE8hEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hands-On Large Language Models" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-On Large Language Models">Hands-On Large Language Models</a>
+        </h4>
+        <p class="fr-book-author">By Jay Alammar, Maarten Grootendorst</p>
         
-<p class="fr-book-desc">Provides technical background for generation speed and context.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+by+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains token-by-token generation costs and scaling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29+by+Sebastian+Raschka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Build a Large Language Model (From Scratch) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uSUmEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Build a Large Language Model (From Scratch)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29+by+Sebastian+Raschka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Build a Large Language Model (From Scratch)">Build a Large Language Model (From Scratch)</a>
-</h4>
-<p class="fr-book-author">By Sebastian Raschka</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29+Sebastian+Raschka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Build a Large Language Model (From Scratch) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uSUmEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Build a Large Language Model (From Scratch)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29+Sebastian+Raschka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Build a Large Language Model (From Scratch)">Build a Large Language Model (From Scratch)</a>
+        </h4>
+        <p class="fr-book-author">By Sebastian Raschka</p>
         
-<p class="fr-book-desc">Covers inference mechanics and performance trade-offs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29+by+Sebastian+Raschka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers inference mechanics and performance trade-offs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29+Sebastian+Raschka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Large+Language+Models+by+John+Atkinson-Abutridy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Large Language Models on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=M7eNEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Large Language Models" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Large+Language+Models+by+John+Atkinson-Abutridy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Large Language Models">Large Language Models</a>
-</h4>
-<p class="fr-book-author">By John Atkinson-Abutridy</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natural Language Processing with Transformers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7hhyzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Natural Language Processing with Transformers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natural Language Processing with Transformers">Natural Language Processing with Transformers</a>
+        </h4>
+        <p class="fr-book-author">By Lewis Tunstall, Leandro von Werra et al.</p>
         
-<p class="fr-book-desc">Addresses model architecture and operation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Large+Language+Models+by+John+Atkinson-Abutridy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides technical background for generation speed and context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+On+Large+Language+Models&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands On Large Language Models</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Natural Language Processing with Transformers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Build a Large Language Model (From Scratch)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Machine+Learning+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Machine Learning Systems</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+On+Large+Language+Models&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands On Large Language Models</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Build+a+Large+Language+Model+%28From+Scratch%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Build a Large Language Model (From Scratch)</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

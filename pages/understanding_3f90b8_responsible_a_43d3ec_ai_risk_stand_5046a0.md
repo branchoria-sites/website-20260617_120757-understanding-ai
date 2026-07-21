@@ -391,89 +391,89 @@ In the wider effort to address bias and strengthen accountability, that shift fr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How standards make AI accountability repeatable. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How standards make AI accountability repeatable. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard+by+Sid+Ahmed+Benraouane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI Management System Certification According to the ISO/IEC 42001 Standard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hA4GEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for AI Management System Certification According to the ISO/IEC 42001 Standard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard+by+Sid+Ahmed+Benraouane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI Management System Certification According to the ISO/IEC 42001 Standard">AI Management System Certification According to the ISO/IEC 4...</a>
-</h4>
-<p class="fr-book-author">By Sid Ahmed Benraouane</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=AI+Governance+Handbook+Sunil+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI Governance Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iL59EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for AI Governance Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=AI+Governance+Handbook+Sunil+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI Governance Handbook">AI Governance Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Sunil Gregory, Anindya Sircar</p>
         
-<p class="fr-book-desc">Directly addresses ISO 42001 implementation and auditing.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard+by+Sid+Ahmed+Benraouane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong match for repeatable accountability and management systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=AI+Governance+Handbook+Sunil+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=AI+Governance+Handbook+by+Sunil+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI Governance Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iL59EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for AI Governance Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=AI+Governance+Handbook+by+Sunil+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI Governance Handbook">AI Governance Handbook</a>
-</h4>
-<p class="fr-book-author">By Sunil Gregory, Anindya Sircar</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Responsible+AI+in+Practice+Toju+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Responsible AI in Practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3NPw0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Responsible AI in Practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Responsible+AI+in+Practice+Toju+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Responsible AI in Practice">Responsible AI in Practice</a>
+        </h4>
+        <p class="fr-book-author">By Toju Duke, Paolo Giudici</p>
         
-<p class="fr-book-desc">Strong match for repeatable accountability and management systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=AI+Governance+Handbook+by+Sunil+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers risk frameworks, governance and operational controls.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Responsible+AI+in+Practice+Toju+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+J.+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VMq_wwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+J.+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
-</h4>
-<p class="fr-book-author">By Stuart J. Russell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard+Sid+Ahmed+Benraouane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI Management System Certification According to the ISO/IEC 42001 Standard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hA4GEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for AI Management System Certification According to the ISO/IEC 42001 Standard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard+Sid+Ahmed+Benraouane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI Management System Certification According to the ISO/IEC 42001 Standard">AI Management System Certification According to the ISO/IEC 4...</a>
+        </h4>
+        <p class="fr-book-author">By Sid Ahmed Benraouane</p>
         
-<p class="fr-book-desc">Provides conceptual foundations for risk management.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+J.+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses ISO 42001 implementation and auditing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard+Sid+Ahmed+Benraouane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Responsible+AI+in+Practice+by+Toju+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Responsible AI in Practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3NPw0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Responsible AI in Practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Responsible+AI+in+Practice+by+Toju+Duke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Responsible AI in Practice">Responsible AI in Practice</a>
-</h4>
-<p class="fr-book-author">By Toju Duke, Paolo Giudici</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
+        </h4>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-<p class="fr-book-desc">Covers risk frameworks, governance and operational controls.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Responsible+AI+in+Practice+by+Toju+Duke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides conceptual foundations for risk management.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI Management System Certification According to the ISO/IEC 42001 Standard</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=AI+Governance+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI Governance books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=AI+Governance+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI Governance books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Responsible+AI+in+Practice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Responsible AI in Practice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=AI+Management+System+Certification+According+to+the+ISO%2FIEC+42001+Standard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI Management System Certification According to the ISO/IEC 42001 Standard</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

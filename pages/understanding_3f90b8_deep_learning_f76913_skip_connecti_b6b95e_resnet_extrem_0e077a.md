@@ -328,89 +328,89 @@ In that sense, ResNet's most enduring contribution was not a particular 152-laye
 <img src="{{ "/assets/images/understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e_resnet_extrem_0e077a-Illustration-3-dark.svg" | relative_url }}" alt="Res Net depth illustration 3" data-theme-src-dark="{{ "/assets/images/understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e_resnet_extrem_0e077a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/understanding_3f90b8_deep_learning_f76913_skip_connecti_b6b95e_resnet_extrem_0e077a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Res Net made very deep AI practical. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How ResNet made very deep AI practical. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+with+Python+by+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning with Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wzozEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning with Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+by+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning with Python">Deep Learning with Python</a>
-</h4>
-<p class="fr-book-author">By Francois Chollet</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
+        </h4>
+        <p class="fr-book-author">By Aurélien Géron</p>
         
-<p class="fr-book-desc">Shows why architectural choices improve trainability and performance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+by+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Practical exposure to deep neural architectures and training.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dive+into+Deep+Learning+by+Aston+Zhang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dive into Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfDiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dive into Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dive+into+Deep+Learning+by+Aston+Zhang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dive into Deep Learning">Dive into Deep Learning</a>
-</h4>
-<p class="fr-book-author">By Aston Zhang, Zachary C. Lipton et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+with+Python+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning with Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wzozEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning with Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning with Python">Deep Learning with Python</a>
+        </h4>
+        <p class="fr-book-author">By Francois Chollet</p>
         
-<p class="fr-book-desc">Explains modern architectures including residual-style concepts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dive+into+Deep+Learning+by+Aston+Zhang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains architectural advances that made deep networks effective.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+with+Python+Francois+Chollet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Neural+Networks+and+Deep+Learning+by+Charu+C.+Aggarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neural Networks and Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=achqDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Neural Networks and Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Neural+Networks+and+Deep+Learning+by+Charu+C.+Aggarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neural Networks and Deep Learning">Neural Networks and Deep Learning</a>
-</h4>
-<p class="fr-book-author">By Charu C. Aggarwal</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+        </h4>
+        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+        <p class="fr-book-desc">Provides essential foundations for understanding ResNet and extreme depth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dive+into+Deep+Learning+Aston+Zhang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dive into Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vfDiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dive into Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dive+into+Deep+Learning+Aston+Zhang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dive into Deep Learning">Dive into Deep Learning</a>
+        </h4>
+        <p class="fr-book-author">By Aston Zhang, Zachary C. Lipton et al.</p>
         
-<p class="fr-book-desc">Explains gradient propagation and training dynamics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Neural+Networks+and+Deep+Learning+by+Charu+C.+Aggarwal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes contemporary deep network architectures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dive+into+Deep+Learning+Aston+Zhang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-</h4>
-<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-<p class="fr-book-desc">Covers optimisation challenges, gradient flow, and deep architectures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning+with+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning with Python</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dive+into+Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dive into Deep Learning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Neural+Networks+and+Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neural Networks and Deep Learning</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning+with+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning with Python</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

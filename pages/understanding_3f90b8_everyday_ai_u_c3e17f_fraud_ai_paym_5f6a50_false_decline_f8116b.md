@@ -365,89 +365,89 @@ False declines therefore illustrate a broader lesson about artificial intelligen
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why real payments sometimes look like fraud. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why real payments sometimes look like fraud. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection+by+Nick+Ryman-Tubb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machine Learning Advances in Payment Card Fraud Detection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JG89DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Machine Learning Advances in Payment Card Fraud Detection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection+by+Nick+Ryman-Tubb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machine Learning Advances in Payment Card Fraud Detection">Machine Learning Advances in Payment Card Fraud Detection</a>
-</h4>
-<p class="fr-book-author">By Nick Ryman-Tubb, Paul Krause</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+        </h4>
+        <p class="fr-book-author">By Brian Christian</p>
         
-<p class="fr-book-desc">Directly addresses fraud models, detection signals, and false positives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection+by+Nick+Ryman-Tubb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context on evaluation errors and machine-learning trade-offs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques+by+Bart+Baesens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1fTGBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques+by+Bart+Baesens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques">Fraud Analytics Using Descriptive, Predictive, and Social Net...</a>
-</h4>
-<p class="fr-book-author">By Bart Baesens, Veronique Van Vlasselaer et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection+Nick+Ryman-Tubb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machine Learning Advances in Payment Card Fraud Detection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JG89DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Machine Learning Advances in Payment Card Fraud Detection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection+Nick+Ryman-Tubb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machine Learning Advances in Payment Card Fraud Detection">Machine Learning Advances in Payment Card Fraud Detection</a>
+        </h4>
+        <p class="fr-book-author">By Nick Ryman-Tubb, Paul Krause</p>
         
-<p class="fr-book-desc">Explains how risk systems evaluate transactions and generate mistaken alerts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques+by+Bart+Baesens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses fraud models, detection signals, and false positives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection+Nick+Ryman-Tubb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-</h4>
-<p class="fr-book-author">By Cathy O&#x27;Neil</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques+Bart+Baesens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1fTGBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques+Bart+Baesens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques">Fraud Analytics Using Descriptive, Predictive, and Social Net...</a>
+        </h4>
+        <p class="fr-book-author">By Bart Baesens, Veronique Van Vlasselaer et al.</p>
         
-<p class="fr-book-desc">Illustrates the human costs of false positives and automated classification errors.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how risk systems evaluate transactions and generate mistaken alerts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques+Bart+Baesens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9GSNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-</h4>
-<p class="fr-book-author">By Brian Christian</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CxD-DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+        </h4>
+        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-<p class="fr-book-desc">Provides context on evaluation errors and machine-learning trade-offs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates the human costs of false positives and automated classification errors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Advances in Payment Card Fraud Detection</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Machine+Learning+Advances+in+Payment+Card+Fraud+Detection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Machine Learning Advances in Payment Card Fraud Detection</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fraud+Analytics+Using+Descriptive%2C+Predictive%2C+and+Social+Network+Techniques&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

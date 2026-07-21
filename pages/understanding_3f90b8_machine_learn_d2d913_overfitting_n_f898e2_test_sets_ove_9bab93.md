@@ -350,89 +350,89 @@ The most important lesson from test sets is that intelligence in machine learnin
 An overfitted model can appear almost flawless when evaluated on the data it has already seen. The test set strips away that illusion. By confronting the model with untouched examples, it provides evidence about whether the system has learned a transferable pattern or merely memorised the past. A strong test score does not guarantee perfect real-world performance, but a large gap between training and test results is one of the clearest signs that a model has failed to generalise. IBM+2Amazon Web Services, Inc.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ibm.com/think/topics/overfitting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibm.com">[ibm.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibm.com</span><span class="citation-popover-snippet">What is Overfitting? &#124; IBMOverfitting occurs when an algorithm fits too closely to its training data, resulting in a model that can&#x27;t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The new examples that reveal overfitting. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The new examples that reveal overfitting. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
-</h4>
-<p class="fr-book-author">By Aurélien Géron</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OCS1twEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow">Hands-on Machine Learning with Scikit-Learn, Keras, and Tenso...</a>
+        </h4>
+        <p class="fr-book-author">By Aurélien Géron</p>
         
-<p class="fr-book-desc">Demonstrates test sets and evaluation workflows with real examples.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+by+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Demonstrates test sets and evaluation workflows with real examples.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow+Aur%C3%A9lien+G%C3%A9ron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Statistical+Learning+by+Gareth+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Statistical Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g5gezgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Introduction to Statistical Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=An+Introduction+to+Statistical+Learning+by+Gareth+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Statistical Learning">An Introduction to Statistical Learning</a>
-</h4>
-<p class="fr-book-author">By Gareth James, Daniela Witten et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning+Christopher+M.+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pattern Recognition and Machine Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kOXDtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pattern Recognition and Machine Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning+Christopher+M.+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pattern Recognition and Machine Learning">Pattern Recognition and Machine Learning</a>
+        </h4>
+        <p class="fr-book-author">By Christopher M. Bishop</p>
         
-<p class="fr-book-desc">Strong coverage of train-test splits, validation, and model assessment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=An+Introduction+to+Statistical+Learning+by+Gareth+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why unseen data is essential for measuring generalisation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning+Christopher+M.+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning+by+Christopher+M.+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pattern Recognition and Machine Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kOXDtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pattern Recognition and Machine Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning+by+Christopher+M.+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pattern Recognition and Machine Learning">Pattern Recognition and Machine Learning</a>
-</h4>
-<p class="fr-book-author">By Christopher M. Bishop</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Statistical+Learning+Gareth+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Statistical Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g5gezgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for An Introduction to Statistical Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Statistical+Learning+Gareth+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Statistical Learning">An Introduction to Statistical Learning</a>
+        </h4>
+        <p class="fr-book-author">By Gareth James, Daniela Witten et al.</p>
         
-<p class="fr-book-desc">Explains why unseen data is essential for measuring generalisation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning+by+Christopher+M.+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong coverage of train-test splits, validation, and model assessment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Statistical+Learning+Gareth+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hundred-page Machine Learning Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0jbxwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hundred-page Machine Learning Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hundred-page Machine Learning Book">The Hundred-page Machine Learning Book</a>
-</h4>
-<p class="fr-book-author">By Andriy Burkov</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hundred-page Machine Learning Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0jbxwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hundred-page Machine Learning Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hundred-page Machine Learning Book">The Hundred-page Machine Learning Book</a>
+        </h4>
+        <p class="fr-book-author">By Andriy Burkov</p>
         
-<p class="fr-book-desc">Summarises evaluation methods and test-set reasoning clearly.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+by+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Summarises evaluation methods and test-set reasoning clearly.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hundred-page+Machine+Learning+Book+Andriy+Burkov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Statistical+Learning+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Statistical Learning books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pattern Recognition and Machine Learning</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+on+Machine+Learning+with+Scikit+Learn%2C+Keras%2C+and+TensorFlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pattern+Recognition+and+Machine+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pattern Recognition and Machine Learning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Statistical+Learning+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Statistical Learning books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

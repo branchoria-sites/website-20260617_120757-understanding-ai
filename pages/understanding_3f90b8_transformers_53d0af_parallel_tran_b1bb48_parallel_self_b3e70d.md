@@ -339,89 +339,89 @@ The result is a trade-off that shaped modern AI: self-attention may perform more
 The central reason self-attention trains faster than recurrence is therefore not that it performs less computation. It is that it reorganises sequence processing into a form that modern hardware can execute in parallel. Recurrent models tie each token to the completion of the previous token. Self-attention lets an entire sequence participate in the same computation at once. By converting language modelling into large-scale matrix operations and reducing sequential dependencies, Transformers unlocked far greater hardware utilisation and became dramatically easier to scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/1706.03762v7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Attention Is All You NeedWe propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispen...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why attention could train all tokens at once. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why attention could train all tokens at once. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+by+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-On Large Language Models on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iE8hEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hands-On Large Language Models" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+by+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-On Large Language Models">Hands-On Large Language Models</a>
-</h4>
-<p class="fr-book-author">By Jay Alammar, Maarten Grootendorst</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hands-On Large Language Models on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iE8hEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hands-On Large Language Models" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hands-On Large Language Models">Hands-On Large Language Models</a>
+        </h4>
+        <p class="fr-book-author">By Jay Alammar, Maarten Grootendorst</p>
         
-<p class="fr-book-desc">Explains matrix operations and transformer efficiency.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+by+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains matrix operations and transformer efficiency.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hands-On+Large+Language+Models+Jay+Alammar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+by+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natural Language Processing with Transformers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7hhyzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Natural Language Processing with Transformers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+by+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natural Language Processing with Transformers">Natural Language Processing with Transformers</a>
-</h4>
-<p class="fr-book-author">By Lewis Tunstall, Leandro von Werra et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natural Language Processing with Transformers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7hhyzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Natural Language Processing with Transformers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natural Language Processing with Transformers">Natural Language Processing with Transformers</a>
+        </h4>
+        <p class="fr-book-author">By Lewis Tunstall, Leandro von Werra et al.</p>
         
-<p class="fr-book-desc">Shows how self-attention enables scalable training.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+by+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how self-attention enables scalable training.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers+Lewis+Tunstall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Transformers+for+Machine+Learning+by+Uday+Kamath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transformers for Machine Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Dqe_zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Transformers for Machine Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Transformers+for+Machine+Learning+by+Uday+Kamath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transformers for Machine Learning">Transformers for Machine Learning</a>
-</h4>
-<p class="fr-book-author">By Uday Kamath, Kenneth L. Graham et al.</p>
-        
-<p class="fr-book-desc">Directly addresses self-attention and parallel computation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Transformers+for+Machine+Learning+by+Uday+Kamath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+        </h4>
+        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+        <p class="fr-book-desc">Provides background on neural architectures preceding transformers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Deep+Learning+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Grokking+Deep+Learning+by+Andrew+Trask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grokking Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l7lAvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Grokking Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Grokking+Deep+Learning+by+Andrew+Trask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grokking Deep Learning">Grokking Deep Learning</a>
-</h4>
-<p class="fr-book-author">By Andrew Trask</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Transformers+for+Machine+Learning+Uday+Kamath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transformers for Machine Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Dqe_zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Transformers for Machine Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Transformers+for+Machine+Learning+Uday+Kamath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transformers for Machine Learning">Transformers for Machine Learning</a>
+        </h4>
+        <p class="fr-book-author">By Uday Kamath, Kenneth L. Graham et al.</p>
         
-<p class="fr-book-desc">Builds intuition for neural network computations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Grokking+Deep+Learning+by+Andrew+Trask&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses self-attention and parallel computation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Transformers+for+Machine+Learning+Uday+Kamath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+On+Large+Language+Models&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands On Large Language Models</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Natural Language Processing with Transformers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Transformers+for+Machine+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Transformers for Machine Learning</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hands+On+Large+Language+Models&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hands On Large Language Models</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Natural+Language+Processing+with+Transformers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Natural Language Processing with Transformers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

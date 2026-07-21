@@ -402,89 +402,89 @@ As a result, the words people choose are not merely instructions for retrieving 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How one word can change the results. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How one word can change the results. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8dEkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
-</h4>
-<p class="fr-book-author">By Seth Stephens-Davidowitz</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Information+Retrieval+Christopher+D.+Manning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Information Retrieval on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t1PoSh4uwVcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Information Retrieval" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Information+Retrieval+Christopher+D.+Manning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Information Retrieval">Introduction to Information Retrieval</a>
+        </h4>
+        <p class="fr-book-author">By Christopher D. Manning, Prabhakar Raghavan et al.</p>
+        <p class="fr-book-popularity">Rating: 5.0/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">Explains queries, relevance, ranking, and retrieval methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Information+Retrieval+Christopher+D.+Manning&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Lies+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8dEkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Everybody+Lies+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Lies">Everybody Lies</a>
+        </h4>
+        <p class="fr-book-author">By Seth Stephens-Davidowitz</p>
         
-<p class="fr-book-desc">Shows how wording in searches reveals intent and changes outcomes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Everybody+Lies+by+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how wording in searches reveals intent and changes outcomes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Everybody+Lies+Seth+Stephens-Davidowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Information+Retrieval+by+Christopher+D.+Manning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Information Retrieval on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t1PoSh4uwVcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Information Retrieval" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Introduction+to+Information+Retrieval+by+Christopher+D.+Manning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Information Retrieval">Introduction to Information Retrieval</a>
-</h4>
-<p class="fr-book-author">By Christopher D. Manning, Prabhakar Raghavan et al.</p>
-<p class="fr-book-popularity">Rating: 5.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Explains queries, relevance, ranking, and retrieval methods.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Introduction+to+Information+Retrieval+by+Christopher+D.+Manning&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Modern+Information+Retrieval+Ricardo+Baeza-Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Modern Information Retrieval on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HbyAAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Modern Information Retrieval" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Modern+Information+Retrieval+Ricardo+Baeza-Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modern Information Retrieval">Modern Information Retrieval</a>
+        </h4>
+        <p class="fr-book-author">By Ricardo Baeza-Yates, Berthier Ribeiro-Neto</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">Covers query interpretation and retrieval effectiveness.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Modern+Information+Retrieval+Ricardo+Baeza-Yates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Modern+Information+Retrieval+by+Ricardo+Baeza-Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Modern Information Retrieval on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HbyAAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Modern Information Retrieval" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Modern+Information+Retrieval+by+Ricardo+Baeza-Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modern Information Retrieval">Modern Information Retrieval</a>
-</h4>
-<p class="fr-book-author">By Ricardo Baeza-Yates, Berthier Ribeiro-Neto</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Covers query interpretation and retrieval effectiveness.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Modern+Information+Retrieval+by+Ricardo+Baeza-Yates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Search+Patterns+Peter+Morville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Search Patterns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LzgNHuKKGJIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Search Patterns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Search+Patterns+Peter+Morville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Search Patterns">Search Patterns</a>
+        </h4>
+        <p class="fr-book-author">By Peter Morville, Jeffery Callender</p>
+        <p class="fr-book-popularity">Rating: 3.0/5 from 92 Google Books ratings</p>
+        <p class="fr-book-desc">Explores how people search and how systems respond.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Search+Patterns+Peter+Morville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Search+Patterns+by+Peter+Morville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Search Patterns on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LzgNHuKKGJIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Search Patterns" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Search+Patterns+by+Peter+Morville&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Search Patterns">Search Patterns</a>
-</h4>
-<p class="fr-book-author">By Peter Morville, Jeffery Callender</p>
-<p class="fr-book-popularity">Rating: 3.0/5 from 92 Google Books ratings</p>
-<p class="fr-book-desc">Explores how people search and how systems respond.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Search+Patterns+by+Peter+Morville&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Information+Retrieval+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Information Retrieval books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Modern+Information+Retrieval&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Modern Information Retrieval</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Information+Retrieval+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Information Retrieval books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Lies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Lies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Modern+Information+Retrieval&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Modern Information Retrieval</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

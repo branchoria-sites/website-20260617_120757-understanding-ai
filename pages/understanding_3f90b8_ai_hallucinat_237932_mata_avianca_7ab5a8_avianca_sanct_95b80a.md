@@ -340,89 +340,89 @@ The decision reinforced a governance principle that extends well beyond law: acc
 <img src="{{ "/assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_sanct_95b80a-Illustration-3-dark.svg" | relative_url }}" alt="Sanctions illustration 3" data-theme-src-dark="{{ "/assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_sanct_95b80a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_sanct_95b80a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What the Avianca Sanctions Changed for Lawyers. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What the Avianca Sanctions Changed for Lawyers. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+LegalTech+Book+by+Sophia+Adams+Bhatti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The LegalTech Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MtHoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The LegalTech Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+LegalTech+Book+by+Sophia+Adams+Bhatti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The LegalTech Book">The LegalTech Book</a>
-</h4>
-<p class="fr-book-author">By Sophia Adams Bhatti, Akber Datoo et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+LegalTech+Book+Sophia+Adams+Bhatti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The LegalTech Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MtHoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The LegalTech Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+LegalTech+Book+Sophia+Adams+Bhatti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The LegalTech Book">The LegalTech Book</a>
+        </h4>
+        <p class="fr-book-author">By Sophia Adams Bhatti, Akber Datoo et al.</p>
         
-<p class="fr-book-desc">Relates directly to responsible AI use in legal practice.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+LegalTech+Book+by+Sophia+Adams+Bhatti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Relates directly to responsible AI use in legal practice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+LegalTech+Book+Sophia+Adams+Bhatti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+by+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence and Legal Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ExwsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence and Legal Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+by+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence and Legal Analytics">Artificial Intelligence and Legal Analytics</a>
-</h4>
-<p class="fr-book-author">By Kevin D. Ashley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence and Legal Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ExwsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence and Legal Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence and Legal Analytics">Artificial Intelligence and Legal Analytics</a>
+        </h4>
+        <p class="fr-book-author">By Kevin D. Ashley</p>
         
-<p class="fr-book-desc">Explains legal research and verification responsibilities.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+by+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains legal research and verification responsibilities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics+Kevin+D.+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence+by+Bart+Custers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Law and Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oqB5EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Law and Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence+by+Bart+Custers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Law and Artificial Intelligence">Law and Artificial Intelligence</a>
-</h4>
-<p class="fr-book-author">By Bart Custers, Eduard Fosch-Villaronga</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence+Bart+Custers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Law and Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oqB5EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Law and Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence+Bart+Custers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Law and Artificial Intelligence">Law and Artificial Intelligence</a>
+        </h4>
+        <p class="fr-book-author">By Bart Custers, Eduard Fosch-Villaronga</p>
         
-<p class="fr-book-desc">Addresses legal obligations surrounding AI systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence+by+Bart+Custers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses legal obligations surrounding AI systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence+Bart+Custers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ethics+of+Artificial+Intelligence+by+S.+Matthew+Liao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ethics of Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2ST3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ethics of Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ethics+of+Artificial+Intelligence+by+S.+Matthew+Liao&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ethics of Artificial Intelligence">Ethics of Artificial Intelligence</a>
-</h4>
-<p class="fr-book-author">By S. Matthew Liao</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+the+Professions+Richard+Susskind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of the Professions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sr9pEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Future of the Professions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Future+of+the+Professions+Richard+Susskind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of the Professions">The Future of the Professions</a>
+        </h4>
+        <p class="fr-book-author">By Richard Susskind, Daniel Susskind</p>
         
-<p class="fr-book-desc">Provides ethical framework for accountability when AI fails.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ethics+of+Artificial+Intelligence+by+S.+Matthew+Liao&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines changing professional duties in technology-assisted work.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Future+of+the+Professions+Richard+Susskind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+LegalTech+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The LegalTech Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence and Legal Analytics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Law and Artificial Intelligence</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+LegalTech+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The LegalTech Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence+and+Legal+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence and Legal Analytics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Law+and+Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Law and Artificial Intelligence</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
