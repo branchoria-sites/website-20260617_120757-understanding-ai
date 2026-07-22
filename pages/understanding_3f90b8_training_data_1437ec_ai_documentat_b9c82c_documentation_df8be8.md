@@ -338,7 +338,7 @@ This distinction is crucial. Documentation answers the question, "What do we kno
           <a href="https://www.amazon.com/s?k=AI+Snake+Oil+Arvind+Narayanan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="AI Snake Oil">AI Snake Oil</a>
         </h4>
         <p class="fr-book-author">By Arvind Narayanan, Sayash Kapoor</p>
-        
+
         <p class="fr-book-desc">Directly addresses why documentation and claims are insufficient without evidence and validation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=AI+Snake+Oil+Arvind+Narayanan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,10 +355,27 @@ This distinction is crucial. Documentation answers the question, "What do we kno
           <a href="https://www.amazon.com/s?k=Atlas+of+AI+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas of AI">Atlas of AI</a>
         </h4>
         <p class="fr-book-author">By Kate Crawford</p>
-        
+
         <p class="fr-book-desc">Examines structural issues that transparency documents alone cannot solve.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Atlas+of+AI+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Responsible+AI+in+the+Enterprise+Adnan+Masood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Responsible AI in the Enterprise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8R8D0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Responsible AI in the Enterprise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Responsible+AI+in+the+Enterprise+Adnan+Masood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Responsible AI in the Enterprise">Responsible AI in the Enterprise</a>
+        </h4>
+        <p class="fr-book-author">By Adnan Masood, Heather Dawe</p>
+
+        <p class="fr-book-desc">Focuses on verification, governance, auditing, and operational controls beyond paperwork.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Responsible+AI+in+the+Enterprise+Adnan+Masood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -372,7 +389,7 @@ This distinction is crucial. Documentation answers the question, "What do we kno
           <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
         </h4>
         <p class="fr-book-author">By Cathy O&#x27;Neil</p>
-        
+
         <p class="fr-book-desc">Shows how documented systems can still create harmful outcomes in practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,26 +398,9 @@ This distinction is crucial. Documentation answers the question, "What do we kno
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Responsible+AI+in+the+Enterprise+Adnan+Masood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Responsible AI in the Enterprise on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Responsible+AI+in+the+Enterprise+Adnan+Masood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Responsible AI in the Enterprise">Responsible AI in the Enterprise</a>
-        </h4>
-        <p class="fr-book-author">By Adnan Masood, Heather Dawe</p>
-        
-        <p class="fr-book-desc">Focuses on verification, governance, auditing, and operational controls beyond paperwork.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Responsible+AI+in+the+Enterprise+Adnan+Masood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=AI+Snake+Oil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI Snake Oil</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atlas+of+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atlas of AI</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=AI+Snake+Oil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">AI Snake Oil</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atlas+of+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atlas of AI</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Responsible+AI+in+the+Enterprise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Responsible AI in the Enterprise</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
