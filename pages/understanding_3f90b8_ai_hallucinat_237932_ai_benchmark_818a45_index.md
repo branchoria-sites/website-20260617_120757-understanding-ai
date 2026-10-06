@@ -4,7 +4,7 @@ title_full: Benchmark gaps Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-ai-hallucinat/
+permalink: /understanding-3f90b8-ai-hallucinat-237932-ai-benchmark-818a45/
 description: Focused pages that expand on Benchmark gaps.
 date: '2026'
 layout: default

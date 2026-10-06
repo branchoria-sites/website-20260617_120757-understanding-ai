@@ -4,7 +4,7 @@ title_full: AI Boundary Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-ai-system-out/
+permalink: /understanding-3f90b8-ai-system-out-b025fe-ai-ordinary-s-f02b58/
 description: Focused pages that expand on AI Boundary.
 date: '2026'
 layout: default

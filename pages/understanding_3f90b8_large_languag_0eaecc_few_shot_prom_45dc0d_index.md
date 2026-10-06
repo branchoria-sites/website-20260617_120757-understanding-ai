@@ -4,7 +4,7 @@ title_full: Few shot prompts Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-large-languag/
+permalink: /understanding-3f90b8-large-languag-0eaecc-few-shot-prom-45dc0d/
 description: Focused pages that expand on Few shot prompts.
 date: '2026'
 layout: default

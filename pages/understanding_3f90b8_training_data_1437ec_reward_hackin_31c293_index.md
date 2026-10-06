@@ -4,7 +4,7 @@ title_full: Reward Hacking Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-training-data/
+permalink: /understanding-3f90b8-training-data-1437ec-reward-hackin-31c293/
 description: Focused pages that expand on Reward Hacking.
 date: '2026'
 layout: default

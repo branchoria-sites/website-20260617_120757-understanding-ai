@@ -4,7 +4,7 @@ title_full: ELIZA effect Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-narrow-ai-agi/
+permalink: /understanding-3f90b8-narrow-ai-agi-affd1f-eliza-turing-f9a7e7/
 description: Focused pages that expand on ELIZA effect.
 date: '2026'
 layout: default

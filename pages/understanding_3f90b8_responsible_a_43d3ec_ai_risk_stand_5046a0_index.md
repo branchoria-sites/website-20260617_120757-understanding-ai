@@ -4,7 +4,7 @@ title_full: Risk Standards Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-responsible-a/
+permalink: /understanding-3f90b8-responsible-a-43d3ec-ai-risk-stand-5046a0/
 description: Focused pages that expand on Risk Standards.
 date: '2026'
 layout: default
