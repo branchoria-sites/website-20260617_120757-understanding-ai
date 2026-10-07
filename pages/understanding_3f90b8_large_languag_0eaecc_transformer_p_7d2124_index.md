@@ -4,7 +4,7 @@ title_full: Transformer shift Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-large-languag/
+permalink: /understanding-3f90b8-large-languag-0eaecc-transformer-p-7d2124/
 description: Focused pages that expand on Transformer shift.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Health Proxy Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-responsible-a/
+permalink: /understanding-3f90b8-responsible-a-43d3ec-healthcare-sp-f9fe63/
 description: Focused pages that expand on Health Proxy.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Human Checks Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /understanding-3f90b8-business-ai-a/
+permalink: /understanding-3f90b8-business-ai-a-ecaea3-human-validat-3f7623/
 description: Focused pages that expand on Human Checks.
 date: '2026'
 layout: default
