@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /understanding-3f90b8-large-languag-0eaecc-tokenization-d440e1/
 description: Focused pages that expand on Tokenization.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: understanding_3f90b8_large_languag_0eaecc_tokenization_d440e1
 parent_title: Tokenization

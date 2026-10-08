@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /understanding-3f90b8-large-languag-0eaecc-token-generat-86b2c9/
 description: Focused pages that expand on Generation loop.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: understanding_3f90b8_large_languag_0eaecc_token_generat_86b2c9
 parent_title: Generation loop

@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /understanding-3f90b8-ai-system-out-b025fe-automated-dec-4de325/
 description: Focused pages that expand on Decisions.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: understanding_3f90b8_ai_system_out_b025fe_automated_dec_4de325
 parent_title: Decisions

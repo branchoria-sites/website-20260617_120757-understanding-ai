@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /understanding-3f90b8-everyday-ai-u-c3e17f-ai-search-sou-1cb643/
 description: Focused pages that expand on AI Search.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: understanding_3f90b8_everyday_ai_u_c3e17f_ai_search_sou_1cb643
 parent_title: AI Search

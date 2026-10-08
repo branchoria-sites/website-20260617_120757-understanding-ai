@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /understanding-3f90b8-narrow-ai-agi-affd1f-forecasting-u-25a194/
 description: Focused pages that expand on Forecasting gap.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194
 parent_title: Forecasting gap
