@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /understanding-3f90b8-large-languag-0eaecc-few-shot-prom-45dc0d/
 description: Focused pages that expand on Few shot prompts.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: understanding_3f90b8_large_languag_0eaecc_few_shot_prom_45dc0d
 parent_title: Few shot prompts

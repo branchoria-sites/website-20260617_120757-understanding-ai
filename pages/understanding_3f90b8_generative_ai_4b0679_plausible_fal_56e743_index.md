@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /understanding-3f90b8-generative-ai-4b0679-plausible-fal-56e743/
 description: Focused pages that expand on Hallucinations.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: understanding_3f90b8_generative_ai_4b0679_plausible_fal_56e743
 parent_title: Hallucinations
