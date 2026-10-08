@@ -261,6 +261,7 @@ next_link:
   short_title: Impact tests
   heading_title: Why accurate hiring AI can still be unfair
 date: '2026-06-17 11:30:19 '
+last_modified_at: '2026-06-17 11:30:19 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5_amazon_recrui_d450a5-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5_amazon_recrui_d450a5-Illustration-1.webp

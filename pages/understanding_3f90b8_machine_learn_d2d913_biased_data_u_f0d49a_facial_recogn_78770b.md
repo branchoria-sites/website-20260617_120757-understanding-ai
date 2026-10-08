@@ -267,6 +267,7 @@ next_link:
   short_title: Fairness metrics
   heading_title: Why AI fairness cannot be one score
 date: '2026-06-17 10:41:48 '
+last_modified_at: '2026-06-17 10:41:48 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a_facial_recogn_78770b-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a_facial_recogn_78770b-Illustration-1.webp

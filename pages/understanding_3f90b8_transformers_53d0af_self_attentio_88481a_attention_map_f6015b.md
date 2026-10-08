@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 17:09:49'
+last_modified_at: '2026-06-15 17:09:49'
 parent_title: How does attention find the right context?
 parent_permalink: /self-attention/
 parent_nav_short_title: Self attention

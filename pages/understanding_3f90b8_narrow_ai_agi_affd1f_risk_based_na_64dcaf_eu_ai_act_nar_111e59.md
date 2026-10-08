@@ -261,6 +261,7 @@ next_link:
   short_title: Hiring AI
   heading_title: Why hiring AI gets stricter rules
 date: '2026-06-17 11:16:21 '
+last_modified_at: '2026-06-17 11:16:21 '
 header:
   og_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_risk_based_na_64dcaf_eu_ai_act_nar_111e59-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_risk_based_na_64dcaf_eu_ai_act_nar_111e59-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Confidence
   heading_title: Why confident wrong answers hurt more
 date: '2026-06-17 10:45:43 '
+last_modified_at: '2026-06-17 10:45:43 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_loss_function_b59239_click_loss_ba_cb6288-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_loss_function_b59239_click_loss_ba_cb6288-Illustration-1.webp

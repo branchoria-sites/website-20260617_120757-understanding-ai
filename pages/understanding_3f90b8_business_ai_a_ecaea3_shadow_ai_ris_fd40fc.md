@@ -280,6 +280,7 @@ prev_link:
   short_title: Service AI
   heading_title: Why chatbots are not the whole workflow
 date: '2026-06-17 05:33:04 '
+last_modified_at: '2026-06-17 05:33:04 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc-Illustration-1.webp

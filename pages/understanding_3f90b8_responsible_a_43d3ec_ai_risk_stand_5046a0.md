@@ -280,6 +280,7 @@ prev_link:
   short_title: Human Review
   heading_title: When human oversight becomes rubber stamping
 date: '2026-06-17 06:26:44 '
+last_modified_at: '2026-06-17 06:26:44 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0-Illustration-1.webp

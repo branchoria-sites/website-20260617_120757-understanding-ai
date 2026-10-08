@@ -267,6 +267,7 @@ next_link:
   short_title: Proxy bias
   heading_title: When neutral data quietly reveals identity
 date: '2026-06-17 11:32:28 '
+last_modified_at: '2026-06-17 11:32:28 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5_disparate_imp_43183c-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_hiring_ai_his_0f67a5_disparate_imp_43183c-Illustration-1.webp

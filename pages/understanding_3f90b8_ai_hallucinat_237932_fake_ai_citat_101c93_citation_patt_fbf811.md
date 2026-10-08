@@ -267,6 +267,7 @@ next_link:
   short_title: Verify Sources
   heading_title: How to spot an AI made citation
 date: '2026-06-17 08:28:50 '
+last_modified_at: '2026-06-17 08:28:50 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93_citation_patt_fbf811-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93_citation_patt_fbf811-Illustration-1.webp

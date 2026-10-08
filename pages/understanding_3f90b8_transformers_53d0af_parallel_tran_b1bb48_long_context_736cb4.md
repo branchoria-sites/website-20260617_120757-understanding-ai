@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 17:10:08'
+last_modified_at: '2026-06-15 17:10:08'
 parent_title: Why did Transformers scale so well?
 parent_permalink: /parallel-scale/
 parent_nav_short_title: Parallel scale

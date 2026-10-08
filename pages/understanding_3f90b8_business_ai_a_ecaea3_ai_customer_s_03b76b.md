@@ -286,6 +286,7 @@ next_link:
   short_title: Shadow AI
   heading_title: What happens when workers bring their own AI?
 date: '2026-06-17 05:26:39 '
+last_modified_at: '2026-06-17 05:26:39 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b-Illustration-1.webp

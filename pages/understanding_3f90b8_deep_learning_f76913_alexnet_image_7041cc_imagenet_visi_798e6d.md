@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 22:53:14'
+last_modified_at: '2026-06-15 22:53:14'
 parent_title: Why did Alex Net change AI history?
 parent_permalink: /alex-net/
 parent_nav_short_title: Alex Net

@@ -267,6 +267,7 @@ next_link:
   short_title: Workflow ROI
   heading_title: Why AI ROI needs workflow redesign
 date: '2026-06-17 07:07:42 '
+last_modified_at: '2026-06-17 07:07:42 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_business_ai_m_1185a2-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_business_ai_m_1185a2-Illustration-1.webp

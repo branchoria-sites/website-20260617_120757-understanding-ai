@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 22:54:09'
+last_modified_at: '2026-06-15 22:54:09'
 parent_title: What makes attention layers different?
 parent_permalink: /attention/
 parent_nav_short_title: Attention

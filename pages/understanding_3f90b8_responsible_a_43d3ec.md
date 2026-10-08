@@ -325,6 +325,7 @@ next_link:
   short_title: Training Choices
   heading_title: What AI Learns Depends on Its Goals
 date: '2026-06-17 04:44:58 '
+last_modified_at: '2026-06-17 04:44:58 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec-overview-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec-overview.webp

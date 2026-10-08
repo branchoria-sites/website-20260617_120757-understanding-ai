@@ -261,6 +261,7 @@ next_link:
   short_title: Fake Sources
   heading_title: Why fake citations sound so real
 date: '2026-06-17 08:26:14 '
+last_modified_at: '2026-06-17 08:26:14 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93_ai_fake_legal_25c405-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_fake_ai_citat_101c93_ai_fake_legal_25c405-Illustration-1.webp

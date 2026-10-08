@@ -286,6 +286,7 @@ next_link:
   short_title: Fake citations
   heading_title: Why fake AI citations look so real
 date: '2026-06-17 04:51:50 '
+last_modified_at: '2026-06-17 04:51:50 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45-Illustration-1.webp

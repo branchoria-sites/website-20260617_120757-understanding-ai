@@ -286,6 +286,7 @@ next_link:
   short_title: Reward Hacking
   heading_title: When AI wins the score and loses the task
 date: '2026-06-17 06:35:29 '
+last_modified_at: '2026-06-17 06:35:29 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c-Illustration-1.webp

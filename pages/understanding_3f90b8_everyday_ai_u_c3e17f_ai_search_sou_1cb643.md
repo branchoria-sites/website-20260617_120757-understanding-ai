@@ -207,6 +207,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 22:54:21'
+last_modified_at: '2026-06-15 22:54:21'
 parent_title: Where AI Actually Helps
 parent_permalink: /use-cases/
 parent_nav_short_title: Use Cases

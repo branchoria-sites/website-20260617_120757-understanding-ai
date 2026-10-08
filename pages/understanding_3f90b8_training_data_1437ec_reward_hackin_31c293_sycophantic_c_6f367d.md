@@ -261,6 +261,7 @@ prev_link:
   short_title: Stress tests
   heading_title: Can tests catch AI gaming the scoreboard?
 date: '2026-06-17 11:50:46 '
+last_modified_at: '2026-06-17 11:50:46 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_reward_hackin_31c293_sycophantic_c_6f367d-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_reward_hackin_31c293_sycophantic_c_6f367d-Illustration-1.webp

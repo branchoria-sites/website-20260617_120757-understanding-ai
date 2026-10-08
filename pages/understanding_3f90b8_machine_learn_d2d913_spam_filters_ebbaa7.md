@@ -286,6 +286,7 @@ next_link:
   short_title: Training data
   heading_title: Why the data teaches the model
 date: '2026-06-17 05:00:36 '
+last_modified_at: '2026-06-17 05:00:36 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_spam_filters_ebbaa7-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_spam_filters_ebbaa7-Illustration-1.webp

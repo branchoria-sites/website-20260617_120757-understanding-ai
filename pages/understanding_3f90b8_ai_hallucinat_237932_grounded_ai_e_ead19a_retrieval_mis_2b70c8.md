@@ -267,6 +267,7 @@ next_link:
   short_title: OCR errors
   heading_title: Can AI trust a badly scanned document?
 date: '2026-06-17 08:34:47 '
+last_modified_at: '2026-06-17 08:34:47 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_retrieval_mis_2b70c8-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_retrieval_mis_2b70c8-Illustration-1.webp

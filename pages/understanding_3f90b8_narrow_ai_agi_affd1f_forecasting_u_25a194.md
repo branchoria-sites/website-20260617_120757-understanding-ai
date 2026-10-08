@@ -286,6 +286,7 @@ next_link:
   short_title: Risk rules
   heading_title: Narrow AI can still be high risk
 date: '2026-06-17 06:23:38 '
+last_modified_at: '2026-06-17 06:23:38 '
 header:
   og_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194-Illustration-1.webp

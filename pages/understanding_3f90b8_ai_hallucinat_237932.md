@@ -319,6 +319,7 @@ next_link:
   short_title: AI Outputs
   heading_title: What Counts as AI Today?
 date: '2026-06-16 12:08:39 '
+last_modified_at: '2026-06-16 12:08:39 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932-overview-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932-overview.webp

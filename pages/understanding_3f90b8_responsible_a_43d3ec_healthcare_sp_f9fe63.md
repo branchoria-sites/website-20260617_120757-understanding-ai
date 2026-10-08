@@ -286,6 +286,7 @@ next_link:
   short_title: Hiring Bias
   heading_title: Can hiring AI learn the wrong lesson?
 date: '2026-06-17 06:28:16 '
+last_modified_at: '2026-06-17 06:28:16 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63-Illustration-1.webp

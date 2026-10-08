@@ -267,6 +267,7 @@ next_link:
   short_title: Self Check Trap
   heading_title: Why AI Cannot Verify Its Own Fake Cases
 date: '2026-06-17 06:58:52 '
+last_modified_at: '2026-06-17 06:58:52 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_sanct_95b80a-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_sanct_95b80a-Illustration-1.webp

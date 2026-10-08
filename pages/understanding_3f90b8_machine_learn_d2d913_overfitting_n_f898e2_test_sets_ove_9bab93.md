@@ -261,6 +261,7 @@ prev_link:
   short_title: Stop training
   heading_title: The curve that says stop training
 date: '2026-06-17 10:53:28 '
+last_modified_at: '2026-06-17 10:53:28 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_test_sets_ove_9bab93-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_test_sets_ove_9bab93-Illustration-1.webp

@@ -280,6 +280,7 @@ next_link:
   short_title: Chatbox illusion
   heading_title: Why chatbots feel smarter than tools
 date: '2026-06-17 06:19:40 '
+last_modified_at: '2026-06-17 06:19:40 '
 header:
   og_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9-Illustration-1.webp

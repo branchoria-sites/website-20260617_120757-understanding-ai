@@ -261,6 +261,7 @@ prev_link:
   short_title: Rare cases
   heading_title: Why AI misses rare but important cases
 date: '2026-06-17 11:01:19 '
+last_modified_at: '2026-06-17 11:01:19 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd_spurious_corr_cc96c6-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_training_data_d83cdd_spurious_corr_cc96c6-Illustration-1.webp

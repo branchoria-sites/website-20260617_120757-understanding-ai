@@ -280,6 +280,7 @@ next_link:
   short_title: Health Proxy
   heading_title: When spending is mistaken for medical need
 date: '2026-06-17 06:28:20 '
+last_modified_at: '2026-06-17 06:28:20 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025-Illustration-1.webp

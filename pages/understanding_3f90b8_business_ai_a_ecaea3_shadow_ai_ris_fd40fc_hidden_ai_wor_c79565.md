@@ -261,6 +261,7 @@ prev_link:
   short_title: Failed Bans
   heading_title: Why Banning AI Can Backfire at Work
 date: '2026-06-17 09:21:19 '
+last_modified_at: '2026-06-17 09:21:19 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc_hidden_ai_wor_c79565-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_shadow_ai_ris_fd40fc_hidden_ai_wor_c79565-Illustration-1.webp

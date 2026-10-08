@@ -267,6 +267,7 @@ next_link:
   short_title: Obscure Topics
   heading_title: Why Obscure Questions Make AI Guess
 date: '2026-06-17 06:55:45 '
+last_modified_at: '2026-06-17 06:55:45 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45_long_answer_m_f82810-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_benchmark_818a45_long_answer_m_f82810-Illustration-1.webp

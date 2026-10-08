@@ -267,6 +267,7 @@ next_link:
   short_title: Test sets
   heading_title: The new examples that reveal overfitting
 date: '2026-06-17 10:56:18 '
+last_modified_at: '2026-06-17 10:56:18 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_validation_cu_04f077-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_overfitting_n_f898e2_validation_cu_04f077-Illustration-1.webp
