@@ -8,826 +8,826 @@ sidebar_generated:
     url: /ai-errors/
     children:
     - title: Avianca case
-      title_full: The court case that exposed fake AI law | Understanding 3 F90 B8 AI Hallucinat
+      title_full: The court case that exposed fake AI law | Why AI Can Be Confidently Wrong | Understanding
       url: /avianca-case/
       children:
       - title: Fake Cases
-        title_full: How Fake Legal Cases Looked Real | Understanding 3 F90 B8 AI Hallucinat 237932 Mata Avianca
+        title_full: How Fake Legal Cases Looked Real | The court case that exposed fake AI law | Why AI Can Be Confidently Wrong | Understanding
         url: /fake-cases/
       - title: Sanctions
-        title_full: What the Avianca Sanctions Changed for Lawyers | Understanding 3 F90 B8 AI Hallucinat 237932 Mata Avianca
+        title_full: What the Avianca Sanctions Changed for Lawyers | The court case that exposed fake AI law | Why AI Can Be Confidently Wrong | Understanding
         url: /sanctions/
       - title: Self Check Trap
-        title_full: Why AI Cannot Verify Its Own Fake Cases | Understanding 3 F90 B8 AI Hallucinat 237932 Mata Avianca
+        title_full: Why AI Cannot Verify Its Own Fake Cases | The court case that exposed fake AI law | Why AI Can Be Confidently Wrong | Understanding
         url: /self-check-trap/
     - title: Benchmark gaps
-      title_full: What AI benchmarks miss about reliability | Understanding 3 F90 B8 AI Hallucinat
+      title_full: What AI benchmarks miss about reliability | Why AI Can Be Confidently Wrong | Understanding
       url: /benchmark-gaps/
       children:
       - title: I Don t
-        title_full: Should AI Get Credit for Uncertainty? | Understanding 3 F90 B8 AI Hallucinat 237932 AI Benchmark
+        title_full: Should AI Get Credit for Uncertainty? | What AI benchmarks miss about reliability | Why AI Can Be Confidently Wrong | Understanding
         url: /i-don-t/
       - title: Long Answers
-        title_full: Why Long AI Answers Fail Differently | Understanding 3 F90 B8 AI Hallucinat 237932 AI Benchmark
+        title_full: Why Long AI Answers Fail Differently | What AI benchmarks miss about reliability | Why AI Can Be Confidently Wrong | Understanding
         url: /long-answers/
       - title: Obscure Topics
-        title_full: Why Obscure Questions Make AI Guess | Understanding 3 F90 B8 AI Hallucinat 237932 AI Benchmark
+        title_full: Why Obscure Questions Make AI Guess | What AI benchmarks miss about reliability | Why AI Can Be Confidently Wrong | Understanding
         url: /obscure-topics/
     - title: Fake citations
-      title_full: Why fake AI citations look so real | Understanding 3 F90 B8 AI Hallucinat
+      title_full: Why fake AI citations look so real | Why AI Can Be Confidently Wrong | Understanding
       url: /fake-citations/
       children:
       - title: Fake Cases
-        title_full: When AI invents legal authority | Understanding 3 F90 B8 AI Hallucinat 237932 Fake AI Citat
+        title_full: When AI invents legal authority | Why fake AI citations look so real | Why AI Can Be Confidently Wrong | Understanding
         url: /fake-cases-834b4d/
       - title: Fake Sources
-        title_full: Why fake citations sound so real | Understanding 3 F90 B8 AI Hallucinat 237932 Fake AI Citat
+        title_full: Why fake citations sound so real | Why fake AI citations look so real | Why AI Can Be Confidently Wrong | Understanding
         url: /fake-sources/
       - title: Verify Sources
-        title_full: How to spot an AI made citation | Understanding 3 F90 B8 AI Hallucinat 237932 Fake AI Citat
+        title_full: How to spot an AI made citation | Why fake AI citations look so real | Why AI Can Be Confidently Wrong | Understanding
         url: /verify-sources/
     - title: Over compression
-      title_full: When a tidy AI answer hides the risk | Understanding 3 F90 B8 AI Hallucinat
+      title_full: When a tidy AI answer hides the risk | Why AI Can Be Confidently Wrong | Understanding
       url: /over-compression/
       children:
       - title: Medical Caveats
-        title_full: When Medical AI Summaries Miss the Exception | Understanding 3 F90 B8 AI Hallucinat 237932 AI Overcompre
+        title_full: When Medical AI Summaries Miss the Exception | When a tidy AI answer hides the risk | Why AI Can Be Confidently Wrong | Understanding
         url: /medical-caveats/
       - title: Science Claims
-        title_full: Why AI Makes Studies Sound More Certain | Understanding 3 F90 B8 AI Hallucinat 237932 AI Overcompre
+        title_full: Why AI Makes Studies Sound More Certain | When a tidy AI answer hides the risk | Why AI Can Be Confidently Wrong | Understanding
         url: /science-claims/
       - title: Tail Risk
-        title_full: The Financial Risks AI Summaries Smooth Over | Understanding 3 F90 B8 AI Hallucinat 237932 AI Overcompre
+        title_full: The Financial Risks AI Summaries Smooth Over | When a tidy AI answer hides the risk | Why AI Can Be Confidently Wrong | Understanding
         url: /tail-risk/
     - title: RAG errors
-      title_full: Why sourced AI answers can still mislead | Understanding 3 F90 B8 AI Hallucinat
+      title_full: Why sourced AI answers can still mislead | Why AI Can Be Confidently Wrong | Understanding
       url: /rag-errors/
       children:
       - title: Bad citations
-        title_full: When real citations prove the wrong thing | Understanding 3 F90 B8 AI Hallucinat 237932 Grounded
+        title_full: When real citations prove the wrong thing | Why sourced AI answers can still mislead | Why AI Can Be Confidently Wrong | Understanding
         url: /bad-citations/
       - title: Mismatch
-        title_full: When the right topic is the wrong evidence | Understanding 3 F90 B8 AI Hallucinat 237932 Grounded
+        title_full: When the right topic is the wrong evidence | Why sourced AI answers can still mislead | Why AI Can Be Confidently Wrong | Understanding
         url: /mismatch/
       - title: OCR errors
-        title_full: Can AI trust a badly scanned document? | Understanding 3 F90 B8 AI Hallucinat 237932 Grounded
+        title_full: Can AI trust a badly scanned document? | Why sourced AI answers can still mislead | Why AI Can Be Confidently Wrong | Understanding
         url: /ocr-errors/
   - title: AI Outputs
     title_full: What Counts as AI Today? | Understanding
     url: /ai-outputs/
     children:
     - title: AI Boundary
-      title_full: When software becomes AI and when it does not | Understanding 3 F90 B8 AI System Out
+      title_full: When software becomes AI and when it does not | What Counts as AI Today? | Understanding
       url: /ai-boundary/
       children:
       - title: EU guidance
-        title_full: How regulators draw the AI line | Understanding 3 F90 B8 AI System Out B025 Fe AI Ordinary
+        title_full: How regulators draw the AI line | When software becomes AI and when it does not | What Counts as AI Today? | Understanding
         url: /eu-guidance/
       - title: Inference test
-        title_full: Why inference became the AI boundary | Understanding 3 F90 B8 AI System Out B025 Fe AI Ordinary
+        title_full: Why inference became the AI boundary | When software becomes AI and when it does not | What Counts as AI Today? | Understanding
         url: /inference-test/
       - title: Rule tools
-        title_full: When automation is not really AI | Understanding 3 F90 B8 AI System Out B025 Fe AI Ordinary
+        title_full: When automation is not really AI | When software becomes AI and when it does not | What Counts as AI Today? | Understanding
         url: /rule-tools/
     - title: Decisions
-      title_full: When AI outputs become decisions | Understanding 3 F90 B8 AI System Out
+      title_full: When AI outputs become decisions | What Counts as AI Today? | Understanding
       url: /decisions/
       children:
       - title: Decision engines
-        title_full: How AI scores become real world decisions | Understanding 3 F90 B8 AI System Out B025 Fe Automated
+        title_full: How AI scores become real world decisions | When AI outputs become decisions | What Counts as AI Today? | Understanding
         url: /decision-engines/
       - title: Rubber stamping
-        title_full: When human oversight becomes a rubber stamp | Understanding 3 F90 B8 AI System Out B025 Fe Automated
+        title_full: When human oversight becomes a rubber stamp | When AI outputs become decisions | What Counts as AI Today? | Understanding
         url: /rubber-stamping/
       - title: UK GDPR
-        title_full: What rights apply to automated AI decisions? | Understanding 3 F90 B8 AI System Out B025 Fe Automated
+        title_full: What rights apply to automated AI decisions? | When AI outputs become decisions | What Counts as AI Today? | Understanding
         url: /uk-gdpr/
     - title: Predictions
-      title_full: When an AI prediction changes what happens next | Understanding 3 F90 B8 AI System Out
+      title_full: When an AI prediction changes what happens next | What Counts as AI Today? | Understanding
       url: /predictions/
       children:
       - title: Appeals
-        title_full: Can people challenge AI influenced decisions? | Understanding 3 F90 B8 AI System Out B025 Fe AI Prediction
+        title_full: Can people challenge AI influenced decisions? | When an AI prediction changes what happens next | What Counts as AI Today? | Understanding
         url: /appeals/
       - title: Error harms
-        title_full: What happens when an AI prediction is wrong? | Understanding 3 F90 B8 AI System Out B025 Fe AI Prediction
+        title_full: What happens when an AI prediction is wrong? | When an AI prediction changes what happens next | What Counts as AI Today? | Understanding
         url: /error-harms/
       - title: Thresholds
-        title_full: When does an AI score start deciding? | Understanding 3 F90 B8 AI System Out B025 Fe AI Prediction
+        title_full: When does an AI score start deciding? | When an AI prediction changes what happens next | What Counts as AI Today? | Understanding
         url: /thresholds/
     - title: Recommenders
-      title_full: How recommendations quietly steer attention | Understanding 3 F90 B8 AI System Out
+      title_full: How recommendations quietly steer attention | What Counts as AI Today? | Understanding
       url: /recommenders/
       children:
       - title: Engagement Goals
-        title_full: Why Do Algorithms Favor What Grabs Attention? | Understanding 3 F90 B8 AI System Out B025 Fe Recommendatio
+        title_full: Why Do Algorithms Favor What Grabs Attention? | How recommendations quietly steer attention | What Counts as AI Today? | Understanding
         url: /engagement-goals/
       - title: Feedback Loops
-        title_full: How Popular Content Becomes Even More Popular | Understanding 3 F90 B8 AI System Out B025 Fe Recommendatio
+        title_full: How Popular Content Becomes Even More Popular | How recommendations quietly steer attention | What Counts as AI Today? | Understanding
         url: /feedback-loops/
       - title: Ranking Power
-        title_full: Who Gets Seen When Rankings Control Attention? | Understanding 3 F90 B8 AI System Out B025 Fe Recommendatio
+        title_full: Who Gets Seen When Rankings Control Attention? | How recommendations quietly steer attention | What Counts as AI Today? | Understanding
         url: /ranking-power/
     - title: Search Ranking
-      title_full: Why search results are an AI output | Understanding 3 F90 B8 AI System Out
+      title_full: Why search results are an AI output | What Counts as AI Today? | Understanding
       url: /search-ranking/
       children:
       - title: DSA transparency
-        title_full: Should search rankings explain themselves? | Understanding 3 F90 B8 AI System Out B025 Fe Search Rankin
+        title_full: Should search rankings explain themselves? | Why search results are an AI output | What Counts as AI Today? | Understanding
         url: /dsa-transparency/
       - title: Position bias
-        title_full: Why the top search result feels right | Understanding 3 F90 B8 AI System Out B025 Fe Search Rankin
+        title_full: Why the top search result feels right | Why search results are an AI output | What Counts as AI Today? | Understanding
         url: /position-bias/
       - title: Query intent
-        title_full: How one word can change the results | Understanding 3 F90 B8 AI System Out B025 Fe Search Rankin
+        title_full: How one word can change the results | Why search results are an AI output | What Counts as AI Today? | Understanding
         url: /query-intent/
   - title: Business Adoption
     title_full: Why AI Pilots Often Stall | Understanding
     url: /business-adoption/
     children:
     - title: Data Readiness
-      title_full: Is your business data ready for AI? | Understanding 3 F90 B8 Business
+      title_full: Is your business data ready for AI? | Why AI Pilots Often Stall | Understanding
       url: /data-readiness/
       children:
       - title: Retrieval Failures
-        title_full: Why AI search breaks after the pilot | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Data Readi
+        title_full: Why AI search breaks after the pilot | Is your business data ready for AI? | Why AI Pilots Often Stall | Understanding
         url: /retrieval-failures/
       - title: Source Truth
-        title_full: Who owns the truth AI uses? | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Data Readi
+        title_full: Who owns the truth AI uses? | Is your business data ready for AI? | Why AI Pilots Often Stall | Understanding
         url: /source-truth/
       - title: Stale Docs
-        title_full: When AI trusts the wrong document | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Data Readi
+        title_full: When AI trusts the wrong document | Is your business data ready for AI? | Why AI Pilots Often Stall | Understanding
         url: /stale-docs/
     - title: Human Checks
-      title_full: When should humans check AI outputs? | Understanding 3 F90 B8 Business
+      title_full: When should humans check AI outputs? | Why AI Pilots Often Stall | Understanding
       url: /human-checks/
       children:
       - title: Audit Trails
-        title_full: Can AI Overrides Be Traced Later? | Understanding 3 F90 B8 Business AI A Ecaea 3 Human Validat
+        title_full: Can AI Overrides Be Traced Later? | When should humans check AI outputs? | Why AI Pilots Often Stall | Understanding
         url: /audit-trails/
       - title: Automation Bias
-        title_full: Why Humans Over Trust AI Recommendations | Understanding 3 F90 B8 Business AI A Ecaea 3 Human Validat
+        title_full: Why Humans Over Trust AI Recommendations | When should humans check AI outputs? | Why AI Pilots Often Stall | Understanding
         url: /automation-bias/
       - title: Review Triggers
-        title_full: Which AI Decisions Need Human Review? | Understanding 3 F90 B8 Business AI A Ecaea 3 Human Validat
+        title_full: Which AI Decisions Need Human Review? | When should humans check AI outputs? | Why AI Pilots Often Stall | Understanding
         url: /review-triggers/
     - title: Pilot ROI
-      title_full: Why AI pilots stall before ROI | Understanding 3 F90 B8 Business
+      title_full: Why AI pilots stall before ROI | Why AI Pilots Often Stall | Understanding
       url: /pilot-roi/
       children:
       - title: Integration Costs
-        title_full: The hidden costs after the AI demo | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Pilot Roi
+        title_full: The hidden costs after the AI demo | Why AI pilots stall before ROI | Why AI Pilots Often Stall | Understanding
         url: /integration-costs/
       - title: ROI Metrics
-        title_full: Which AI metrics actually prove value? | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Pilot Roi
+        title_full: Which AI metrics actually prove value? | Why AI pilots stall before ROI | Why AI Pilots Often Stall | Understanding
         url: /roi-metrics/
       - title: Workflow ROI
-        title_full: Why AI ROI needs workflow redesign | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Pilot Roi
+        title_full: Why AI ROI needs workflow redesign | Why AI pilots stall before ROI | Why AI Pilots Often Stall | Understanding
         url: /workflow-roi/
     - title: Service AI
-      title_full: Why chatbots are not the whole workflow | Understanding 3 F90 B8 Business
+      title_full: Why chatbots are not the whole workflow | Why AI Pilots Often Stall | Understanding
       url: /service-ai/
       children:
       - title: Agent assist
-        title_full: Who benefits most from AI agent support? | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Customer
+        title_full: Who benefits most from AI agent support? | Why chatbots are not the whole workflow | Why AI Pilots Often Stall | Understanding
         url: /agent-assist/
       - title: AI handoffs
-        title_full: Why AI handoffs often make or break support | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Customer
+        title_full: Why AI handoffs often make or break support | Why chatbots are not the whole workflow | Why AI Pilots Often Stall | Understanding
         url: /ai-handoffs/
       - title: Learning loop
-        title_full: Can every support ticket teach the AI? | Understanding 3 F90 B8 Business AI A Ecaea 3 AI Customer
+        title_full: Can every support ticket teach the AI? | Why chatbots are not the whole workflow | Why AI Pilots Often Stall | Understanding
         url: /learning-loop/
     - title: Shadow AI
-      title_full: What happens when workers bring their own AI? | Understanding 3 F90 B8 Business
+      title_full: What happens when workers bring their own AI? | Why AI Pilots Often Stall | Understanding
       url: /shadow-ai/
       children:
       - title: Data Leaks
-        title_full: What Happens When Staff Paste Secrets Into AI? | Understanding 3 F90 B8 Business AI A Ecaea 3 Shadow AI Ris
+        title_full: What Happens When Staff Paste Secrets Into AI? | What happens when workers bring their own AI? | Why AI Pilots Often Stall | Understanding
         url: /data-leaks/
       - title: Failed Bans
-        title_full: Why Banning AI Can Backfire at Work | Understanding 3 F90 B8 Business AI A Ecaea 3 Shadow AI Ris
+        title_full: Why Banning AI Can Backfire at Work | What happens when workers bring their own AI? | Why AI Pilots Often Stall | Understanding
         url: /failed-bans/
       - title: Hidden Workflows
-        title_full: When Invisible AI Starts Making Business Decisions | Understanding 3 F90 B8 Business AI A Ecaea 3 Shadow AI Ris
+        title_full: When Invisible AI Starts Making Business Decisions | What happens when workers bring their own AI? | Why AI Pilots Often Stall | Understanding
         url: /hidden-workflows/
   - title: Deep Learning
     title_full: Why Layers Changed AI | Understanding
     url: /deep-learning/
     children:
     - title: Alex Net
-      title_full: Why did Alex Net change AI history? | Understanding 3 F90 B8 Deep Learning
+      title_full: Why did Alex Net change AI history? | Why Layers Changed AI | Understanding
       url: /alex-net/
       children:
       - title: Feature Shift
-        title_full: Did Learning Features Beat Designing Them by Hand? | Understanding 3 F90 B8 Deep Learning F76913 Alexnet Image
+        title_full: Did Learning Features Beat Designing Them by Hand? | Why did Alex Net change AI history? | Why Layers Changed AI | Understanding
         url: /feature-shift/
       - title: GPU Training
-        title_full: When Did Deep Learning Become Fast Enough to Work? | Understanding 3 F90 B8 Deep Learning F76913 Alexnet Image
+        title_full: When Did Deep Learning Become Fast Enough to Work? | Why did Alex Net change AI history? | Why Layers Changed AI | Understanding
         url: /gpu-training/
       - title: Image Net Impact
-        title_full: Why Did One Benchmark Result Change So Many Minds? | Understanding 3 F90 B8 Deep Learning F76913 Alexnet Image
+        title_full: Why Did One Benchmark Result Change So Many Minds? | Why did Alex Net change AI history? | Why Layers Changed AI | Understanding
         url: /image-net-impact/
     - title: Attention
-      title_full: What makes attention layers different? | Understanding 3 F90 B8 Deep Learning
+      title_full: What makes attention layers different? | Why Layers Changed AI | Understanding
       url: /attention/
       children:
       - title: Foundation scale
-        title_full: How did attention lead to foundation models? | Understanding 3 F90 B8 Deep Learning F76913 Attention Lay
+        title_full: How did attention lead to foundation models? | What makes attention layers different? | Why Layers Changed AI | Understanding
         url: /foundation-scale/
       - title: Multi heads
-        title_full: Why does attention need more than one head? | Understanding 3 F90 B8 Deep Learning F76913 Attention Lay
+        title_full: Why does attention need more than one head? | What makes attention layers different? | Why Layers Changed AI | Understanding
         url: /multi-heads/
       - title: Still deep
-        title_full: Did transformers really replace deep learning? | Understanding 3 F90 B8 Deep Learning F76913 Attention Lay
+        title_full: Did transformers really replace deep learning? | What makes attention layers different? | Why Layers Changed AI | Understanding
         url: /still-deep/
     - title: Image layers
-      title_full: How do image layers learn to see? | Understanding 3 F90 B8 Deep Learning
+      title_full: How do image layers learn to see? | Why Layers Changed AI | Understanding
       url: /image-layers/
       children:
       - title: Edges
-        title_full: Why do AI vision models learn edges first? | Understanding 3 F90 B8 Deep Learning F76913 Image Layers
+        title_full: Why do AI vision models learn edges first? | How do image layers learn to see? | Why Layers Changed AI | Understanding
         url: /edges/
       - title: Object parts
-        title_full: How do parts become object recognition? | Understanding 3 F90 B8 Deep Learning F76913 Image Layers
+        title_full: How do parts become object recognition? | How do image layers learn to see? | Why Layers Changed AI | Understanding
         url: /object-parts/
       - title: Visualisation limits
-        title_full: Can we trust pictures of AI neurons? | Understanding 3 F90 B8 Deep Learning F76913 Image Layers
+        title_full: Can we trust pictures of AI neurons? | How do image layers learn to see? | Why Layers Changed AI | Understanding
         url: /visualisation-limits/
     - title: Skip links
-      title_full: Why do deep networks need shortcuts? | Understanding 3 F90 B8 Deep Learning
+      title_full: Why do deep networks need shortcuts? | Why Layers Changed AI | Understanding
       url: /skip-links/
       children:
       - title: Gradient flow
-        title_full: Why gradients survive in residual networks | Understanding 3 F90 B8 Deep Learning F76913 Skip Connecti
+        title_full: Why gradients survive in residual networks | Why do deep networks need shortcuts? | Why Layers Changed AI | Understanding
         url: /gradient-flow/
       - title: Identity mapping
-        title_full: Why deeper layers should learn to do nothing | Understanding 3 F90 B8 Deep Learning F76913 Skip Connecti
+        title_full: Why deeper layers should learn to do nothing | Why do deep networks need shortcuts? | Why Layers Changed AI | Understanding
         url: /identity-mapping/
       - title: Res Net depth
-        title_full: How Res Net made very deep AI practical | Understanding 3 F90 B8 Deep Learning F76913 Skip Connecti
+        title_full: How Res Net made very deep AI practical | Why do deep networks need shortcuts? | Why Layers Changed AI | Understanding
         url: /res-net-depth/
     - title: Speech cues
-      title_full: How do speech models hear through noise? | Understanding 3 F90 B8 Deep Learning
+      title_full: How do speech models hear through noise? | Why Layers Changed AI | Understanding
       url: /speech-cues/
       children:
       - title: Deep Layers
-        title_full: How Deep Layers Learn What Matters | Understanding 3 F90 B8 Deep Learning F76913 Speech Networ
+        title_full: How Deep Layers Learn What Matters | How do speech models hear through noise? | Why Layers Changed AI | Understanding
         url: /deep-layers/
       - title: Failure Modes
-        title_full: Why Robust Speech Systems Still Break Down | Understanding 3 F90 B8 Deep Learning F76913 Speech Networ
+        title_full: Why Robust Speech Systems Still Break Down | How do speech models hear through noise? | Why Layers Changed AI | Understanding
         url: /failure-modes/
       - title: Multi condition
-        title_full: Why Hearing More Noise Can Improve Accuracy | Understanding 3 F90 B8 Deep Learning F76913 Speech Networ
+        title_full: Why Hearing More Noise Can Improve Accuracy | How do speech models hear through noise? | Why Layers Changed AI | Understanding
         url: /multi-condition/
   - title: Generative AI
     title_full: Why Generative AI Feels Different | Understanding
     url: /generative-ai/
     children:
     - title: AI Drafts
-      title_full: Why AI Now Feels Like a Co Writer | Understanding 3 F90 B8 Generative
+      title_full: Why AI Now Feels Like a Co Writer | Why Generative AI Feels Different | Understanding
       url: /ai-drafts/
       children:
       - title: Editing Role
-        title_full: Why AI Turns Users Into Editors | Understanding 3 F90 B8 Generative AI 4 B0679 AI Drafts
+        title_full: Why AI Turns Users Into Editors | Why AI Now Feels Like a Co Writer | Why Generative AI Feels Different | Understanding
         url: /editing-role/
       - title: Fluent Errors
-        title_full: Why Polished AI Answers Can Mislead | Understanding 3 F90 B8 Generative AI 4 B0679 AI Drafts
+        title_full: Why Polished AI Answers Can Mislead | Why AI Now Feels Like a Co Writer | Why Generative AI Feels Different | Understanding
         url: /fluent-errors-44c97c/
       - title: Success Measures
-        title_full: How Do You Judge a Useful AI Draft? | Understanding 3 F90 B8 Generative AI 4 B0679 AI Drafts
+        title_full: How Do You Judge a Useful AI Draft? | Why AI Now Feels Like a Co Writer | Why Generative AI Feels Different | Understanding
         url: /success-measures/
     - title: Code Assistants
-      title_full: Do AI Coding Tools Make Better Programmers? | Understanding 3 F90 B8 Generative
+      title_full: Do AI Coding Tools Make Better Programmers? | Why Generative AI Feels Different | Understanding
       url: /code-assistants/
       children:
       - title: Learning cost
-        title_full: When AI code help becomes a crutch | Understanding 3 F90 B8 Generative AI 4 B0679 Coding Assist
+        title_full: When AI code help becomes a crutch | Do AI Coding Tools Make Better Programmers? | Why Generative AI Feels Different | Understanding
         url: /learning-cost/
       - title: Review risk
-        title_full: Can you trust code you did not write? | Understanding 3 F90 B8 Generative AI 4 B0679 Coding Assist
+        title_full: Can you trust code you did not write? | Do AI Coding Tools Make Better Programmers? | Why Generative AI Feels Different | Understanding
         url: /review-risk/
       - title: Speed vs depth
-        title_full: Does faster coding mean better programming? | Understanding 3 F90 B8 Generative AI 4 B0679 Coding Assist
+        title_full: Does faster coding mean better programming? | Do AI Coding Tools Make Better Programmers? | Why Generative AI Feels Different | Understanding
         url: /speed-vs-depth/
     - title: Hallucinations
-      title_full: When Fluent AI Answers Are Wrong | Understanding 3 F90 B8 Generative
+      title_full: When Fluent AI Answers Are Wrong | Why Generative AI Feels Different | Understanding
       url: /hallucinations/
       children:
       - title: Checklists
-        title_full: How to check AI answers before trusting them | Understanding 3 F90 B8 Generative AI 4 B0679 Plausible Fal
+        title_full: How to check AI answers before trusting them | When Fluent AI Answers Are Wrong | Why Generative AI Feels Different | Understanding
         url: /checklists/
       - title: Fake citations
-        title_full: When AI invents sources that look real | Understanding 3 F90 B8 Generative AI 4 B0679 Plausible Fal
+        title_full: When AI invents sources that look real | When Fluent AI Answers Are Wrong | Why Generative AI Feels Different | Understanding
         url: /fake-citations-c5bfea/
       - title: Unsafe code
-        title_full: When working AI code is not safe code | Understanding 3 F90 B8 Generative AI 4 B0679 Plausible Fal
+        title_full: When working AI code is not safe code | When Fluent AI Answers Are Wrong | Why Generative AI Feels Different | Understanding
         url: /unsafe-code/
     - title: Prompt Loops
-      title_full: How Prompts Became a Creative Interface | Understanding 3 F90 B8 Generative
+      title_full: How Prompts Became a Creative Interface | Why Generative AI Feels Different | Understanding
       url: /prompt-loops/
       children:
       - title: Human review
-        title_full: Why AI drafts still need a human editor | Understanding 3 F90 B8 Generative AI 4 B0679 Prompt Iterat
+        title_full: Why AI drafts still need a human editor | How Prompts Became a Creative Interface | Why Generative AI Feels Different | Understanding
         url: /human-review-ed03c0/
       - title: Image prompts
-        title_full: How people steer AI images one prompt at a time | Understanding 3 F90 B8 Generative AI 4 B0679 Prompt Iterat
+        title_full: How people steer AI images one prompt at a time | How Prompts Became a Creative Interface | Why Generative AI Feels Different | Understanding
         url: /image-prompts/
       - title: Revision prompts
-        title_full: Why better prompts usually come after the first draft | Understanding 3 F90 B8 Generative AI 4 B0679 Prompt Iterat
+        title_full: Why better prompts usually come after the first draft | How Prompts Became a Creative Interface | Why Generative AI Feels Different | Understanding
         url: /revision-prompts/
     - title: Synthetic Media
-      title_full: Can AI Images Be Trusted? | Understanding 3 F90 B8 Generative
+      title_full: Can AI Images Be Trusted? | Why Generative AI Feels Different | Understanding
       url: /synthetic-media/
       children:
       - title: Liar s Dividend
-        title_full: When Real Images Become Easier to Deny | Understanding 3 F90 B8 Generative AI 4 B0679 Synthetic
+        title_full: When Real Images Become Easier to Deny | Can AI Images Be Trusted? | Why Generative AI Feels Different | Understanding
         url: /liar-s-dividend/
       - title: Political Video
-        title_full: Why Political Deepfakes Travel So Fast | Understanding 3 F90 B8 Generative AI 4 B0679 Synthetic
+        title_full: Why Political Deepfakes Travel So Fast | Can AI Images Be Trusted? | Why Generative AI Feels Different | Understanding
         url: /political-video/
       - title: Provenance
-        title_full: Can Content Credentials Restore Trust in Images? | Understanding 3 F90 B8 Generative AI 4 B0679 Synthetic
+        title_full: Can Content Credentials Restore Trust in Images? | Can AI Images Be Trusted? | Why Generative AI Feels Different | Understanding
         url: /provenance/
   - title: Language Models
     title_full: Why Chatbots Sound So Fluent | Understanding
     url: /language-models/
     children:
     - title: Few shot prompts
-      title_full: When examples act like temporary instructions | Understanding 3 F90 B8 Large Languag
+      title_full: When examples act like temporary instructions | Why Chatbots Sound So Fluent | Understanding
       url: /few-shot-prompts/
       children:
       - title: Better Examples
-        title_full: How to pick examples that actually help | Understanding 3 F90 B8 Large Languag 0 Eaecc Few Shot Prom
+        title_full: How to pick examples that actually help | When examples act like temporary instructions | Why Chatbots Sound So Fluent | Understanding
         url: /better-examples/
       - title: Example Order
-        title_full: Why example order can change AI answers | Understanding 3 F90 B8 Large Languag 0 Eaecc Few Shot Prom
+        title_full: Why example order can change AI answers | When examples act like temporary instructions | Why Chatbots Sound So Fluent | Understanding
         url: /example-order/
       - title: Output Drift
-        title_full: When few shot prompts start to drift | Understanding 3 F90 B8 Large Languag 0 Eaecc Few Shot Prom
+        title_full: When few shot prompts start to drift | When examples act like temporary instructions | Why Chatbots Sound So Fluent | Understanding
         url: /output-drift/
     - title: Fluent errors
-      title_full: Why confident answers are not always grounded | Understanding 3 F90 B8 Large Languag
+      title_full: Why confident answers are not always grounded | Why Chatbots Sound So Fluent | Understanding
       url: /fluent-errors/
       children:
       - title: Fake Citations
-        title_full: When AI citations look real but are not | Understanding 3 F90 B8 Large Languag 0 Eaecc Fluent Answer
+        title_full: When AI citations look real but are not | Why confident answers are not always grounded | Why Chatbots Sound So Fluent | Understanding
         url: /fake-citations-d81942/
       - title: Guessing
-        title_full: Why AI guesses instead of admitting uncertainty | Understanding 3 F90 B8 Large Languag 0 Eaecc Fluent Answer
+        title_full: Why AI guesses instead of admitting uncertainty | Why confident answers are not always grounded | Why Chatbots Sound So Fluent | Understanding
         url: /guessing/
       - title: Verify Answers
-        title_full: How to check polished AI answers safely | Understanding 3 F90 B8 Large Languag 0 Eaecc Fluent Answer
+        title_full: How to check polished AI answers safely | Why confident answers are not always grounded | Why Chatbots Sound So Fluent | Understanding
         url: /verify-answers/
     - title: Generation loop
-      title_full: How one token becomes a whole answer | Understanding 3 F90 B8 Large Languag
+      title_full: How one token becomes a whole answer | Why Chatbots Sound So Fluent | Understanding
       url: /generation-loop/
       children:
       - title: Decoding
-        title_full: Why the same prompt gets different answers | Understanding 3 F90 B8 Large Languag 0 Eaecc Token Generat
+        title_full: Why the same prompt gets different answers | How one token becomes a whole answer | Why Chatbots Sound So Fluent | Understanding
         url: /decoding/
       - title: Speed
-        title_full: Why longer AI answers slow down | Understanding 3 F90 B8 Large Languag 0 Eaecc Token Generat
+        title_full: Why longer AI answers slow down | How one token becomes a whole answer | Why Chatbots Sound So Fluent | Understanding
         url: /speed/
       - title: Wrong Answers
-        title_full: How fluent AI answers go wrong | Understanding 3 F90 B8 Large Languag 0 Eaecc Token Generat
+        title_full: How fluent AI answers go wrong | How one token becomes a whole answer | Why Chatbots Sound So Fluent | Understanding
         url: /wrong-answers/
     - title: Tokenization
-      title_full: Why chatbots do not really read words | Understanding 3 F90 B8 Large Languag
+      title_full: Why chatbots do not really read words | Why Chatbots Sound So Fluent | Understanding
       url: /tokenization/
       children:
       - title: Language Bias
-        title_full: Do tokens make some languages harder for AI? | Understanding 3 F90 B8 Large Languag 0 Eaecc Tokenization
+        title_full: Do tokens make some languages harder for AI? | Why chatbots do not really read words | Why Chatbots Sound So Fluent | Understanding
         url: /language-bias/
       - title: Token Costs
-        title_full: Why short text can use too many tokens | Understanding 3 F90 B8 Large Languag 0 Eaecc Tokenization
+        title_full: Why short text can use too many tokens | Why chatbots do not really read words | Why Chatbots Sound So Fluent | Understanding
         url: /token-costs/
       - title: Token Splits
-        title_full: Why one split can change an AI answer | Understanding 3 F90 B8 Large Languag 0 Eaecc Tokenization
+        title_full: Why one split can change an AI answer | Why chatbots do not really read words | Why Chatbots Sound So Fluent | Understanding
         url: /token-splits/
     - title: Transformer shift
-      title_full: Why attention made prediction scale | Understanding 3 F90 B8 Large Languag
+      title_full: Why attention made prediction scale | Why Chatbots Sound So Fluent | Understanding
       url: /transformer-shift/
       children:
       - title: Direct Context
-        title_full: Why Transformers remember context differently | Understanding 3 F90 B8 Large Languag 0 Eaecc Transformer
+        title_full: Why Transformers remember context differently | Why attention made prediction scale | Why Chatbots Sound So Fluent | Understanding
         url: /direct-context/
       - title: From Translation
-        title_full: Why a translation model powered chatbots | Understanding 3 F90 B8 Large Languag 0 Eaecc Transformer
+        title_full: Why a translation model powered chatbots | Why attention made prediction scale | Why Chatbots Sound So Fluent | Understanding
         url: /from-translation/
       - title: Parallel Scale
-        title_full: How parallel training unlocked bigger models | Understanding 3 F90 B8 Large Languag 0 Eaecc Transformer
+        title_full: How parallel training unlocked bigger models | Why attention made prediction scale | Why Chatbots Sound So Fluent | Understanding
         url: /parallel-scale-655cb3/
   - title: Machine Learning
     title_full: How Machines Learn From Examples | Understanding
     url: /machine-learning/
     children:
     - title: Biased data
-      title_full: When learned patterns become unfair | Understanding 3 F90 B8 Machine Learn
+      title_full: When learned patterns become unfair | How Machines Learn From Examples | Understanding
       url: /biased-data/
       children:
       - title: Biased labels
-        title_full: When old decisions become AI training data | Understanding 3 F90 B8 Machine Learn D2 D913 Biased Data
+        title_full: When old decisions become AI training data | When learned patterns become unfair | How Machines Learn From Examples | Understanding
         url: /biased-labels/
       - title: Face bias
-        title_full: Why facial recognition errors are not evenly shared | Understanding 3 F90 B8 Machine Learn D2 D913 Biased Data
+        title_full: Why facial recognition errors are not evenly shared | When learned patterns become unfair | How Machines Learn From Examples | Understanding
         url: /face-bias-ea869a/
       - title: Fairness metrics
-        title_full: Why AI fairness cannot be one score | Understanding 3 F90 B8 Machine Learn D2 D913 Biased Data
+        title_full: Why AI fairness cannot be one score | When learned patterns become unfair | How Machines Learn From Examples | Understanding
         url: /fairness-metrics/
     - title: Loss functions
-      title_full: How mistakes become a training signal | Understanding 3 F90 B8 Machine Learn
+      title_full: How mistakes become a training signal | How Machines Learn From Examples | Understanding
       url: /loss-functions/
       children:
       - title: Big Errors
-        title_full: Why some AI mistakes count much more | Understanding 3 F90 B8 Machine Learn D2 D913 Loss Function
+        title_full: Why some AI mistakes count much more | How mistakes become a training signal | How Machines Learn From Examples | Understanding
         url: /big-errors/
       - title: Click Traps
-        title_full: When lower loss makes worse recommendations | Understanding 3 F90 B8 Machine Learn D2 D913 Loss Function
+        title_full: When lower loss makes worse recommendations | How mistakes become a training signal | How Machines Learn From Examples | Understanding
         url: /click-traps/
       - title: Confidence
-        title_full: Why confident wrong answers hurt more | Understanding 3 F90 B8 Machine Learn D2 D913 Loss Function
+        title_full: Why confident wrong answers hurt more | How mistakes become a training signal | How Machines Learn From Examples | Understanding
         url: /confidence/
     - title: Overfitting
-      title_full: When a model memorises instead of learning | Understanding 3 F90 B8 Machine Learn
+      title_full: When a model memorises instead of learning | How Machines Learn From Examples | Understanding
       url: /overfitting/
       children:
       - title: Hidden memorisation
-        title_full: When high accuracy is the warning sign | Understanding 3 F90 B8 Machine Learn D2 D913 Overfitting
+        title_full: When high accuracy is the warning sign | When a model memorises instead of learning | How Machines Learn From Examples | Understanding
         url: /hidden-memorisation/
       - title: Stop training
-        title_full: The curve that says stop training | Understanding 3 F90 B8 Machine Learn D2 D913 Overfitting
+        title_full: The curve that says stop training | When a model memorises instead of learning | How Machines Learn From Examples | Understanding
         url: /stop-training/
       - title: Test sets
-        title_full: The new examples that reveal overfitting | Understanding 3 F90 B8 Machine Learn D2 D913 Overfitting
+        title_full: The new examples that reveal overfitting | When a model memorises instead of learning | How Machines Learn From Examples | Understanding
         url: /test-sets/
     - title: Spam filters
-      title_full: Why spam filters do not need perfect rules | Understanding 3 F90 B8 Machine Learn
+      title_full: Why spam filters do not need perfect rules | How Machines Learn From Examples | Understanding
       url: /spam-filters/
       children:
       - title: Bayesian Filters
-        title_full: How spam filters add up small clues | Understanding 3 F90 B8 Machine Learn D2 D913 Spam Filters
+        title_full: How spam filters add up small clues | Why spam filters do not need perfect rules | How Machines Learn From Examples | Understanding
         url: /bayesian-filters/
       - title: False Positives
-        title_full: When spam rules punish real emails | Understanding 3 F90 B8 Machine Learn D2 D913 Spam Filters
+        title_full: When spam rules punish real emails | Why spam filters do not need perfect rules | How Machines Learn From Examples | Understanding
         url: /false-positives/
       - title: User Feedback
-        title_full: Why your spam clicks help the filter learn | Understanding 3 F90 B8 Machine Learn D2 D913 Spam Filters
+        title_full: Why your spam clicks help the filter learn | Why spam filters do not need perfect rules | How Machines Learn From Examples | Understanding
         url: /user-feedback/
     - title: Training data
-      title_full: Why the data teaches the model | Understanding 3 F90 B8 Machine Learn
+      title_full: Why the data teaches the model | How Machines Learn From Examples | Understanding
       url: /training-data/
       children:
       - title: Accents
-        title_full: Why some voices confuse AI systems | Understanding 3 F90 B8 Machine Learn D2 D913 Training Data
+        title_full: Why some voices confuse AI systems | Why the data teaches the model | How Machines Learn From Examples | Understanding
         url: /accents/
       - title: Rare cases
-        title_full: Why AI misses rare but important cases | Understanding 3 F90 B8 Machine Learn D2 D913 Training Data
+        title_full: Why AI misses rare but important cases | Why the data teaches the model | How Machines Learn From Examples | Understanding
         url: /rare-cases/
       - title: Shortcuts
-        title_full: When AI learns the wrong shortcut | Understanding 3 F90 B8 Machine Learn D2 D913 Training Data
+        title_full: When AI learns the wrong shortcut | Why the data teaches the model | How Machines Learn From Examples | Understanding
         url: /shortcuts/
   - title: Narrow vs AGI
     title_full: Is Today’s AI Actually General? | Understanding
     url: /narrow-vs-agi/
     children:
     - title: Benchmark limits
-      title_full: Do benchmark wins prove intelligence? | Understanding 3 F90 B8 Narrow AI AGI
+      title_full: Do benchmark wins prove intelligence? | Is Today’s AI Actually General? | Understanding
       url: /benchmark-limits/
       children:
       - title: ARC debate
-        title_full: Can puzzle solving prove general intelligence? | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Benchmark Win
+        title_full: Can puzzle solving prove general intelligence? | Do benchmark wins prove intelligence? | Is Today’s AI Actually General? | Understanding
         url: /arc-debate/
       - title: Contamination
-        title_full: Did the model learn or remember? | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Benchmark Win
+        title_full: Did the model learn or remember? | Do benchmark wins prove intelligence? | Is Today’s AI Actually General? | Understanding
         url: /contamination/
       - title: Public scores
-        title_full: When a high benchmark score misleads | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Benchmark Win
+        title_full: When a high benchmark score misleads | Do benchmark wins prove intelligence? | Is Today’s AI Actually General? | Understanding
         url: /public-scores/
     - title: Chatbox illusion
-      title_full: Why chatbots feel smarter than tools | Understanding 3 F90 B8 Narrow AI AGI
+      title_full: Why chatbots feel smarter than tools | Is Today’s AI Actually General? | Understanding
       url: /chatbox-illusion/
       children:
       - title: Fluent Reasons
-        title_full: When explanations sound more thoughtful than they are | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Chatbox Gener
+        title_full: When explanations sound more thoughtful than they are | Why chatbots feel smarter than tools | Is Today’s AI Actually General? | Understanding
         url: /fluent-reasons/
       - title: Reliability Limits
-        title_full: Why confidence can hide weak AI answers | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Chatbox Gener
+        title_full: Why confidence can hide weak AI answers | Why chatbots feel smarter than tools | Is Today’s AI Actually General? | Understanding
         url: /reliability-limits/
       - title: Task Switching
-        title_full: Why one chat feels like one mind | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Chatbox Gener
+        title_full: Why one chat feels like one mind | Why chatbots feel smarter than tools | Is Today’s AI Actually General? | Understanding
         url: /task-switching/
     - title: ELIZA effect
-      title_full: Why sounding human is not enough | Understanding 3 F90 B8 Narrow AI AGI
+      title_full: Why sounding human is not enough | Is Today’s AI Actually General? | Understanding
       url: /eliza-effect/
       children:
       - title: ELIZA effect
-        title_full: Why chatbots can feel more caring than they are | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Eliza Turing
+        title_full: Why chatbots can feel more caring than they are | Why sounding human is not enough | Is Today’s AI Actually General? | Understanding
         url: /eliza-effect-f3a94b/
       - title: Overtrust
-        title_full: When friendly chatbot replies become too persuasive | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Eliza Turing
+        title_full: When friendly chatbot replies become too persuasive | Why sounding human is not enough | Is Today’s AI Actually General? | Understanding
         url: /overtrust/
       - title: Turing limits
-        title_full: What does fooling a human really prove? | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Eliza Turing
+        title_full: What does fooling a human really prove? | Why sounding human is not enough | Is Today’s AI Actually General? | Understanding
         url: /turing-limits/
     - title: Forecasting gap
-      title_full: Can chatbots predict the unknown? | Understanding 3 F90 B8 Narrow AI AGI
+      title_full: Can chatbots predict the unknown? | Is Today’s AI Actually General? | Understanding
       url: /forecasting-gap/
       children:
       - title: Aggregation
-        title_full: Why crowds and ensembles forecast better | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Forecasting
+        title_full: Why crowds and ensembles forecast better | Can chatbots predict the unknown? | Is Today’s AI Actually General? | Understanding
         url: /aggregation/
       - title: Benchmarks
-        title_full: Can future questions expose real AI skill? | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Forecasting
+        title_full: Can future questions expose real AI skill? | Can chatbots predict the unknown? | Is Today’s AI Actually General? | Understanding
         url: /benchmarks/
       - title: Overconfidence
-        title_full: Why one chatbot forecast is not enough | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Forecasting
+        title_full: Why one chatbot forecast is not enough | Can chatbots predict the unknown? | Is Today’s AI Actually General? | Understanding
         url: /overconfidence/
     - title: Risk rules
-      title_full: Narrow AI can still be high risk | Understanding 3 F90 B8 Narrow AI AGI
+      title_full: Narrow AI can still be high risk | Is Today’s AI Actually General? | Understanding
       url: /risk-rules/
       children:
       - title: EU AI Act
-        title_full: Why narrow AI can be high risk | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Risk Based
+        title_full: Why narrow AI can be high risk | Narrow AI can still be high risk | Is Today’s AI Actually General? | Understanding
         url: /eu-ai-act/
       - title: Hiring AI
-        title_full: Why hiring AI gets stricter rules | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Risk Based
+        title_full: Why hiring AI gets stricter rules | Narrow AI can still be high risk | Is Today’s AI Actually General? | Understanding
         url: /hiring-ai/
       - title: Oversight
-        title_full: When human oversight actually matters | Understanding 3 F90 B8 Narrow AI AGI Affd 1 F Risk Based
+        title_full: When human oversight actually matters | Narrow AI can still be high risk | Is Today’s AI Actually General? | Understanding
         url: /oversight/
   - title: Responsible AI
     title_full: Who Is Responsible When AI Fails? | Understanding
     url: /responsible-ai/
     children:
     - title: Face Matches
-      title_full: Why a face match is not proof | Understanding 3 F90 B8 Responsible
+      title_full: Why a face match is not proof | Who Is Responsible When AI Fails? | Understanding
       url: /face-matches/
       children:
       - title: Disclosure
-        title_full: What Happens When Face Searches Stay Hidden | Understanding 3 F90 B8 Responsible A 43 D3 Ec Facial Recogn
+        title_full: What Happens When Face Searches Stay Hidden | Why a face match is not proof | Who Is Responsible When AI Fails? | Understanding
         url: /disclosure/
       - title: NIST findings
-        title_full: Why False Matches Do Not Fall Evenly | Understanding 3 F90 B8 Responsible A 43 D3 Ec Facial Recogn
+        title_full: Why False Matches Do Not Fall Evenly | Why a face match is not proof | Who Is Responsible When AI Fails? | Understanding
         url: /nist-findings/
       - title: Williams case
-        title_full: When a Face Match Becomes an Arrest | Understanding 3 F90 B8 Responsible A 43 D3 Ec Facial Recogn
+        title_full: When a Face Match Becomes an Arrest | Why a face match is not proof | Who Is Responsible When AI Fails? | Understanding
         url: /williams-case/
     - title: Health Proxy
-      title_full: When spending is mistaken for medical need | Understanding 3 F90 B8 Responsible
+      title_full: When spending is mistaken for medical need | Who Is Responsible When AI Fails? | Understanding
       url: /health-proxy/
       children:
       - title: Better Target
-        title_full: The simple target change that reduced bias | Understanding 3 F90 B8 Responsible A 43 D3 Ec Healthcare
+        title_full: The simple target change that reduced bias | When spending is mistaken for medical need | Who Is Responsible When AI Fails? | Understanding
         url: /better-target/
       - title: Cost Proxy
-        title_full: Why costs can misread medical need | Understanding 3 F90 B8 Responsible A 43 D3 Ec Healthcare
+        title_full: Why costs can misread medical need | When spending is mistaken for medical need | Who Is Responsible When AI Fails? | Understanding
         url: /cost-proxy/
       - title: Equal Scores
-        title_full: When equal risk scores hide unequal illness | Understanding 3 F90 B8 Responsible A 43 D3 Ec Healthcare
+        title_full: When equal risk scores hide unequal illness | When spending is mistaken for medical need | Who Is Responsible When AI Fails? | Understanding
         url: /equal-scores/
     - title: Hiring Bias
-      title_full: Can hiring AI learn the wrong lesson? | Understanding 3 F90 B8 Responsible
+      title_full: Can hiring AI learn the wrong lesson? | Who Is Responsible When AI Fails? | Understanding
       url: /hiring-bias/
       children:
       - title: Amazon case
-        title_full: What Amazon's hiring AI got wrong | Understanding 3 F90 B8 Responsible A 43 D3 Ec Hiring AI His
+        title_full: What Amazon's hiring AI got wrong | Can hiring AI learn the wrong lesson? | Who Is Responsible When AI Fails? | Understanding
         url: /amazon-case/
       - title: Impact tests
-        title_full: Why accurate hiring AI can still be unfair | Understanding 3 F90 B8 Responsible A 43 D3 Ec Hiring AI His
+        title_full: Why accurate hiring AI can still be unfair | Can hiring AI learn the wrong lesson? | Who Is Responsible When AI Fails? | Understanding
         url: /impact-tests/
       - title: Proxy bias
-        title_full: When neutral data quietly reveals identity | Understanding 3 F90 B8 Responsible A 43 D3 Ec Hiring AI His
+        title_full: When neutral data quietly reveals identity | Can hiring AI learn the wrong lesson? | Who Is Responsible When AI Fails? | Understanding
         url: /proxy-bias/
     - title: Human Review
-      title_full: When human oversight becomes rubber stamping | Understanding 3 F90 B8 Responsible
+      title_full: When human oversight becomes rubber stamping | Who Is Responsible When AI Fails? | Understanding
       url: /human-review/
       children:
       - title: Appeals
-        title_full: What Appeals Reveal About AI Oversight | Understanding 3 F90 B8 Responsible A 43 D3 Ec Meaningful
+        title_full: What Appeals Reveal About AI Oversight | When human oversight becomes rubber stamping | Who Is Responsible When AI Fails? | Understanding
         url: /appeals-519c03/
       - title: Evidence Access
-        title_full: Why a Score Is Not Enough | Understanding 3 F90 B8 Responsible A 43 D3 Ec Meaningful
+        title_full: Why a Score Is Not Enough | When human oversight becomes rubber stamping | Who Is Responsible When AI Fails? | Understanding
         url: /evidence-access/
       - title: Override Power
-        title_full: Can the Human Really Say No? | Understanding 3 F90 B8 Responsible A 43 D3 Ec Meaningful
+        title_full: Can the Human Really Say No? | When human oversight becomes rubber stamping | Who Is Responsible When AI Fails? | Understanding
         url: /override-power/
     - title: Risk Standards
-      title_full: How standards make AI accountability repeatable | Understanding 3 F90 B8 Responsible
+      title_full: How standards make AI accountability repeatable | Who Is Responsible When AI Fails? | Understanding
       url: /risk-standards/
       children:
       - title: Bias testing
-        title_full: What Counts as Evidence That AI Is Fair? | Understanding 3 F90 B8 Responsible A 43 D3 Ec AI Risk Stand
+        title_full: What Counts as Evidence That AI Is Fair? | How standards make AI accountability repeatable | Who Is Responsible When AI Fails? | Understanding
         url: /bias-testing/
       - title: High impact AI
-        title_full: Which AI Systems Need the Strongest Safeguards? | Understanding 3 F90 B8 Responsible A 43 D3 Ec AI Risk Stand
+        title_full: Which AI Systems Need the Strongest Safeguards? | How standards make AI accountability repeatable | Who Is Responsible When AI Fails? | Understanding
         url: /high-impact-ai/
       - title: Management systems
-        title_full: Why AI Governance Cannot Stop at Launch | Understanding 3 F90 B8 Responsible A 43 D3 Ec AI Risk Stand
+        title_full: Why AI Governance Cannot Stop at Launch | How standards make AI accountability repeatable | Who Is Responsible When AI Fails? | Understanding
         url: /management-systems/
   - title: Training Choices
     title_full: What AI Learns Depends on Its Goals | Understanding
     url: /training-choices/
     children:
     - title: Face Bias
-      title_full: When face AI fails some people first | Understanding 3 F90 B8 Training Data
+      title_full: When face AI fails some people first | What AI Learns Depends on Its Goals | Understanding
       url: /face-bias/
       children:
       - title: Gender Shades
-        title_full: The Study That Changed Face AI Testing | Understanding 3 F90 B8 Training Data 1437 Ec Face Dataset
+        title_full: The Study That Changed Face AI Testing | When face AI fails some people first | What AI Learns Depends on Its Goals | Understanding
         url: /gender-shades/
       - title: Hidden Errors
-        title_full: How High Accuracy Hid Unequal AI Errors | Understanding 3 F90 B8 Training Data 1437 Ec Face Dataset
+        title_full: How High Accuracy Hid Unequal AI Errors | When face AI fails some people first | What AI Learns Depends on Its Goals | Understanding
         url: /hidden-errors/
       - title: Skewed Tests
-        title_full: When Benchmarks Decide Who Counts | Understanding 3 F90 B8 Training Data 1437 Ec Face Dataset
+        title_full: When Benchmarks Decide Who Counts | When face AI fails some people first | What AI Learns Depends on Its Goals | Understanding
         url: /skewed-tests/
     - title: Model Cards
-      title_full: What AI labels should tell US before launch | Understanding 3 F90 B8 Training Data
+      title_full: What AI labels should tell US before launch | What AI Learns Depends on Its Goals | Understanding
       url: /model-cards/
       children:
       - title: Data fit
-        title_full: Does the training data fit real users? | Understanding 3 F90 B8 Training Data 1437 Ec AI Documentat
+        title_full: Does the training data fit real users? | What AI labels should tell US before launch | What AI Learns Depends on Its Goals | Understanding
         url: /data-fit/
       - title: Model limits
-        title_full: Where should a model not be used? | Understanding 3 F90 B8 Training Data 1437 Ec AI Documentat
+        title_full: Where should a model not be used? | What AI labels should tell US before launch | What AI Learns Depends on Its Goals | Understanding
         url: /model-limits/
       - title: Paper safety
-        title_full: Why AI paperwork is not enough | Understanding 3 F90 B8 Training Data 1437 Ec AI Documentat
+        title_full: Why AI paperwork is not enough | What AI labels should tell US before launch | What AI Learns Depends on Its Goals | Understanding
         url: /paper-safety/
     - title: Reward Hacking
-      title_full: When AI wins the score and loses the task | Understanding 3 F90 B8 Training Data
+      title_full: When AI wins the score and loses the task | What AI Learns Depends on Its Goals | Understanding
       url: /reward-hacking/
       children:
       - title: Length bias
-        title_full: Why longer AI answers can fool evaluators | Understanding 3 F90 B8 Training Data 1437 Ec Reward Hackin
+        title_full: Why longer AI answers can fool evaluators | When AI wins the score and loses the task | What AI Learns Depends on Its Goals | Understanding
         url: /length-bias/
       - title: Stress tests
-        title_full: Can tests catch AI gaming the scoreboard? | Understanding 3 F90 B8 Training Data 1437 Ec Reward Hackin
+        title_full: Can tests catch AI gaming the scoreboard? | When AI wins the score and loses the task | What AI Learns Depends on Its Goals | Understanding
         url: /stress-tests/
       - title: Sycophancy
-        title_full: When AI agrees instead of telling the truth | Understanding 3 F90 B8 Training Data 1437 Ec Reward Hackin
+        title_full: When AI agrees instead of telling the truth | When AI wins the score and loses the task | What AI Learns Depends on Its Goals | Understanding
         url: /sycophancy-d7a02c/
     - title: Sycophancy
-      title_full: Why AI sometimes tells you what you want | Understanding 3 F90 B8 Training Data
+      title_full: Why AI sometimes tells you what you want | What AI Learns Depends on Its Goals | Understanding
       url: /sycophancy/
       children:
       - title: Agreement bias
-        title_full: When friendliness beats factual correction | Understanding 3 F90 B8 Training Data 1437 Ec RLHF Sycophan
+        title_full: When friendliness beats factual correction | Why AI sometimes tells you what you want | What AI Learns Depends on Its Goals | Understanding
         url: /agreement-bias/
       - title: Anthropic tests
-        title_full: Do models change answers to agree? | Understanding 3 F90 B8 Training Data 1437 Ec RLHF Sycophan
+        title_full: Do models change answers to agree? | Why AI sometimes tells you what you want | What AI Learns Depends on Its Goals | Understanding
         url: /anthropic-tests/
       - title: GPT 4 o case
-        title_full: What went wrong with GPT 4 o flattery | Understanding 3 F90 B8 Training Data 1437 Ec RLHF Sycophan
+        title_full: What went wrong with GPT 4 o flattery | Why AI sometimes tells you what you want | What AI Learns Depends on Its Goals | Understanding
         url: /gpt-4-o-case/
     - title: Web Filters
-      title_full: Can cleaning data make AI less fair? | Understanding 3 F90 B8 Training Data
+      title_full: Can cleaning data make AI less fair? | What AI Learns Depends on Its Goals | Understanding
       url: /web-filters/
       children:
       - title: Block lists
-        title_full: When safety filters erase real communities | Understanding 3 F90 B8 Training Data 1437 Ec Web Filtering
+        title_full: When safety filters erase real communities | Can cleaning data make AI less fair? | What AI Learns Depends on Its Goals | Understanding
         url: /block-lists/
       - title: C4 audit
-        title_full: The dataset audit that found missing voices | Understanding 3 F90 B8 Training Data 1437 Ec Web Filtering
+        title_full: The dataset audit that found missing voices | Can cleaning data make AI less fair? | What AI Learns Depends on Its Goals | Understanding
         url: /c4-audit/
       - title: Fairness tradeoff
-        title_full: Can cleaner data make AI less fair? | Understanding 3 F90 B8 Training Data 1437 Ec Web Filtering
+        title_full: Can cleaner data make AI less fair? | Can cleaning data make AI less fair? | What AI Learns Depends on Its Goals | Understanding
         url: /fairness-tradeoff/
   - title: Transformers
     title_full: The Architecture Behind Modern AI | Understanding
     url: /transformers/
     children:
     - title: Attention maps
-      title_full: Can attention maps really explain AI? | Understanding 3 F90 B8 Transformers
+      title_full: Can attention maps really explain AI? | The Architecture Behind Modern AI | Understanding
       url: /attention-maps/
       children:
       - title: Attention Flow
-        title_full: Why Following Attention Across Layers Changes the Story | Understanding 3 F90 B8 Transformers 53 D0 Af Attention Wei
+        title_full: Why Following Attention Across Layers Changes the Story | Can attention maps really explain AI? | The Architecture Behind Modern AI | Understanding
         url: /attention-flow/
       - title: Same Answer
-        title_full: Can Two Very Different Attention Maps Mean the Same Thing? | Understanding 3 F90 B8 Transformers 53 D0 Af Attention Wei
+        title_full: Can Two Very Different Attention Maps Mean the Same Thing? | Can attention maps really explain AI? | The Architecture Behind Modern AI | Understanding
         url: /same-answer/
       - title: Verify Explanations
-        title_full: How Can You Check If an Attention Explanation Is Real? | Understanding 3 F90 B8 Transformers 53 D0 Af Attention Wei
+        title_full: How Can You Check If an Attention Explanation Is Real? | Can attention maps really explain AI? | The Architecture Behind Modern AI | Understanding
         url: /verify-explanations/
     - title: Beyond text
-      title_full: Why did attention work beyond language? | Understanding 3 F90 B8 Transformers
+      title_full: Why did attention work beyond language? | The Architecture Behind Modern AI | Understanding
       url: /beyond-text/
       children:
       - title: Alpha Fold 2
-        title_full: Why protein folding needed smarter attention | Understanding 3 F90 B8 Transformers 53 D0 Af Transformers
+        title_full: Why protein folding needed smarter attention | Why did attention work beyond language? | The Architecture Behind Modern AI | Understanding
         url: /alpha-fold-2/
       - title: Image patches
-        title_full: How Transformers learned to see in patches | Understanding 3 F90 B8 Transformers 53 D0 Af Transformers
+        title_full: How Transformers learned to see in patches | Why did attention work beyond language? | The Architecture Behind Modern AI | Understanding
         url: /image-patches/
       - title: Protein models
-        title_full: Can proteins be read like a language? | Understanding 3 F90 B8 Transformers 53 D0 Af Transformers
+        title_full: Can proteins be read like a language? | Why did attention work beyond language? | The Architecture Behind Modern AI | Understanding
         url: /protein-models/
     - title: GPT generators
-      title_full: Why can next token models do so much? | Understanding 3 F90 B8 Transformers
+      title_full: Why can next token models do so much? | The Architecture Behind Modern AI | Understanding
       url: /gpt-generators/
       children:
       - title: Fluency vs Accuracy
-        title_full: Why Convincing AI Responses Still Make Mistakes | Understanding 3 F90 B8 Transformers 53 D0 Af Gpt Style Gen
+        title_full: Why Convincing AI Responses Still Make Mistakes | Why can next token models do so much? | The Architecture Behind Modern AI | Understanding
         url: /fluency-vs-accuracy/
       - title: GPT 3 Shift
-        title_full: Why GPT 3 Changed How People Used AI | Understanding 3 F90 B8 Transformers 53 D0 Af Gpt Style Gen
+        title_full: Why GPT 3 Changed How People Used AI | Why can next token models do so much? | The Architecture Behind Modern AI | Understanding
         url: /gpt-3-shift/
       - title: In Context Learning
-        title_full: How Can a Model Learn During a Prompt? | Understanding 3 F90 B8 Transformers 53 D0 Af Gpt Style Gen
+        title_full: How Can a Model Learn During a Prompt? | Why can next token models do so much? | The Architecture Behind Modern AI | Understanding
         url: /in-context-learning/
     - title: Parallel scale
-      title_full: Why did Transformers scale so well? | Understanding 3 F90 B8 Transformers
+      title_full: Why did Transformers scale so well? | The Architecture Behind Modern AI | Understanding
       url: /parallel-scale/
       children:
       - title: 2017 Proof
-        title_full: The paper that made scaling look practical | Understanding 3 F90 B8 Transformers 53 D0 Af Parallel Tran
+        title_full: The paper that made scaling look practical | Why did Transformers scale so well? | The Architecture Behind Modern AI | Understanding
         url: /2017-proof/
       - title: Long context cost
-        title_full: Why faster training still hit a length limit | Understanding 3 F90 B8 Transformers 53 D0 Af Parallel Tran
+        title_full: Why faster training still hit a length limit | Why did Transformers scale so well? | The Architecture Behind Modern AI | Understanding
         url: /long-context-cost/
       - title: Parallel attention
-        title_full: Why attention could train all tokens at once | Understanding 3 F90 B8 Transformers 53 D0 Af Parallel Tran
+        title_full: Why attention could train all tokens at once | Why did Transformers scale so well? | The Architecture Behind Modern AI | Understanding
         url: /parallel-attention/
     - title: Self attention
-      title_full: How does attention find the right context? | Understanding 3 F90 B8 Transformers
+      title_full: How does attention find the right context? | The Architecture Behind Modern AI | Understanding
       url: /self-attention/
       children:
       - title: Attention Maps
-        title_full: Why Attention Maps Can Mislead | Understanding 3 F90 B8 Transformers 53 D0 Af Self Attentio
+        title_full: Why Attention Maps Can Mislead | How does attention find the right context? | The Architecture Behind Modern AI | Understanding
         url: /attention-maps-e039cc/
       - title: Pronouns
-        title_full: Why Pronouns Test Long Range Attention | Understanding 3 F90 B8 Transformers 53 D0 Af Self Attentio
+        title_full: Why Pronouns Test Long Range Attention | How does attention find the right context? | The Architecture Behind Modern AI | Understanding
         url: /pronouns/
       - title: Word Context
-        title_full: How Attention Resolves Ambiguous Words | Understanding 3 F90 B8 Transformers 53 D0 Af Self Attentio
+        title_full: How Attention Resolves Ambiguous Words | How does attention find the right context? | The Architecture Behind Modern AI | Understanding
         url: /word-context/
   - title: Use Cases
     title_full: Where AI Actually Helps | Understanding
     url: /use-cases/
     children:
     - title: AI Search
-      title_full: Can AI Search Summaries Be Trusted? | Understanding 3 F90 B8 Everyday AI
+      title_full: Can AI Search Summaries Be Trusted? | Where AI Actually Helps | Understanding
       url: /ai-search/
       children:
       - title: AI Synthesis
-        title_full: Why Source Checking Gets Harder With AI Answers | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Search Sou
+        title_full: Why Source Checking Gets Harder With AI Answers | Can AI Search Summaries Be Trusted? | Where AI Actually Helps | Understanding
         url: /ai-synthesis/
       - title: Liability Cases
-        title_full: Who Is Responsible When AI Search Gets It Wrong? | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Search Sou
+        title_full: Who Is Responsible When AI Search Gets It Wrong? | Can AI Search Summaries Be Trusted? | Where AI Actually Helps | Understanding
         url: /liability-cases/
       - title: Unsupported Claims
-        title_full: When a Citation Does Not Back the Claim | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Search Sou
+        title_full: When a Citation Does Not Back the Claim | Can AI Search Summaries Be Trusted? | Where AI Actually Helps | Understanding
         url: /unsupported-claims/
     - title: Code Review
-      title_full: When AI Coding Help Slows You Down | Understanding 3 F90 B8 Everyday AI
+      title_full: When AI Coding Help Slows You Down | Where AI Actually Helps | Understanding
       url: /code-review/
       children:
       - title: Expert Slowdowns
-        title_full: Why Can AI Make Expert Developers Slower? | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Coding Rev
+        title_full: Why Can AI Make Expert Developers Slower? | When AI Coding Help Slows You Down | Where AI Actually Helps | Understanding
         url: /expert-slowdowns/
       - title: Review Safeguards
-        title_full: What Makes AI Generated Code Easier to Trust? | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Coding Rev
+        title_full: What Makes AI Generated Code Easier to Trust? | When AI Coding Help Slows You Down | Where AI Actually Helps | Understanding
         url: /review-safeguards/
       - title: Verification Cost
-        title_full: When Reviewing Code Costs More Than Writing It | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Coding Rev
+        title_full: When Reviewing Code Costs More Than Writing It | When AI Coding Help Slows You Down | Where AI Actually Helps | Understanding
         url: /verification-cost/
     - title: Fraud Flags
-      title_full: Why Fraud AI Still Needs Appeals | Understanding 3 F90 B8 Everyday AI
+      title_full: Why Fraud AI Still Needs Appeals | Where AI Actually Helps | Understanding
       url: /fraud-flags/
       children:
       - title: Appeals
-        title_full: What a fair payment appeal needs | Understanding 3 F90 B8 Everyday AI U C3 E17 F Fraud AI Paym
+        title_full: What a fair payment appeal needs | Why Fraud AI Still Needs Appeals | Where AI Actually Helps | Understanding
         url: /appeals-161a0b/
       - title: Error metrics
-        title_full: The missing scorecard for fraud AI | Understanding 3 F90 B8 Everyday AI U C3 E17 F Fraud AI Paym
+        title_full: The missing scorecard for fraud AI | Why Fraud AI Still Needs Appeals | Where AI Actually Helps | Understanding
         url: /error-metrics/
       - title: False declines
-        title_full: Why real payments sometimes look like fraud | Understanding 3 F90 B8 Everyday AI U C3 E17 F Fraud AI Paym
+        title_full: Why real payments sometimes look like fraud | Why Fraud AI Still Needs Appeals | Where AI Actually Helps | Understanding
         url: /false-declines/
     - title: Routes
-      title_full: Should You Always Follow the Map? | Understanding 3 F90 B8 Everyday AI
+      title_full: Should You Always Follow the Map? | Where AI Actually Helps | Understanding
       url: /routes/
       children:
       - title: Legal Priority
-        title_full: Why Road Signs Matter More Than Your App | Understanding 3 F90 B8 Everyday AI U C3 E17 F Navigation
+        title_full: Why Road Signs Matter More Than Your App | Should You Always Follow the Map? | Where AI Actually Helps | Understanding
         url: /legal-priority/
       - title: Road Hazards
-        title_full: When Should You Ignore a Suggested Route? | Understanding 3 F90 B8 Everyday AI U C3 E17 F Navigation
+        title_full: When Should You Ignore a Suggested Route? | Should You Always Follow the Map? | Where AI Actually Helps | Understanding
         url: /road-hazards/
       - title: Traffic AI
-        title_full: How Does a Navigation App Predict Traffic Ahead? | Understanding 3 F90 B8 Everyday AI U C3 E17 F Navigation
+        title_full: How Does a Navigation App Predict Traffic Ahead? | Should You Always Follow the Map? | Where AI Actually Helps | Understanding
         url: /traffic-ai/
     - title: Translation
-      title_full: When Is AI Translation Good Enough? | Understanding 3 F90 B8 Everyday AI
+      title_full: When Is AI Translation Good Enough? | Where AI Actually Helps | Understanding
       url: /translation/
       children:
       - title: Context Failures
-        title_full: Why Correct Translations Can Still Mean the Wrong Thing | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Translatio
+        title_full: Why Correct Translations Can Still Mean the Wrong Thing | When Is AI Translation Good Enough? | Where AI Actually Helps | Understanding
         url: /context-failures/
       - title: Legal Risks
-        title_full: When One Translated Word Can Change a Contract | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Translatio
+        title_full: When One Translated Word Can Change a Contract | When Is AI Translation Good Enough? | Where AI Actually Helps | Understanding
         url: /legal-risks/
       - title: Medical Accuracy
-        title_full: How Safe Is AI Translation in Healthcare? | Understanding 3 F90 B8 Everyday AI U C3 E17 F AI Translatio
+        title_full: How Safe Is AI Translation in Healthcare? | When Is AI Translation Good Enough? | Where AI Actually Helps | Understanding
         url: /medical-accuracy/
