@@ -207,6 +207,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 17:09:54'
+last_modified_at: '2026-06-15 17:09:54'
 parent_title: The Architecture Behind Modern AI
 parent_permalink: /transformers/
 parent_nav_short_title: Transformers

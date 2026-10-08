@@ -261,6 +261,7 @@ next_link:
   short_title: AI handoffs
   heading_title: Why AI handoffs often make or break support
 date: '2026-06-17 09:01:03 '
+last_modified_at: '2026-06-17 09:01:03 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b_ai_agent_assi_681ebc-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_customer_s_03b76b_ai_agent_assi_681ebc-Illustration-1.webp

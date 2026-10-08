@@ -267,6 +267,7 @@ next_link:
   short_title: Paper safety
   heading_title: Why AI paperwork is not enough
 date: '2026-06-17 11:42:38 '
+last_modified_at: '2026-06-17 11:42:38 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c_model_card_bo_c00323-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_ai_documentat_b9c82c_model_card_bo_c00323-Illustration-1.webp

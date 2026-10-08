@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-16 07:56:04'
+last_modified_at: '2026-06-16 07:56:04'
 parent_title: Do AI Coding Tools Make Better Programmers?
 parent_permalink: /code-assistants/
 parent_nav_short_title: Code Assistants

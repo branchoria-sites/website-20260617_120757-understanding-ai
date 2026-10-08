@@ -261,6 +261,7 @@ prev_link:
   short_title: ROI Metrics
   heading_title: Which AI metrics actually prove value?
 date: '2026-06-17 07:12:39 '
+last_modified_at: '2026-06-17 07:12:39 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_workflow_rede_165690-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_pilot_roi_665a2d_workflow_rede_165690-Illustration-1.webp

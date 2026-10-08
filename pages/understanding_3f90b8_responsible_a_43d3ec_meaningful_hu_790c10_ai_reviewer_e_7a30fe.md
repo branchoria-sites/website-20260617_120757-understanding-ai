@@ -267,6 +267,7 @@ next_link:
   short_title: Override Power
   heading_title: Can the Human Really Say No?
 date: '2026-06-17 11:36:10 '
+last_modified_at: '2026-06-17 11:36:10 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_meaningful_hu_790c10_ai_reviewer_e_7a30fe-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_meaningful_hu_790c10_ai_reviewer_e_7a30fe-Illustration-1.webp

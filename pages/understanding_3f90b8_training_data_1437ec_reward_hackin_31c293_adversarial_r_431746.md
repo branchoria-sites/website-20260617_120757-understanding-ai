@@ -267,6 +267,7 @@ next_link:
   short_title: Sycophancy
   heading_title: When AI agrees instead of telling the truth
 date: '2026-06-17 11:46:04 '
+last_modified_at: '2026-06-17 11:46:04 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_reward_hackin_31c293_adversarial_r_431746-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_reward_hackin_31c293_adversarial_r_431746-Illustration-1.webp

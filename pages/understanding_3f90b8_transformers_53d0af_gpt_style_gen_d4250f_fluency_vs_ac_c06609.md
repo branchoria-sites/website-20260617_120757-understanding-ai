@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 18:30:38'
+last_modified_at: '2026-06-15 18:30:38'
 parent_title: Why can next token models do so much?
 parent_permalink: /gpt-generators/
 parent_nav_short_title: GPT generators

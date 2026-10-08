@@ -261,6 +261,7 @@ prev_link:
   short_title: Guessing
   heading_title: Why AI guesses instead of admitting uncertainty
 date: '2026-06-17 10:30:55 '
+last_modified_at: '2026-06-17 10:30:55 '
 header:
   og_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b_verify_fluent_be0600-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b_verify_fluent_be0600-Illustration-1.webp

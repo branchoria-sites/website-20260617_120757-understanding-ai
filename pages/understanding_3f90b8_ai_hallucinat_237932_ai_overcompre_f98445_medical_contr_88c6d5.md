@@ -261,6 +261,7 @@ next_link:
   short_title: Science Claims
   heading_title: Why AI Makes Studies Sound More Certain
 date: '2026-06-17 08:23:52 '
+last_modified_at: '2026-06-17 08:23:52 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445_medical_contr_88c6d5-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445_medical_contr_88c6d5-Illustration-1.webp

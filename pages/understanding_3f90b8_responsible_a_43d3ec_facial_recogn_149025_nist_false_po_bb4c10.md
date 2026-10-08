@@ -267,6 +267,7 @@ next_link:
   short_title: Williams case
   heading_title: When a Face Match Becomes an Arrest
 date: '2026-06-17 11:25:58 '
+last_modified_at: '2026-06-17 11:25:58 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025_nist_false_po_bb4c10-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025_nist_false_po_bb4c10-Illustration-1.webp

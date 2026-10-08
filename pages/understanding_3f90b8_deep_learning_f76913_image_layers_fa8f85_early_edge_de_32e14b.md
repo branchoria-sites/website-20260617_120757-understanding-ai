@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-15 22:52:59'
+last_modified_at: '2026-06-15 22:52:59'
 parent_title: How do image layers learn to see?
 parent_permalink: /image-layers/
 parent_nav_short_title: Image layers

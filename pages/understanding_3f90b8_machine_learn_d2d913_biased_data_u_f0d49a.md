@@ -280,6 +280,7 @@ next_link:
   short_title: Loss functions
   heading_title: How mistakes become a training signal
 date: '2026-06-17 06:10:51 '
+last_modified_at: '2026-06-17 06:10:51 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a-Illustration-1.webp

@@ -261,6 +261,7 @@ next_link:
   short_title: Anthropic tests
   heading_title: Do models change answers to agree?
 date: '2026-06-17 11:50:50 '
+last_modified_at: '2026-06-17 11:50:50 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54_agreement_bia_3aacbd-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54_agreement_bia_3aacbd-Illustration-1.webp

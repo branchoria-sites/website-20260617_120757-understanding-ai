@@ -280,6 +280,7 @@ prev_link:
   short_title: Tokenization
   heading_title: Why chatbots do not really read words
 date: '2026-06-17 06:05:57 '
+last_modified_at: '2026-06-17 06:05:57 '
 header:
   og_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124-Illustration-1.webp

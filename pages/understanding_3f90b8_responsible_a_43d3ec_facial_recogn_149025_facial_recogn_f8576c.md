@@ -261,6 +261,7 @@ next_link:
   short_title: NIST findings
   heading_title: Why False Matches Do Not Fall Evenly
 date: '2026-06-17 11:26:38 '
+last_modified_at: '2026-06-17 11:26:38 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025_facial_recogn_f8576c-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_facial_recogn_149025_facial_recogn_f8576c-Illustration-1.webp

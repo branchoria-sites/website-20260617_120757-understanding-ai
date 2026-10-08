@@ -286,6 +286,7 @@ next_link:
   short_title: Pilot ROI
   heading_title: Why AI pilots stall before ROI
 date: '2026-06-17 05:31:52 '
+last_modified_at: '2026-06-17 05:31:52 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_human_validat_3f7623-Illustration-1.webp

@@ -261,6 +261,7 @@ next_link:
   short_title: Mismatch
   heading_title: When the right topic is the wrong evidence
 date: '2026-06-17 08:32:06 '
+last_modified_at: '2026-06-17 08:32:06 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_citation_misa_430467-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a_citation_misa_430467-Illustration-1.webp

@@ -286,6 +286,7 @@ next_link:
   short_title: RAG errors
   heading_title: Why sourced AI answers can still mislead
 date: '2026-06-17 05:12:02 '
+last_modified_at: '2026-06-17 05:12:02 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_ai_overcompre_f98445-Illustration-1.webp

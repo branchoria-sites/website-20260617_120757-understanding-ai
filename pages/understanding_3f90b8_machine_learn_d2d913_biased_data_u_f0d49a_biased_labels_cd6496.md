@@ -261,6 +261,7 @@ next_link:
   short_title: Face bias
   heading_title: Why facial recognition errors are not evenly shared
 date: '2026-06-17 10:38:48 '
+last_modified_at: '2026-06-17 10:38:48 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a_biased_labels_cd6496-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_biased_data_u_f0d49a_biased_labels_cd6496-Illustration-1.webp

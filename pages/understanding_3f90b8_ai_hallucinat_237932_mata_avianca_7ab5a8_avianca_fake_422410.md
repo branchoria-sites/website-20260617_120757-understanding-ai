@@ -261,6 +261,7 @@ next_link:
   short_title: Sanctions
   heading_title: What the Avianca Sanctions Changed for Lawyers
 date: '2026-06-17 06:40:16 '
+last_modified_at: '2026-06-17 06:40:16 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_fake_422410-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8_avianca_fake_422410-Illustration-1.webp

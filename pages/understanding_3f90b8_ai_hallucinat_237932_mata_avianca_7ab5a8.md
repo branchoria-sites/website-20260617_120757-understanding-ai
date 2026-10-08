@@ -280,6 +280,7 @@ next_link:
   short_title: Benchmark gaps
   heading_title: What AI benchmarks miss about reliability
 date: '2026-06-17 04:50:44 '
+last_modified_at: '2026-06-17 04:50:44 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_mata_avianca_7ab5a8-Illustration-1.webp

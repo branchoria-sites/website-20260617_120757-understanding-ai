@@ -267,6 +267,7 @@ next_link:
   short_title: Parallel Scale
   heading_title: How parallel training unlocked bigger models
 date: '2026-06-17 10:38:29 '
+last_modified_at: '2026-06-17 10:38:29 '
 header:
   og_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124_translation_t_3a6c20-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124_translation_t_3a6c20-Illustration-1.webp

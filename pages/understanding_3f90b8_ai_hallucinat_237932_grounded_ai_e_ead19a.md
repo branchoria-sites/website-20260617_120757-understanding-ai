@@ -280,6 +280,7 @@ prev_link:
   short_title: Over compression
   heading_title: When a tidy AI answer hides the risk
 date: '2026-06-17 05:15:09 '
+last_modified_at: '2026-06-17 05:15:09 '
 header:
   og_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_ai_hallucinat_237932_grounded_ai_e_ead19a-Illustration-1.webp

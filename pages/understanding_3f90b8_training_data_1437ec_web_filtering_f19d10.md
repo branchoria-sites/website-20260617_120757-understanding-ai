@@ -280,6 +280,7 @@ prev_link:
   short_title: Sycophancy
   heading_title: Why AI sometimes tells you what you want
 date: '2026-06-17 06:38:03 '
+last_modified_at: '2026-06-17 06:38:03 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_web_filtering_f19d10-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_web_filtering_f19d10-Illustration-1.webp

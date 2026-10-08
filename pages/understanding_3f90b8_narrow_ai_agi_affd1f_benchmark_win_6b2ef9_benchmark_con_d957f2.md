@@ -267,6 +267,7 @@ next_link:
   short_title: Public scores
   heading_title: When a high benchmark score misleads
 date: '2026-06-17 11:04:35 '
+last_modified_at: '2026-06-17 11:04:35 '
 header:
   og_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9_benchmark_con_d957f2-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_benchmark_win_6b2ef9_benchmark_con_d957f2-Illustration-1.webp

@@ -286,6 +286,7 @@ next_link:
   short_title: Generation loop
   heading_title: How one token becomes a whole answer
 date: '2026-06-17 06:03:08 '
+last_modified_at: '2026-06-17 06:03:08 '
 header:
   og_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_fluent_answer_efc84b-Illustration-1.webp

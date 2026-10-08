@@ -325,6 +325,7 @@ next_link:
   short_title: Deep Learning
   heading_title: Why Layers Changed AI
 date: '2026-06-16 12:22:32 '
+last_modified_at: '2026-06-16 12:22:32 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3-overview-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3-overview.webp

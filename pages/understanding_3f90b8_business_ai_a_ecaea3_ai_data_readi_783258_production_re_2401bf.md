@@ -261,6 +261,7 @@ next_link:
   short_title: Source Truth
   heading_title: Who owns the truth AI uses?
 date: '2026-06-17 09:07:55 '
+last_modified_at: '2026-06-17 09:07:55 '
 header:
   og_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258_production_re_2401bf-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_business_ai_a_ecaea3_ai_data_readi_783258_production_re_2401bf-Illustration-1.webp

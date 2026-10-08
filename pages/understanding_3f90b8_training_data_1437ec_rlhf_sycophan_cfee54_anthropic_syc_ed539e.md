@@ -267,6 +267,7 @@ next_link:
   short_title: GPT 4 o case
   heading_title: What went wrong with GPT 4 o flattery
 date: '2026-06-17 11:55:01 '
+last_modified_at: '2026-06-17 11:55:01 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54_anthropic_syc_ed539e-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_rlhf_sycophan_cfee54_anthropic_syc_ed539e-Illustration-1.webp

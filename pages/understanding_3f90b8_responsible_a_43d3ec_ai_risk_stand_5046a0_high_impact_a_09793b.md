@@ -267,6 +267,7 @@ next_link:
   short_title: Management systems
   heading_title: Why AI Governance Cannot Stop at Launch
 date: '2026-06-17 11:23:48 '
+last_modified_at: '2026-06-17 11:23:48 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0_high_impact_a_09793b-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_ai_risk_stand_5046a0_high_impact_a_09793b-Illustration-1.webp

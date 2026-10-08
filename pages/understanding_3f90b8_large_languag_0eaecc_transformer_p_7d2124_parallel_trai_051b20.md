@@ -261,6 +261,7 @@ prev_link:
   short_title: From Translation
   heading_title: Why a translation model powered chatbots
 date: '2026-06-17 10:35:20 '
+last_modified_at: '2026-06-17 10:35:20 '
 header:
   og_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124_parallel_trai_051b20-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_large_languag_0eaecc_transformer_p_7d2124_parallel_trai_051b20-Illustration-1.webp

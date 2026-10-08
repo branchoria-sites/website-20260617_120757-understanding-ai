@@ -261,6 +261,7 @@ next_link:
   short_title: Cost Proxy
   heading_title: Why costs can misread medical need
 date: '2026-06-17 11:29:42 '
+last_modified_at: '2026-06-17 11:29:42 '
 header:
   og_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63_target_change_5f78ec-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_responsible_a_43d3ec_healthcare_sp_f9fe63_target_change_5f78ec-Illustration-1.webp

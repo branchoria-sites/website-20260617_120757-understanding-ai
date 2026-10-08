@@ -286,6 +286,7 @@ next_link:
   short_title: Overfitting
   heading_title: When a model memorises instead of learning
 date: '2026-06-17 06:12:15 '
+last_modified_at: '2026-06-17 06:12:15 '
 header:
   og_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_loss_function_b59239-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_machine_learn_d2d913_loss_function_b59239-Illustration-1.webp

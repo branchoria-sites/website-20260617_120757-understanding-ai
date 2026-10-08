@@ -267,6 +267,7 @@ next_link:
   short_title: Overconfidence
   heading_title: Why one chatbot forecast is not enough
 date: '2026-06-17 07:59:08 '
+last_modified_at: '2026-06-17 07:59:08 '
 header:
   og_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194_future_event_b9cbf0-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_narrow_ai_agi_affd1f_forecasting_u_25a194_future_event_b9cbf0-Illustration-1.webp

@@ -261,6 +261,7 @@ prev_link:
   short_title: Hidden Errors
   heading_title: How High Accuracy Hid Unequal AI Errors
 date: '2026-06-17 08:03:12 '
+last_modified_at: '2026-06-17 08:03:12 '
 header:
   og_image: /assets/images/understanding_3f90b8_training_data_1437ec_face_dataset_369d28_unbalanced_fa_95a5ff-Illustration-1-social.jpg
   preview_image: /assets/images/understanding_3f90b8_training_data_1437ec_face_dataset_369d28_unbalanced_fa_95a5ff-Illustration-1.webp
