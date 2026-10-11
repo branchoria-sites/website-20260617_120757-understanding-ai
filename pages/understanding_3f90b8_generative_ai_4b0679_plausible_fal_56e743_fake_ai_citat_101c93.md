@@ -18,7 +18,7 @@ keywords:
 - fake-citations
 affiliate_category: understanding
 show_ads: true
-description: The Mata v.
+description: "The Mata v (fake citations)."
 hero_summary: The Mata v.
 layout: default
 permalink: /fake-citations-c5bfea/
