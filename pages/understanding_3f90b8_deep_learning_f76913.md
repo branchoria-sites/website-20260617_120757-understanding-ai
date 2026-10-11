@@ -1028,7 +1028,6 @@ The best way to understand deep learning is therefore neither as magic nor as me
 49.<a id="endnote-49"></a>
    Source: cs.toronto.edu  
    Title: Nature Deep Review  
-   Link:https://cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf  
 
 50.<a id="endnote-50"></a>
    Source: research.google  

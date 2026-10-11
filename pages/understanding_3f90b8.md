@@ -1029,7 +1029,6 @@ The best understanding of AI is therefore neither wonder nor dismissal. It is di
 54.<a id="endnote-54"></a>
    Source: cs.toronto.edu  
    Title: Nature Deep Review  
-   Link:https://cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf  
 
 55.<a id="endnote-55"></a>
    Source: academia.edu  
