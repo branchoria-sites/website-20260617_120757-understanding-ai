@@ -22,7 +22,7 @@ keywords:
 - avianca-case
 affiliate_category: understanding
 show_ads: true
-description: The Mata v.
+description: "The Mata v (avianca case)."
 hero_summary: The Mata v.
 layout: default
 permalink: /avianca-case/
